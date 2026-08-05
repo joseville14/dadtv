@@ -9287,15 +9287,17 @@
   ]
  },
  {
-  "name": "FOX Sports",
+  "name": "Fox Sports",
   "cats": [
+   "argentina",
    "futbol"
   ],
-  "country": "",
+  "country": "ar",
   "group": "Futbol",
-  "logo": "https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",
-  "tvgId": "5a74b8e1e22a61737979c6bf",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
+  "tvgId": "FoxSports.ar",
   "urls": [
+   "http://200.115.120.1:8000/play/ca041/index.m3u8",
    "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
    "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
    "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8"
@@ -9311,7 +9313,8 @@
    "herberthe-o_all",
    "iptvorg-index",
    "pluto-us",
-   "roku"
+   "roku",
+   "musthave"
   ]
  },
  {
@@ -9397,16 +9400,17 @@
   ]
  },
  {
-  "name": "beIN SPORTS XTRA",
+  "name": "beIN Sports Extra",
   "cats": [
    "futbol",
    "usa"
   ],
-  "country": "us",
+  "country": "ar",
   "group": "Futbol",
   "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
-  "tvgId": "beINSPORTSXTRA.us",
+  "tvgId": "beINSportsXtra.us",
   "urls": [
+   "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
    "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
    "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
   ],
@@ -9422,7 +9426,8 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-sports",
-   "iptvorg-us"
+   "iptvorg-us",
+   "musthave"
   ]
  },
  {
@@ -10061,15 +10066,18 @@
   ]
  },
  {
-  "name": "espn 2",
+  "name": "ESPN 2",
   "cats": [
+   "argentina",
    "futbol"
   ],
-  "country": "united states",
+  "country": "ar",
   "group": "Futbol",
-  "logo": "https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png",
-  "tvgId": "",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+  "tvgId": "ESPN2.ar",
   "urls": [
+   "http://190.61.43.117:45000/play/a053",
+   "http://181.205.130.194:4000/play/a07i",
    "https://stream1.freetv.fun/329b6afa11b080deaf88429b5872ccc899dd1f76b1917696c23e70e5ca1a9ff1.m3u8"
   ],
   "w": 1280,
@@ -10077,10 +10085,11 @@
   "vcodec": "h264",
   "acodec": "mp2",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "freetv.fun",
   "srcs": [
-   "herberthe-all"
+   "herberthe-all",
+   "musthave"
   ]
  },
  {
@@ -10110,15 +10119,17 @@
   ]
  },
  {
-  "name": "espn 3",
+  "name": "ESPN 3",
   "cats": [
+   "argentina",
    "futbol"
   ],
-  "country": "united states",
+  "country": "ar",
   "group": "Futbol",
-  "logo": "https://epg.pw/media/uploads/tmp_logo/2016/05/12/20160512220011575873_25.png",
-  "tvgId": "",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+  "tvgId": "ESPN3.ar",
   "urls": [
+   "http://190.61.43.117:45000/play/a051",
    "https://stream1.freetv.fun/49953f9f3a3fe8aeebf6a2a608392a0f82b22fb8a56a759ceef45f69d3911059.m3u8"
   ],
   "w": 1920,
@@ -10126,10 +10137,11 @@
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "freetv.fun",
   "srcs": [
-   "herberthe-all"
+   "herberthe-all",
+   "musthave"
   ]
  },
  {
@@ -10159,15 +10171,18 @@
   ]
  },
  {
-  "name": "espn 4",
+  "name": "ESPN 4",
   "cats": [
+   "argentina",
    "futbol"
   ],
-  "country": "united states",
+  "country": "ar",
   "group": "Futbol",
-  "logo": "https://epg.pw/media/images/channel/2014/11/25/large/20141125170114178278_47.jpg",
-  "tvgId": "",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+  "tvgId": "ESPN4.ar",
   "urls": [
+   "http://179.51.136.19:8000/play/a1a5/index.m3u8",
+   "http://190.60.37.118:4000/play/a09j",
    "https://stream1.freetv.fun/90d1fe53600ece931ce2337a88dbaf88b8531872069196c3009b05302956a29b.m3u8"
   ],
   "w": 1920,
@@ -10175,10 +10190,11 @@
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "freetv.fun",
   "srcs": [
-   "herberthe-all"
+   "herberthe-all",
+   "musthave"
   ]
  },
  {
@@ -10816,14 +10832,15 @@
   ]
  },
  {
-  "name": "tnt sports",
+  "name": "TNT Sports",
   "cats": [
+   "argentina",
    "futbol"
   ],
-  "country": "united kingdom",
+  "country": "ar",
   "group": "Futbol",
-  "logo": "https://epg.pw/media/images/channel/2022/02/26/large/20220226170013137342_92.png",
-  "tvgId": "",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021.svg/960px-TNT_Sports_2021.svg.png",
+  "tvgId": "TNTSports.ar",
   "urls": [
    "https://stream1.freetv.fun/08bc500e42ac671fa06696abd4dc1d1936e63cc57051ede99e14660fe7417deb.ctv"
   ],
@@ -10832,10 +10849,11 @@
   "vcodec": "hevc",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "freetv.fun",
   "srcs": [
-   "herberthe-all"
+   "herberthe-all",
+   "musthave"
   ]
  },
  {
@@ -63677,7 +63695,8 @@
   "logo": "https://i.imgur.com/5ZNZYjO.png",
   "tvgId": "TyCSports.ar",
   "urls": [
-   "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+   "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+   "http://45.170.130.224:8000/play/a020/index.m3u8"
   ],
   "w": 0,
   "h": 720,
@@ -63827,6 +63846,127 @@
   "cdn": "",
   "srcs": [
    "musthave"
+  ]
+ },
+ {
+  "name": "Cronica TV",
+  "cats": [
+   "argentina",
+   "news"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png",
+  "tvgId": "CronicaTV.ar",
+  "urls": [
+   "https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "ESPN Extra",
+  "cats": [
+   "argentina",
+   "futbol"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+  "tvgId": "ESPNExtra.ar",
+  "urls": [
+   "http://190.61.43.117:45000/play/a01v"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "ESPN 7",
+  "cats": [
+   "argentina",
+   "futbol"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+  "tvgId": "ESPN7.ar",
+  "urls": [
+   "http://190.60.37.118:4000/play/a09j"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "Fox Sports 2",
+  "cats": [
+   "argentina",
+   "futbol"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
+  "tvgId": "FoxSports2.ar",
+  "urls": [
+   "http://190.61.43.117:45000/play/a01g"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "C5N",
+  "cats": [
+   "argentina",
+   "news"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png",
+  "tvgId": "C5N.ar",
+  "urls": [
+   "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785978587/ei/e4pzatiGOPv8-LAPou258Qc/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM8xpIxft7cX_8OvmtWYu6ssILG-ehdzW20G1L_mVhe9LVKKZho-E_NAyG6fEbvgnYtnwqMYIXV/spc/KBGBcuZAC3h09xUbOjVyrS9LNSa4Auic2Qi_-J_HKncX_JMJ3g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1981250/met/1785956988,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785956680/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNe703JqVYUlASK46vXFk5oqb_ea63dRzcHUNePX5S6YCICqsyXUvJ4Mx-L_ZERH83FJZ_9MV5TLzD4rYShh5aaIs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgLH4Z6ytIEoYIdWxEuc4zbQr7rwwJwE723ggdrDzzyzcCIBv6fmbV5oi7sgMPzdif3a7Em1wIqRYphCAVvUfKK0sA/playlist/index.m3u8",
+   "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785978584/ei/eIpzaqG4G62P-LAP_ovF-Q0/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhO7RvH7UB-n0kgtQseDb2oV0BcdzoKQLd5Dmb3YBtJmwyU_QzJY8b82oj1jqq1qm0Ww4y5Ff_QL/spc/KBGBcjMD14iXB9hRUr0752I7-9z93A2Ga-gckKm6xGNfuC53PA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1981250/met/1785956984,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785956680/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgS3xsg_uBvVDPKlgOvE59sTLKBGWqDNK1hy1eVctzQpgCIQCxMe_cTLz2W75Pl4-JXy_aPqSKkm9D01wF8LLlFenN0w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgRTc3pzTyryhAlp375xGUHu9Zsu43FQAhbKmIL-cjBBUCIHs-yhVGUN09zJFqxPyTueyldtPhwV-reGhAz42wP9pd/playlist/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "youtube",
+  "srcs": [
+   "youtube-refresh"
   ]
  }
 ]
