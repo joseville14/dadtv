@@ -4401,12 +4401,13 @@
  {
   "name": "Star Channel",
   "cats": [
+   "cine",
    "chile"
   ],
-  "country": "cl",
+  "country": "ar",
   "group": "Chile",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-  "tvgId": "StarChannel.cl",
+  "tvgId": "StarChannel.ar",
   "urls": [
    "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8"
   ],
@@ -4421,7 +4422,8 @@
    "dearbulut-cl",
    "herberthe-o_all",
    "iptvorg-cl",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -5722,19 +5724,19 @@
   ]
  },
  {
-  "name": "NET TV",
+  "name": "Net TV",
   "cats": [
    "argentina",
    "news"
   ],
   "country": "ar",
   "group": "Argentina",
-  "logo": "https://i.imgur.com/EWmshtx.png",
-  "tvgId": "NETTV.ar",
+  "logo": "https://i.imgur.com/8QZxQ8N.png",
+  "tvgId": "NetTV.ar",
   "urls": [
    "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
    "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
    "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
    "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8"
   ],
@@ -5743,7 +5745,7 @@
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 5,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "dps.live",
   "srcs": [
    "dearbulut-ar",
@@ -5752,7 +5754,8 @@
    "imdazui-foreign",
    "iptvorg-ar",
    "iptvorg-index",
-   "jsonteles-ar"
+   "jsonteles-ar",
+   "musthave"
   ]
  },
  {
@@ -6379,14 +6382,15 @@
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "telecentro.net.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index",
-   "iptvorg-news"
+   "iptvorg-news",
+   "musthave"
   ]
  },
  {
@@ -7522,7 +7526,8 @@
   "logo": "https://i.imgur.com/cJHP7bU.png",
   "tvgId": "ElNueve.ar",
   "urls": [
-   "http://15.204.246.24:8080/elnueveHD/index.m3u8"
+   "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+   "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -7532,7 +7537,8 @@
   "geo": "global",
   "cdn": "246.24",
   "srcs": [
-   "dearbulut-ar"
+   "dearbulut-ar",
+   "musthave"
   ]
  },
  {
@@ -7545,8 +7551,8 @@
   "logo": "https://i.imgur.com/TrgBAdA.png",
   "tvgId": "ElTrece.ar",
   "urls": [
-   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-   "http://15.204.246.24:8080/eltreceHD/index.m3u8"
+   "http://15.204.246.24:8080/eltreceHD/index.m3u8",
+   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -8369,6 +8375,7 @@
  {
   "name": "Sony Channel",
   "cats": [
+   "cine",
    "argentina"
   ],
   "country": "ar",
@@ -8389,7 +8396,8 @@
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -8506,6 +8514,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
   "tvgId": "Telefe.ar",
   "urls": [
+   "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
    "http://201.190.41.246:8822/play/a036/index.m3u8"
   ],
   "w": 544,
@@ -8614,13 +8623,14 @@
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "likely",
   "cdn": "telecentro.net.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -37211,11 +37221,12 @@
   ]
  },
  {
-  "name": "AMC Latin America",
+  "name": "AMC",
   "cats": [
+   "cine",
    "usa"
   ],
-  "country": "us",
+  "country": "ar",
   "group": "USA",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
   "tvgId": "AMCLatinAmerica.us",
@@ -37234,7 +37245,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-ar",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -37421,11 +37433,12 @@
   ]
  },
  {
-  "name": "Cinecanal South",
+  "name": "Cinecanal",
   "cats": [
+   "cine",
    "usa"
   ],
-  "country": "us",
+  "country": "ar",
   "group": "USA",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
   "tvgId": "Cinecanal.us",
@@ -37444,7 +37457,8 @@
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-cl",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -45792,13 +45806,15 @@
  {
   "name": "DHE",
   "cats": [
+   "cine",
    "usa"
   ],
-  "country": "us",
+  "country": "ar",
   "group": "USA",
   "logo": "https://i.imgur.com/nsttoEa.png",
-  "tvgId": "DHE.us",
+  "tvgId": "DHE.ar",
   "urls": [
+   "http://190.60.37.118:4000/play/a02d",
    "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8"
   ],
   "w": 1920,
@@ -45810,7 +45826,8 @@
   "cdn": "225.124",
   "srcs": [
    "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -63661,6 +63678,145 @@
   "tvgId": "TyCSports.ar",
   "urls": [
    "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "HBO Xtreme",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+  "tvgId": "HBOXtreme.ar",
+  "urls": [
+   "http://190.60.37.118:4000/play/a03z"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "HBO Family",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+  "tvgId": "HBOFamily.ar",
+  "urls": [
+   "http://181.205.130.194:4000/play/a0dr"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "Warner Channel",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "WarnerChannel.ar",
+  "urls": [
+   "http://190.60.37.118:4000/play/a04g",
+   "http://181.205.130.194:4000/play/a07f"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "TNT",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "TNT.ar",
+  "urls": [
+   "http://181.205.130.194:4000/play/a06n"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "Universal TV",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "UniversalTV.ar",
+  "urls": [
+   "http://181.205.130.194:4000/play/a06f"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "TCM",
+  "cats": [
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "TCM.ar",
+  "urls": [
+   "http://181.205.130.194:4000/play/a06l"
   ],
   "w": 0,
   "h": 720,
