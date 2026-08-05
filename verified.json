@@ -8951,18 +8951,18 @@
   "urls": [
    "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
    "https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8",
-   "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
-   "https://jmp2.uk/stvp-CABD1200008JG",
-   "https://jmp2.uk/stvp-USBD12000255B",
-   "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
-   "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-   "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8"
+   "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
+   "https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8",
+   "https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8",
+   "https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8",
+   "https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8",
+   "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8"
   ],
   "w": 1216,
   "h": 684,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 12,
+  "nstreams": 17,
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
@@ -8974,8 +8974,13 @@
    "iptvorg-sports",
    "iptvorg-us",
    "pluto-ar",
+   "pluto-br",
    "pluto-ca",
    "pluto-cl",
+   "pluto-es",
+   "pluto-fr",
+   "pluto-gb",
+   "pluto-it",
    "pluto-mx",
    "samsung-ca",
    "samsung-us"
@@ -9007,7 +9012,69 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "pluto-ar"
+   "pluto-ar",
+   "pluto-es"
+  ]
+ },
+ {
+  "name": "Strongman Champions",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
+  "tvgId": "647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403",
+  "urls": [
+   "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM",
+   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-644b13a3a1c0a5b2024c8403/?X-Plex-Token=qzkrnWuzdL-Fc8ysurW3",
+   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403/?X-Plex-Token=2PT-Jbr2jSm9PLNSWNm6",
+   "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-644b13a3a1c0a5b2024c8403/?X-Plex-Token=ZZPj5ey22QyUVQgrkCgS",
+   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-644b13a3a1c0a5b2024c8403/?X-Plex-Token=PrTkB3KGtKXxL3_3YdP3"
+  ],
+  "w": 640,
+  "h": 360,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 5,
+  "geo": "unproven",
+  "cdn": "plex.tv",
+  "srcs": [
+   "plex-ca",
+   "plex-es",
+   "plex-gb",
+   "plex-mx",
+   "plex-us"
+  ]
+ },
+ {
+  "name": "TOP BARÇA",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png",
+  "tvgId": "67a52c8397782f00081879aa",
+  "urls": [
+   "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8",
+   "https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8",
+   "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8",
+   "https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 4,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-ar",
+   "pluto-br",
+   "pluto-es",
+   "pluto-mx",
+   "roku"
   ]
  },
  {
@@ -9034,6 +9101,7 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
+   "pluto-gb",
    "pluto-us"
   ]
  },
@@ -9063,33 +9131,6 @@
    "iptvorg-index",
    "pluto-us",
    "roku"
-  ]
- },
- {
-  "name": "Strongman Champions",
-  "cats": [
-   "futbol"
-  ],
-  "country": "",
-  "group": "Futbol",
-  "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
-  "tvgId": "647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403",
-  "urls": [
-   "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM",
-   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-644b13a3a1c0a5b2024c8403/?X-Plex-Token=qzkrnWuzdL-Fc8ysurW3",
-   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403/?X-Plex-Token=2PT-Jbr2jSm9PLNSWNm6"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "unproven",
-  "cdn": "plex.tv",
-  "srcs": [
-   "plex-ca",
-   "plex-mx",
-   "plex-us"
   ]
  },
  {
@@ -9209,8 +9250,8 @@
   ],
   "country": "es",
   "group": "Futbol",
-  "logo": "https://i.imgur.com/5pMo7dL.png",
-  "tvgId": "RealMadridTV.es",
+  "logo": "https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",
+  "tvgId": "63dac28760bc8f0008a7654b",
   "urls": [
    "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
    "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
@@ -9226,7 +9267,8 @@
    "dearbulut-sports",
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-sports"
+   "iptvorg-sports",
+   "pluto-br"
   ]
  },
  {
@@ -9281,32 +9323,6 @@
    "dearbulut-sports",
    "iptvorg-index",
    "iptvorg-sports"
-  ]
- },
- {
-  "name": "Top Barça",
-  "cats": [
-   "futbol"
-  ],
-  "country": "",
-  "group": "Futbol",
-  "logo": "https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png",
-  "tvgId": "67a52c8397782f00081879aa",
-  "urls": [
-   "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8",
-   "https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "pluto-ar",
-   "pluto-mx",
-   "roku"
   ]
  },
  {
@@ -9452,10 +9468,10 @@
   "cats": [
    "futbol"
   ],
-  "country": "uk",
+  "country": "",
   "group": "Futbol",
-  "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
-  "tvgId": "DAZNCombat.uk",
+  "logo": "https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/colorLogoPNG_1772441714915.png",
+  "tvgId": "64d626ac9b414d000820e2fc",
   "urls": [
    "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
   ],
@@ -9470,7 +9486,8 @@
    "dearbulut-sports",
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-sports"
+   "iptvorg-sports",
+   "pluto-fr"
   ]
  },
  {
@@ -9750,6 +9767,30 @@
   ]
  },
  {
+  "name": "Fox Deportes",
+  "cats": [
+   "futbol",
+   "usa"
+  ],
+  "country": "us",
+  "group": "Futbol",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+  "tvgId": "FoxDeportes.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "104.106",
+  "srcs": [
+   "dearbulut-sports"
+  ]
+ },
+ {
   "name": "Fox Soccer Plus",
   "cats": [
    "futbol",
@@ -9830,6 +9871,35 @@
   ]
  },
  {
+  "name": "Golazo Network",
+  "cats": [
+   "futbol",
+   "usa"
+  ],
+  "country": "us",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
+  "tvgId": "63a0e33a45264d000850ed7e",
+  "urls": [
+   "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "iptvorg-us",
+   "pluto-us"
+  ]
+ },
+ {
   "name": "GolTV Latin America",
   "cats": [
    "futbol",
@@ -9883,6 +9953,88 @@
   ]
  },
  {
+  "name": "PFL MMA",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
+  "tvgId": "64f6180130ab3300083d896b",
+  "urls": [
+   "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-br"
+  ]
+ },
+ {
+  "name": "Pluto TV Deportes",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png",
+  "tvgId": "5dcde07af1c85b0009b18651",
+  "urls": [
+   "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-ar",
+   "pluto-mx"
+  ]
+ },
+ {
+  "name": "Pluto TV Esportes",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1782950090441.png",
+  "tvgId": "5f32d2db0af67400077f29c4",
+  "urls": [
+   "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-br"
+  ]
+ },
+ {
   "name": "Pluto TV Fútbol",
   "cats": [
    "futbol"
@@ -9906,6 +10058,32 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-sports",
+   "pluto-ar",
+   "pluto-mx"
+  ]
+ },
+ {
+  "name": "Pluto TV Peleas",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png",
+  "tvgId": "5e98b0447665f200078caded",
+  "urls": [
+   "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
    "pluto-ar",
    "pluto-mx"
   ]
@@ -10162,20 +10340,87 @@
   ]
  },
  {
+  "name": "CBS News 24/7",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png",
+  "tvgId": "6231ede1be5b460007f91bc1",
+  "urls": [
+   "https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8",
+   "https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8",
+   "https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8",
+   "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
+   "https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8",
+   "https://jmp2.uk/stvp-USBA370000104"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 6,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-es",
+   "pluto-fr",
+   "pluto-gb",
+   "pluto-it",
+   "pluto-us",
+   "samsung-us"
+  ]
+ },
+ {
+  "name": "Euronews",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png",
+  "tvgId": "5ca1da6c593a5d78f0e7edce",
+  "urls": [
+   "https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8",
+   "https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8",
+   "https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8",
+   "https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8",
+   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60089d90f682a3002c348299/?X-Plex-Token=qzkrnWuzdL-Fc8ysurW3",
+   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299/?X-Plex-Token=2PT-Jbr2jSm9PLNSWNm6"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 6,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "plex-mx",
+   "plex-us",
+   "pluto-fr",
+   "pluto-gb",
+   "pluto-it"
+  ]
+ },
+ {
   "name": "CNN Headlines International",
   "cats": [
    "news"
   ],
   "country": "",
   "group": "News",
-  "logo": "",
-  "tvgId": "",
+  "logo": "https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png",
+  "tvgId": "66c45c0de7f5e80008b82005",
   "urls": [
-   "https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8",
-   "https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8",
-   "https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8",
    "https://jmp2.uk/plu-66c45c0de7f5e80008b82005.m3u8",
-   "https://jmp2.uk/plu-66dff9d46ad04d0008fda4de.m3u8"
+   "https://jmp2.uk/plu-66dff9d46ad04d0008fda4de.m3u8",
+   "https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8",
+   "https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8",
+   "https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8"
   ],
   "w": 1216,
   "h": 684,
@@ -10186,7 +10431,11 @@
   "cdn": "jmp2.uk",
   "srcs": [
    "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-index",
+   "pluto-es",
+   "pluto-fr",
+   "pluto-gb",
+   "pluto-it"
   ]
  },
  {
@@ -10245,6 +10494,66 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
+  ]
+ },
+ {
+  "name": "Bloomberg TV+",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://i.imgur.com/OuogLHx.png",
+  "tvgId": "BloombergTV.us@Plus-Poland",
+  "urls": [
+   "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8",
+   "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
+   "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+   "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 4,
+  "geo": "global",
+  "cdn": "wurl.com",
+  "srcs": [
+   "iptvorg-index",
+   "pluto-ca",
+   "pluto-cl",
+   "pluto-gb",
+   "pluto-us"
+  ]
+ },
+ {
+  "name": "Euronews Español",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png",
+  "tvgId": "619d59b7cbef25000728221c",
+  "urls": [
+   "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+   "https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8",
+   "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM",
+   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60089d97f682a3002c34829d/?X-Plex-Token=PrTkB3KGtKXxL3_3YdP3"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 4,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "plex-ca",
+   "plex-gb",
+   "pluto-ar",
+   "pluto-mx",
+   "roku"
   ]
  },
  {
@@ -10424,6 +10733,35 @@
   ]
  },
  {
+  "name": "BBC Series",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png",
+  "tvgId": "60dafb9a0df1ba000758d37b",
+  "urls": [
+   "https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8",
+   "https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8",
+   "https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-es",
+   "pluto-fr",
+   "pluto-it"
+  ]
+ },
+ {
   "name": "Bloomberg Originals",
   "cats": [
    "news",
@@ -10449,34 +10787,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Bloomberg TV+",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://i.imgur.com/OuogLHx.png",
-  "tvgId": "BloombergTV.us@Plus-Poland",
-  "urls": [
-   "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8",
-   "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
-   "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "wurl.com",
-  "srcs": [
-   "iptvorg-index",
-   "pluto-ca",
-   "pluto-cl",
-   "pluto-us"
   ]
  },
  {
@@ -10517,8 +10827,8 @@
   ],
   "country": "us",
   "group": "News",
-  "logo": "https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png",
-  "tvgId": "62310d5a5dc9550007c6f580",
+  "logo": "https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG_1778002391431.png",
+  "tvgId": "62310f66d5888f0007534342",
   "urls": [
    "https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8",
    "https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8",
@@ -10536,6 +10846,7 @@
    "herberthe-o_all",
    "iptvorg-index",
    "pluto-ar",
+   "pluto-br",
    "pluto-mx"
   ]
  },
@@ -10593,62 +10904,6 @@
    "iptvorg-news",
    "iptvorg-us",
    "pluto-us",
-   "roku"
-  ]
- },
- {
-  "name": "Euronews",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",
-  "tvgId": "6a1610bebdf296985fd95603-60089d90f682a3002c348299",
-  "urls": [
-   "https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8",
-   "https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60089d90f682a3002c348299/?X-Plex-Token=qzkrnWuzdL-Fc8ysurW3",
-   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299/?X-Plex-Token=2PT-Jbr2jSm9PLNSWNm6"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "plex-mx",
-   "plex-us"
-  ]
- },
- {
-  "name": "Euronews Español",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png",
-  "tvgId": "619d59b7cbef25000728221c",
-  "urls": [
-   "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
-   "https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8",
-   "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "plex-ca",
-   "pluto-ar",
-   "pluto-mx",
    "roku"
   ]
  },
@@ -10927,31 +11182,6 @@
   ]
  },
  {
-  "name": "BBC Series",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "",
-  "tvgId": "",
-  "urls": [
-   "https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8",
-   "https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Belarus-24",
   "cats": [
    "news"
@@ -11059,31 +11289,6 @@
    "pluto-ca",
    "pluto-cl",
    "samsung-ca"
-  ]
- },
- {
-  "name": "CBS News 24/7",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png",
-  "tvgId": "5a6b92f6e22a617379789618",
-  "urls": [
-   "https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8",
-   "https://jmp2.uk/stvp-USBA370000104"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "pluto-us",
-   "samsung-us"
   ]
  },
  {
@@ -11390,10 +11595,10 @@
   "cats": [
    "news"
   ],
-  "country": "fr",
+  "country": "",
   "group": "News",
-  "logo": "https://i.imgur.com/8t9mdg9.png",
-  "tvgId": "EuronewsPortuguese.fr",
+  "logo": "https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png",
+  "tvgId": "619e6614c9d9650007a2b171",
   "urls": [
    "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8",
    "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-6245cd154f27f4e9c76d67e9/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM"
@@ -11409,7 +11614,8 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-news",
-   "plex-ca"
+   "plex-ca",
+   "pluto-br"
   ]
  },
  {
@@ -12653,6 +12859,29 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-news"
+  ]
+ },
+ {
+  "name": "Actualidad 360",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png",
+  "tvgId": "67517fae5534bb0008187997",
+  "urls": [
+   "https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-es"
   ]
  },
  {
@@ -14929,10 +15158,10 @@
   "cats": [
    "news"
   ],
-  "country": "br",
+  "country": "",
   "group": "News",
-  "logo": "https://i.imgur.com/pOUY2Uz.png",
-  "tvgId": "BMCNews.br",
+  "logo": "https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png",
+  "tvgId": "666c9c60a7efd40008f552f0",
   "urls": [
    "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   ],
@@ -14946,7 +15175,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-news"
+   "iptvorg-news",
+   "pluto-br"
   ]
  },
  {
@@ -17078,6 +17308,31 @@
   ]
  },
  {
+  "name": "CNNi",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG_1775663059595.png",
+  "tvgId": "66c45afaa72e7b0008a2b153",
+  "urls": [
+   "https://jmp2.uk/plu-66c45afaa72e7b0008a2b153.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-gb"
+  ]
+ },
+ {
   "name": "Conecta2TV",
   "cats": [
    "news"
@@ -18405,10 +18660,10 @@
   "cats": [
    "news"
   ],
-  "country": "fr",
+  "country": "",
   "group": "News",
-  "logo": "https://i.imgur.com/8t9mdg9.png",
-  "tvgId": "EuronewsSpanish.fr",
+  "logo": "https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png",
+  "tvgId": "60d3583ef310610007fb02b1",
   "urls": [
    "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8"
   ],
@@ -18422,7 +18677,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-news"
+   "iptvorg-news",
+   "pluto-es"
   ]
  },
  {
@@ -20450,6 +20706,31 @@
   ]
  },
  {
+  "name": "Il Sole24Ore TV",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/6971fc932c004063166ac8fd/colorLogoPNG_1773240969038.png",
+  "tvgId": "6971fc932c004063166ac8fd",
+  "urls": [
+   "https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-it"
+  ]
+ },
+ {
   "name": "Independent TV",
   "cats": [
    "news"
@@ -20895,6 +21176,29 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-news"
+  ]
+ },
+ {
+  "name": "Jovem Pan NEWS",
+  "cats": [
+   "news"
+  ],
+  "country": "",
+  "group": "News",
+  "logo": "https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png",
+  "tvgId": "6317ba014d4d040007227f72",
+  "urls": [
+   "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-br"
   ]
  },
  {
@@ -24685,13 +24989,12 @@
  {
   "name": "Pluto TV Record News",
   "cats": [
-   "news",
-   "usa"
+   "news"
   ],
-  "country": "us",
+  "country": "",
   "group": "News",
   "logo": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
-  "tvgId": "PlutoTVRecordNews.us",
+  "tvgId": "6102e04e9ab1db0007a980a1",
   "urls": [
    "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8"
   ],
@@ -24705,7 +25008,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-news"
+   "iptvorg-news",
+   "pluto-br"
   ]
  },
  {
@@ -27331,8 +27635,8 @@
   ],
   "country": "",
   "group": "News",
-  "logo": "",
-  "tvgId": "",
+  "logo": "https://images.pluto.tv/channels/679a973a97782f0008ff4bb6/colorLogoPNG.png",
+  "tvgId": "679a973a97782f0008ff4bb6",
   "urls": [
    "https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8"
   ],
@@ -27344,7 +27648,8 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "iptvorg-index"
+   "iptvorg-index",
+   "pluto-br"
   ]
  },
  {
@@ -36306,49 +36611,20 @@
   "urls": [
    "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8",
    "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
-   "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8",
    "https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8",
    "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8",
    "https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8",
    "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8",
-   "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+   "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8",
+   "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 10,
+  "nstreams": 9,
   "geo": "global",
   "cdn": "akamaized.net",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "FailArmy",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/VIpQJxL.png",
-  "tvgId": "FailArmy.us",
-  "urls": [
-   "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
-   "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
-   "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
-   "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
-   "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 5,
-  "geo": "global",
-  "cdn": "wurl.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -36384,27 +36660,27 @@
   ]
  },
  {
-  "name": "One Piece",
+  "name": "FailArmy",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png",
-  "tvgId": "OnePiece.us",
+  "logo": "https://i.imgur.com/VIpQJxL.png",
+  "tvgId": "FailArmy.us",
   "urls": [
-   "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8",
-   "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
-   "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
-   "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
+   "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
+   "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+   "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
+   "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 4,
   "geo": "global",
-  "cdn": "jmp2.uk",
+  "cdn": "wurl.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -36520,63 +36796,6 @@
   ]
  },
  {
-  "name": "MovieSphere",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/h1ejU90.png",
-  "tvgId": "MovieSphere.us",
-  "urls": [
-   "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
-   "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8",
-   "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "amagi.tv",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "yuechan-global"
-  ]
- },
- {
-  "name": "Naruto",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/M8X3Kvc.png",
-  "tvgId": "Naruto.us",
-  "urls": [
-   "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
-   "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
-   "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-ar",
-   "pluto-mx"
-  ]
- },
- {
   "name": "World Poker Tour",
   "cats": [
    "usa"
@@ -36631,59 +36850,6 @@
   ]
  },
  {
-  "name": "Adrenalina Pura TV",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png",
-  "tvgId": "61b793ccf571b80007b7a610",
-  "urls": [
-   "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
-   "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-ar",
-   "pluto-mx"
-  ]
- },
- {
-  "name": "Andromeda",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/6ot2lmd.png",
-  "tvgId": "Andromeda.us",
-  "urls": [
-   "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8",
-   "https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Baby Shark TV",
   "cats": [
    "usa"
@@ -36703,32 +36869,6 @@
   "nstreams": 2,
   "geo": "global",
   "cdn": "wurl.tv",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "BabyFirst",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/WxLHBwu.png",
-  "tvgId": "BabyFirst.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
-   "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -36759,32 +36899,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "BET Pluto TV",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
-  "tvgId": "5ca670f6593a5d78f0e85aed",
-  "urls": [
-   "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
-   "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
   ]
  },
  {
@@ -36867,33 +36981,6 @@
   ]
  },
  {
-  "name": "Comedy Central Pluto TV",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG_1785343315719.png",
-  "tvgId": "5ca671f215a62078d2ec0abf",
-  "urls": [
-   "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8",
-   "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
-  ]
- },
- {
   "name": "COPS",
   "cats": [
    "usa"
@@ -36917,58 +37004,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "CSI: Miami",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
-  "tvgId": "CSIMiami.us",
-  "urls": [
-   "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
-   "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
-  ]
- },
- {
-  "name": "Detective Conan",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512",
-  "tvgId": "DetectiveConan.us",
-  "urls": [
-   "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8",
-   "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -37229,17 +37264,44 @@
   ]
  },
  {
-  "name": "MTV Biggest Pop",
+  "name": "MovieSphere",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png",
-  "tvgId": "5d14fd1a252d35decbc4080c",
+  "logo": "https://i.imgur.com/h1ejU90.png",
+  "tvgId": "MovieSphere.us",
   "urls": [
-   "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8",
-   "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+   "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
+   "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "amagi.tv",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us",
+   "yuechan-global"
+  ]
+ },
+ {
+  "name": "Naruto",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/M8X3Kvc.png",
+  "tvgId": "Naruto.us",
+  "urls": [
+   "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+   "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8"
   ],
   "w": 1216,
   "h": 684,
@@ -37249,62 +37311,10 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us",
-   "pluto-us"
-  ]
- },
- {
-  "name": "MTV Classic",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-  "tvgId": "MTVClassic.us",
-  "urls": [
-   "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
-   "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "MTV Pluto TV",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",
-  "tvgId": "5ca672f515a62078d2ec0ad2",
-  "urls": [
-   "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8",
-   "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
+   "pluto-ar",
+   "pluto-mx"
   ]
  },
  {
@@ -37546,84 +37556,6 @@
   ]
  },
  {
-  "name": "Pluto TV Anime",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png",
-  "tvgId": "5812b7d3249444e05d09cc49",
-  "urls": [
-   "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
-   "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Novelas",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",
-  "tvgId": "5cf96c0222df39f1a338d163",
-  "urls": [
-   "https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8",
-   "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us",
-   "pluto-us"
-  ]
- },
- {
-  "name": "Pokémon",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/GEbRABE.png",
-  "tvgId": "PlutoTVPokemon.us",
-  "urls": [
-   "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
-   "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
   "name": "Rakuten VIKI",
   "cats": [
    "usa"
@@ -37854,30 +37786,6 @@
    "iptvorg-index",
    "iptvorg-sports",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Tastemade",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/FPy4zF4.png",
-  "tvgId": "TastemadeBrasil.us",
-  "urls": [
-   "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
-   "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
   ]
  },
  {
@@ -38622,30 +38530,6 @@
   "srcs": [
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "5 Cops",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/QFPRaXK.png",
-  "tvgId": "5Cops.us",
-  "urls": [
-   "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -39478,6 +39362,32 @@
   ]
  },
  {
+  "name": "Adrenalina Pura TV",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png",
+  "tvgId": "61b793ccf571b80007b7a610",
+  "urls": [
+   "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-ar",
+   "pluto-mx"
+  ]
+ },
+ {
   "name": "Adult Swim Latin America Brazil",
   "cats": [
    "usa"
@@ -39772,30 +39682,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Alerte à Malibu",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/hBiB6uk.png",
-  "tvgId": "AlerteaMalibu.us",
-  "urls": [
-   "https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -40250,30 +40136,6 @@
   ]
  },
  {
-  "name": "Ana y los 7",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/X5g6gXS.png",
-  "tvgId": "Anaylos7.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Antenna TV",
   "cats": [
    "usa"
@@ -40346,30 +40208,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Archivos Forenses",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/Pxrl9Ug.png",
-  "tvgId": "ArchivosForenses.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -40648,30 +40486,6 @@
   ]
  },
  {
-  "name": "Avatar: A lenda de Aang",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
-  "tvgId": "AvatarAlendadeAang.us",
-  "urls": [
-   "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "AWE",
   "cats": [
    "usa"
@@ -40790,6 +40604,30 @@
   "cdn": "tier1streams.com",
   "srcs": [
    "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us"
+  ]
+ },
+ {
+  "name": "BabyFirst",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/WxLHBwu.png",
+  "tvgId": "BabyFirst.us",
+  "urls": [
+   "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
+  ],
+  "w": 640,
+  "h": 360,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "jwp.services",
+  "srcs": [
    "iptvorg-index",
    "iptvorg-us"
   ]
@@ -41232,6 +41070,31 @@
   ]
  },
  {
+  "name": "BET Pluto TV",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+  "tvgId": "5ca670f6593a5d78f0e85aed",
+  "urls": [
+   "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
+  ]
+ },
+ {
   "name": "BET Soul",
   "cats": [
    "usa"
@@ -41482,30 +41345,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Beyond Belief: Fact or Fiction",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/3uXQg7Y.png",
-  "tvgId": "BeyondBeliefFactorFiction.us",
-  "urls": [
-   "https://jmp2.uk/plu-611f85396abc84000738417b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -41810,30 +41649,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Bob Esponja Calça Quadrada",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
-  "tvgId": "BobEsponjaCalcaQuadrada.us",
-  "urls": [
-   "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -42534,30 +42349,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Cazador de Homicidas",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/hy6FJLe.png",
-  "tvgId": "CazadordeHomicidas.us",
-  "urls": [
-   "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -44352,26 +44143,28 @@
   ]
  },
  {
-  "name": "Comedy Central South Park",
+  "name": "Comedy Central Pluto TV",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
-  "tvgId": "ComedyCentralSouthPark.us",
+  "logo": "https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG_1785343315719.png",
+  "tvgId": "5ca671f215a62078d2ec0abf",
   "urls": [
-   "https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8"
+   "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1216,
+  "h": 684,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "iptvorg-index"
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
   ]
  },
  {
@@ -44828,6 +44621,31 @@
   ]
  },
  {
+  "name": "CSI: Miami",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png",
+  "tvgId": "62f54c11b3af68000702c304",
+  "urls": [
+   "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
+  ]
+ },
+ {
   "name": "CSI: Miami en español",
   "cats": [
    "usa"
@@ -44953,30 +44771,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Curro Jiménez",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/e3biTY5.png",
-  "tvgId": "CurroJimenez.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -45431,30 +45225,6 @@
   ]
  },
  {
-  "name": "Detetives Médicos",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
-  "tvgId": "DetetivesMedicos.us",
-  "urls": [
-   "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Detroit Channel 10",
   "cats": [
    "usa"
@@ -45573,30 +45343,6 @@
   "nstreams": 1,
   "geo": "global",
   "cdn": "225.124",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Diff’rent Strokes Arnold",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/jkmouY3.png",
-  "tvgId": "DiffrentStrokesArnold.us",
-  "urls": [
-   "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
-  ],
-  "w": 768,
-  "h": 432,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index"
@@ -45800,30 +45546,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Dossiers FBI",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/8Zx6dA7.png",
-  "tvgId": "DossiersFBI.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -46102,62 +45824,14 @@
   ]
  },
  {
-  "name": "El Comisario",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/XYt8utn.png",
-  "tvgId": "ElComisario.us",
-  "urls": [
-   "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "El encantador de perros",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/hYqjQ1n.png",
-  "tvgId": "Elencantadordeperros.us",
-  "urls": [
-   "https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "El Reino Infantil",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/u7DOoBK.png",
-  "tvgId": "PlutoTVElReinoInfantil.us",
+  "logo": "https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png",
+  "tvgId": "6523f672a6c38300088cb807",
   "urls": [
    "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
   ],
@@ -46171,7 +45845,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
+   "iptvorg-us",
+   "pluto-es"
   ]
  },
  {
@@ -46222,54 +45897,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Empeños a lo bestia",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/EOttSdW.png",
-  "tvgId": "Empenosalobestia.us",
-  "urls": [
-   "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "En el punto de mira",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/E9grXd9.png",
-  "tvgId": "Enelpuntodemira.us",
-  "urls": [
-   "https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -46606,30 +46233,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Filmes Suspense",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
-  "tvgId": "FilmesSuspense.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -47061,29 +46664,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Fox Deportes",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-  "tvgId": "FoxDeportes.us",
-  "urls": [
-   "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "104.106",
-  "srcs": [
-   "dearbulut-sports"
   ]
  },
  {
@@ -47918,8 +47498,8 @@
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/hCcdrOv.png",
-  "tvgId": "GirlfriendsFilms.us",
+  "logo": "https://images.pluto.tv/channels/66ba1e4446762a000855cd87/colorLogoPNG.png",
+  "tvgId": "66ba1e4446762a000855cd87",
   "urls": [
    "https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8"
   ],
@@ -47933,7 +47513,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
+   "iptvorg-us",
+   "pluto-gb"
   ]
  },
  {
@@ -48135,34 +47716,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Golazo Network",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
-  "tvgId": "63a0e33a45264d000850ed7e",
-  "urls": [
-   "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "iptvorg-us",
-   "pluto-us"
   ]
  },
  {
@@ -49219,30 +48772,6 @@
   ]
  },
  {
-  "name": "Hélène et les garçons",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/EjjzjF9.png",
-  "tvgId": "Heleneetlesgarcons.us",
-  "urls": [
-   "https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "I Love Lucy",
   "cats": [
    "usa"
@@ -49366,30 +48895,6 @@
   ]
  },
  {
-  "name": "Il Banco dei Pugni",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/NZDUlME.png",
-  "tvgId": "IlBancodeiPugni.us",
-  "urls": [
-   "https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Impact Network",
   "cats": [
    "usa"
@@ -49462,30 +48967,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Inazuma Eleven",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/pLv0T3D.png",
-  "tvgId": "InazumaEleven.us",
-  "urls": [
-   "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -49569,8 +49050,8 @@
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/PMpwaQN.png",
-  "tvgId": "InstantSaga.us",
+  "logo": "https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",
+  "tvgId": "60549e98061b5f000776866a",
   "urls": [
    "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8"
   ],
@@ -49584,7 +49065,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
+   "iptvorg-us",
+   "pluto-fr"
   ]
  },
  {
@@ -49815,78 +49297,6 @@
   ]
  },
  {
-  "name": "Jornada nas Estrelas A Nova Geração",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
-  "tvgId": "JornadanasEstrelasANovaGeracao.us",
-  "urls": [
-   "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Jornada nas Estrelas Deep Space Nine",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
-  "tvgId": "JornadanasEstrelasDeepSpaceNine.us",
-  "urls": [
-   "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Jornada nas Estrelas Voyager",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
-  "tvgId": "JornadanasEstrelasVoyager.us",
-  "urls": [
-   "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Justice Central TV",
   "cats": [
    "usa"
@@ -50085,30 +49495,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Kenan & Kel",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
-  "tvgId": "KenanKel.us",
-  "urls": [
-   "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -50638,54 +50024,6 @@
   ]
  },
  {
-  "name": "Le miracle de l'amour",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/3Xz4hjD.png",
-  "tvgId": "Lemiracledelamour.us",
-  "urls": [
-   "https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Le sorelle McLeod",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/OkGiH9a.png",
-  "tvgId": "LesorelleMcLeod.us",
-  "urls": [
-   "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "LEGO Kids TV",
   "cats": [
    "usa"
@@ -50784,78 +50122,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Les Années fac",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/M1OjaB0.png",
-  "tvgId": "LesAnneesfac.us",
-  "urls": [
-   "https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Les filles d'à côté",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/dxipSaQ.png",
-  "tvgId": "Lesfillesdacote.us",
-  "urls": [
-   "https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Les Nouveaux Detectives",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/ego8ozn.png",
-  "tvgId": "LesNouveauxDetectives.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -51659,62 +50925,14 @@
   ]
  },
  {
-  "name": "Los archivos del FBI",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/eDCdJO2.png",
-  "tvgId": "LosarchivosdelFBI.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Los Asesinatos de Midsomer",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/JIbupT1.png",
-  "tvgId": "LosAsesinatosdeMidsomer.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Los nuevos detectives",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/Iru8tqj.png",
-  "tvgId": "PlutoTVLosnuevosdetectives.us",
+  "logo": "https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png",
+  "tvgId": "5f1acba0d1f6340007db8843",
   "urls": [
    "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
   ],
@@ -51728,31 +50946,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "Louis La Brocante",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/I1w7rFb.png",
-  "tvgId": "LouisLaBrocante.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-us",
+   "pluto-es"
   ]
  },
  {
@@ -51804,29 +50999,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "MacGyver",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
-  "tvgId": "MacGyver.us",
-  "urls": [
-   "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
   ]
  },
  {
@@ -52003,30 +51175,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "MasterChef",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/lOuySbz.png",
-  "tvgId": "MasterChef.us",
-  "urls": [
-   "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -52301,30 +51449,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Mi Extraña Obsesión",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/VtxO6KI.png",
-  "tvgId": "MiExtranaObsesion.us",
-  "urls": [
-   "https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -53064,87 +52188,16 @@
   ]
  },
  {
-  "name": "MTV Are you the One?",
+  "name": "MTV Biggest Pop",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
-  "tvgId": "MTVAreyoutheOne.us",
+  "logo": "https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png",
+  "tvgId": "5d14fd1a252d35decbc4080c",
   "urls": [
-   "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Catfish",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
-  "tvgId": "MTVCatfish.us",
-  "urls": [
-   "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Com o Ex",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
-  "tvgId": "MTVComoEx.us",
-  "urls": [
-   "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Dating",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
-  "tvgId": "MTVDating.us",
-  "urls": [
-   "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+   "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
   ],
   "w": 1216,
   "h": 684,
@@ -53154,7 +52207,34 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "iptvorg-index"
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
+  ]
+ },
+ {
+  "name": "MTV Classic",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+  "tvgId": "MTVClassic.us",
+  "urls": [
+   "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
+  ],
+  "w": 720,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "24.53",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us"
   ]
  },
  {
@@ -53209,30 +52289,6 @@
   ]
  },
  {
-  "name": "MTV Jovens e Mães",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
-  "tvgId": "MTVJovenseMaes.us",
-  "urls": [
-   "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "MTV Latin America",
   "cats": [
    "usa"
@@ -53284,39 +52340,16 @@
   ]
  },
  {
-  "name": "MTV Reality",
+  "name": "MTV Pluto TV",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
-  "tvgId": "MTVReality.us",
+  "logo": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",
+  "tvgId": "5ca672f515a62078d2ec0ad2",
   "urls": [
-   "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Rocks",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
-  "tvgId": "MTVRocks.us",
-  "urls": [
-   "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
+   "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8"
   ],
   "w": 854,
   "h": 480,
@@ -53326,56 +52359,9 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Rupaul's Drag Race",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
-  "tvgId": "MTVDrag.us",
-  "urls": [
-   "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "MTV Shore",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
-  "tvgId": "MTVShore.us",
-  "urls": [
-   "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
   ]
  },
  {
@@ -53601,30 +52587,6 @@
    "iptvorg-index",
    "iptvorg-news",
    "jsonteles-us"
-  ]
- },
- {
-  "name": "Naruto Shippuden",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
-  "tvgId": "NarutoShippuden.us",
-  "urls": [
-   "https://jmp2.uk/plu-64c92f965580090008084968.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -54254,29 +53216,6 @@
   ]
  },
  {
-  "name": "NCIS",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
-  "tvgId": "NCIS.us",
-  "urls": [
-   "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
   "name": "NESN",
   "cats": [
    "usa"
@@ -54397,29 +53336,6 @@
   ]
  },
  {
-  "name": "Nick Jr. Club",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
-  "tvgId": "NickJrClub.us",
-  "urls": [
-   "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Nick Jr. Pluto TV",
   "cats": [
    "usa"
@@ -54469,30 +53385,6 @@
   ]
  },
  {
-  "name": "Nickelodeon Clássico",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
-  "tvgId": "NickelodeonClassico.us",
-  "urls": [
-   "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Nickelodeon en español",
   "cats": [
    "usa"
@@ -54519,30 +53411,6 @@
   ]
  },
  {
-  "name": "Nickelodeon iCarly",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
-  "tvgId": "iCarly.us",
-  "urls": [
-   "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Nickelodeon Pluto TV",
   "cats": [
    "usa"
@@ -54566,52 +53434,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Nickelodeon Teen",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
-  "tvgId": "NickelodeonTeen.us",
-  "urls": [
-   "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Nickelodeon Toons",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
-  "tvgId": "NickelodeonToons.us",
-  "urls": [
-   "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
   ]
  },
  {
@@ -54662,30 +53484,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Nosey",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/i5doCQK.png",
-  "tvgId": "Nosey.us",
-  "urls": [
-   "https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -54787,77 +53585,6 @@
   ]
  },
  {
-  "name": "Numbers",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
-  "tvgId": "Numbers.us",
-  "urls": [
-   "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "O Encantador de Cães",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/sQn6vvh.png",
-  "tvgId": "OEncantadordeCaes.us",
-  "urls": [
-   "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "O Reino Infantil",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/qoVxc13.png",
-  "tvgId": "OReinoInfantil.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Oceanside Community Television (KOCT) Community Channel 18",
   "cats": [
    "usa"
@@ -54930,30 +53657,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Oggy e as Baratas Tontas",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
-  "tvgId": "OggyeasBaratasTontas.us",
-  "urls": [
-   "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -55103,6 +53806,31 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index"
+  ]
+ },
+ {
+  "name": "One Piece",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1783322322648.png",
+  "tvgId": "69affcad8940750a23a7231a",
+  "urls": [
+   "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-it"
   ]
  },
  {
@@ -55509,30 +54237,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Paranormal State",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/NmxhvAE.png",
-  "tvgId": "ParanormalState.us",
-  "urls": [
-   "https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -56040,32 +54744,6 @@
   ]
  },
  {
-  "name": "PFL MMA",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
-  "tvgId": "PFLMMA.us",
-  "urls": [
-   "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports"
-  ]
- },
- {
   "name": "PhillyCAM",
   "cats": [
    "usa"
@@ -56291,16 +54969,16 @@
   ]
  },
  {
-  "name": "Pluto TV Aliens",
+  "name": "Pluto TV Anime",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
-  "tvgId": "PlutoTVAliens.us",
+  "logo": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png",
+  "tvgId": "5812b7d3249444e05d09cc49",
   "urls": [
-   "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
+   "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8"
   ],
   "w": 854,
   "h": 480,
@@ -56310,56 +54988,9 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Animais",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
-  "tvgId": "PlutoTVAnimais.us",
-  "urls": [
-   "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Anime Ação",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
-  "tvgId": "PlutoTVAnimeAcao.us",
-  "urls": [
-   "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
   ]
  },
  {
@@ -56415,54 +55046,6 @@
   ]
  },
  {
-  "name": "Pluto TV Bang Bang",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png",
-  "tvgId": "PlutoTVBangBang.us",
-  "urls": [
-   "https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Canal UOL",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
-  "tvgId": "PlutoTVCanalUOL.us",
-  "urls": [
-   "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Cars",
   "cats": [
    "usa"
@@ -56485,245 +55068,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Cine Clássicos",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png",
-  "tvgId": "PlutoTVCineClassicos.us",
-  "urls": [
-   "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Comédia",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png",
-  "tvgId": "PlutoTVCineComedia.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Comédia Romântica",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
-  "tvgId": "PlutoTVCineComediaRomantica.us",
-  "urls": [
-   "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Crime",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
-  "tvgId": "PlutoTVCineCrime.us",
-  "urls": [
-   "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Drama",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
-  "tvgId": "PlutoTVCineDrama.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Família",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png",
-  "tvgId": "PlutoTVCineFamilia.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Inspiração",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
-  "tvgId": "PlutoTVCineInspiracao.us",
-  "urls": [
-   "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Romance",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png",
-  "tvgId": "PlutoTVCineRomance.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Sucessos",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
-  "tvgId": "PlutoTVCineSucessos.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Cine Terror",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
-  "tvgId": "CineTerror.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -56777,30 +55121,6 @@
    "iptvorg-sports",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Cozinha",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
-  "tvgId": "PlutoTVCozinha.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -56880,30 +55200,6 @@
   ]
  },
  {
-  "name": "Pluto TV Desenhos Clássicos",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png",
-  "tvgId": "PlutoTVDesenhosClassicos.us",
-  "urls": [
-   "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Drama",
   "cats": [
    "usa"
@@ -56926,32 +55222,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Esportes",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-  "tvgId": "PlutoTVEsportes.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports"
   ]
  },
  {
@@ -56978,126 +55248,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Ficção Científica",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
-  "tvgId": "PlutoTVFiccaoCientifica.us",
-  "urls": [
-   "https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Filmes Aventura",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
-  "tvgId": "PlutoTVFilmesAventura.us",
-  "urls": [
-   "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Filmes Ação",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",
-  "tvgId": "PlutoTVFilmesAcao.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Filmes de Luta",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
-  "tvgId": "PlutoTVFilmesdeLuta.us",
-  "urls": [
-   "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Filmes Nacionais",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png",
-  "tvgId": "PlutoTVFilmesNacionais.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -57178,30 +55328,6 @@
   ]
  },
  {
-  "name": "Pluto TV História",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png",
-  "tvgId": "PlutoTVHistoria.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Hometown Drama",
   "cats": [
    "usa"
@@ -57279,147 +55405,6 @@
   ]
  },
  {
-  "name": "Pluto TV Investigação",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/JlQq0YJ.png",
-  "tvgId": "PlutoTVInvestigacao.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Junior",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
-  "tvgId": "PlutoTVJunior.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Karaokê por Stingray",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
-  "tvgId": "PlutoTVKaraokeporStingray.us",
-  "urls": [
-   "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV KFOOD",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
-  "tvgId": "PlutoTVKFOOD.us",
-  "urls": [
-   "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Kids",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
-  "tvgId": "PlutoTVKids.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Kids Club",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
-  "tvgId": "PlutoTVKidsClub.us",
-  "urls": [
-   "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Lives",
   "cats": [
    "usa"
@@ -57472,40 +55457,16 @@
   ]
  },
  {
-  "name": "Pluto TV Minha Obsessão Favorita",
+  "name": "Pluto TV Novelas",
   "cats": [
    "usa"
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
-  "tvgId": "PlutoTVMinhaObsessaoFavorita.us",
+  "logo": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",
+  "tvgId": "5cf96c0222df39f1a338d163",
   "urls": [
-   "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Mistérios",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
-  "tvgId": "PlutoTVMisterios.us",
-  "urls": [
-   "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8"
+   "https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8"
   ],
   "w": 1216,
   "h": 684,
@@ -57515,104 +55476,9 @@
   "geo": "global",
   "cdn": "jmp2.uk",
   "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Natureza",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",
-  "tvgId": "PlutoTVNatureza.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Negócio Fechado",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
-  "tvgId": "PlutoTVNegocioFechado.us",
-  "urls": [
-   "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Netmovies",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
-  "tvgId": "PlutoTVNetmovies.us",
-  "urls": [
-   "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Paisagens por Stingray",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png",
-  "tvgId": "PlutoTVPaisagensporStingray.us",
-  "urls": [
-   "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-us"
   ]
  },
  {
@@ -57638,30 +55504,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Policial",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
-  "tvgId": "PlutoTVPolicial.us",
-  "urls": [
-   "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -57713,30 +55555,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Retrô",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/wztO3GM.png",
-  "tvgId": "PlutoTVRetro.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -57815,30 +55633,6 @@
   ]
  },
  {
-  "name": "Pluto TV Shows por Stingray",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
-  "tvgId": "PlutoTVShowsporStingray.us",
-  "urls": [
-   "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Spotlight",
   "cats": [
    "usa"
@@ -57891,173 +55685,6 @@
   ]
  },
  {
-  "name": "Pluto TV Star Trek",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
-  "tvgId": "StarTrek.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Ação",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
-  "tvgId": "PlutoTVSeriesAcao.us",
-  "urls": [
-   "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Comédia",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png",
-  "tvgId": "PlutoTVSeriesComedia.us",
-  "urls": [
-   "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Criminais",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
-  "tvgId": "PlutoTVSeriesCriminais.us",
-  "urls": [
-   "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Drama",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
-  "tvgId": "PlutoTVSeriesDrama.us",
-  "urls": [
-   "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Novelescas",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
-  "tvgId": "PlutoTVSeriesNovelescas.us",
-  "urls": [
-   "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Séries Sci-Fi",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
-  "tvgId": "PlutoTVSeriesSciFi.us",
-  "urls": [
-   "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Terror",
   "cats": [
    "usa"
@@ -58081,30 +55708,6 @@
    "iptvorg-index",
    "iptvorg-us",
    "pluto-us"
-  ]
- },
- {
-  "name": "Pluto TV Terror Trash",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
-  "tvgId": "PlutoTVTerrorTrash.us",
-  "urls": [
-   "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -58184,78 +55787,6 @@
   ]
  },
  {
-  "name": "Pluto TV Turbo",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
-  "tvgId": "PlutoTVTurbo.us",
-  "urls": [
-   "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Viagens",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
-  "tvgId": "PlutoTVViagens.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Pluto TV Vida Real",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
-  "tvgId": "PlutoTVVidaReal.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Pluto TV Westerns",
   "cats": [
    "usa"
@@ -58303,6 +55834,31 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
+  ]
+ },
+ {
+  "name": "Pokémon",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/colorLogoPNG_1752174174089.png",
+  "tvgId": "687007a8ee4155e89a8f6d67",
+  "urls": [
+   "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us",
+   "pluto-br"
   ]
  },
  {
@@ -58453,30 +56009,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Pronto-socorro: Histórias De Emergência",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/0PkyJ3U.png",
-  "tvgId": "ProntosocorroHistoriasDeEmergencia.us",
-  "urls": [
-   "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -59234,8 +56766,8 @@
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/2USCMvP.png",
-  "tvgId": "Runtime.us",
+  "logo": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",
+  "tvgId": "6086d3f420fc8500075f8dbf",
   "urls": [
    "https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8"
   ],
@@ -59249,7 +56781,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
+   "iptvorg-us",
+   "pluto-es"
   ]
  },
  {
@@ -59409,8 +56942,8 @@
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://i.imgur.com/Fu2jn2t.png",
-  "tvgId": "PlutoTVSanctuary.us",
+  "logo": "https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",
+  "tvgId": "63eb57d6c111bc0008fe2658",
   "urls": [
    "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8"
   ],
@@ -59424,7 +56957,8 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
+   "iptvorg-us",
+   "pluto-it"
   ]
  },
  {
@@ -59773,30 +57307,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Sensing Murder",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/HYEABSt.png",
-  "tvgId": "SensingMurder.us",
-  "urls": [
-   "https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -60179,30 +57689,6 @@
   ]
  },
  {
-  "name": "Smithsonian Channel Pluto TV",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
-  "tvgId": "SmithsonianChannelPlutoTV.us",
-  "urls": [
-   "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Smithsonian Channel Selects",
   "cats": [
    "usa"
@@ -60349,102 +57835,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "South Park: Coleção Cartman",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",
-  "tvgId": "SouthParkColecaoCartman.us",
-  "urls": [
-   "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "South Park: Coleção Kenny",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
-  "tvgId": "SouthParkColecaoKenny.us",
-  "urls": [
-   "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "South Park: Coleção Kyle",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
-  "tvgId": "SouthParkColecaoKyle.us",
-  "urls": [
-   "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "South Park: Coleção Stan",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",
-  "tvgId": "SouthParkColecaoStan.us",
-  "urls": [
-   "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -61075,78 +58465,6 @@
   ]
  },
  {
-  "name": "Super! iCarly",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/IWcQfF2.png",
-  "tvgId": "SuperiCarly.us",
-  "urls": [
-   "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Super! Pop",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/2FfREQE.png",
-  "tvgId": "SuperPop.us",
-  "urls": [
-   "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Super! SpongeBob",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/65wxNn4.png",
-  "tvgId": "SuperSpongeBob.us",
-  "urls": [
-   "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Supernatural Drama",
   "cats": [
    "usa"
@@ -61220,6 +58538,29 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
+  ]
+ },
+ {
+  "name": "Tastemade",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/xP7Ehn8.png",
+  "tvgId": "Tastemade.us",
+  "urls": [
+   "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
+  ],
+  "w": 768,
+  "h": 432,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "amagi.tv",
+  "srcs": [
+   "iptvorg-index"
   ]
  },
  {
@@ -62529,30 +59870,6 @@
   ]
  },
  {
-  "name": "Tokusato",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/tWpjXtl.png",
-  "tvgId": "Tokusato.us",
-  "urls": [
-   "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Toon Goggles Junior",
   "cats": [
    "usa"
@@ -62777,30 +60094,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Turma da Mônica",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/nrvPPrW.png",
-  "tvgId": "TurmadaMonica.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -63915,30 +61208,6 @@
   ]
  },
  {
-  "name": "Unidad de investigación",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/tc3zenG.png",
-  "tvgId": "Unidaddeinvestigacion.us",
-  "urls": [
-   "https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Unidentified",
   "cats": [
    "usa"
@@ -63988,30 +61257,6 @@
   ]
  },
  {
-  "name": "Unsolved Mysteries",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/De3khrX.png",
-  "tvgId": "UnsolvedMysteries.us",
-  "urls": [
-   "https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Up TV",
   "cats": [
    "usa"
@@ -64034,30 +61279,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Vaya semanita",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/0bCLNUG.png",
-  "tvgId": "Vayasemanita.us",
-  "urls": [
-   "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -64968,30 +62189,6 @@
   ]
  },
  {
-  "name": "Wild at Heart",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/kyVB8Ik.png",
-  "tvgId": "WildatHeart.us",
-  "urls": [
-   "https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Window TV",
   "cats": [
    "usa"
@@ -65620,30 +62817,6 @@
   ]
  },
  {
-  "name": "Y'a que la vérité qui compte",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/MDHN2Vc.png",
-  "tvgId": "Yaquelaveritequicompte.us",
-  "urls": [
-   "https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Yahoo! Finance",
   "cats": [
    "usa"
@@ -65842,30 +63015,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
- },
- {
-  "name": "Z Nation",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
-  "tvgId": "ZNation.us",
-  "urls": [
-   "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
