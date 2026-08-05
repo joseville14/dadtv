@@ -1,5 +1,35 @@
 [
  {
+  "name": "TVN",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
+  "tvgId": "TVN.cl",
+  "urls": [
+   "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+   "http://15.204.246.24:8080/TVNHD/index.m3u8",
+   "http://45.162.193.35/TVN/index.m3u8"
+  ],
+  "w": 640,
+  "h": 360,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
+  "geo": "global",
+  "cdn": "mdstrm.com",
+  "srcs": [
+   "dearbulut-cl",
+   "herberthe-o_all",
+   "iptvorg-cl",
+   "iptvorg-index",
+   "jsonteles-cl",
+   "verified-manual"
+  ]
+ },
+ {
   "name": "EPA! TV",
   "cats": [
    "chile"
@@ -52,6 +82,32 @@
    "iptvorg-cl",
    "iptvorg-index",
    "jsonteles-cl"
+  ]
+ },
+ {
+  "name": "Mega",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg",
+  "tvgId": "Mega.cl",
+  "urls": [
+   "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+   "http://15.204.246.24:8080/MEGAHD/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "dps.live",
+  "srcs": [
+   "dearbulut-cl",
+   "jsonteles-cl",
+   "verified-manual"
   ]
  },
  {
@@ -194,33 +250,6 @@
   ]
  },
  {
-  "name": "TVN",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/3FKZHL4.png",
-  "tvgId": "TVN.cl",
-  "urls": [
-   "http://15.204.246.24:8080/TVNHD/index.m3u8",
-   "http://45.162.193.35/TVN/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "246.24",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "VTV Valle de Aconcagua",
   "cats": [
    "chile"
@@ -249,6 +278,30 @@
   ]
  },
  {
+  "name": "13 Deportes",
+  "cats": [
+   "chile",
+   "futbol"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "",
+  "tvgId": "13Deportes.cl",
+  "urls": [
+   "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "dpsgo.com",
+  "srcs": [
+   "verified-manual"
+  ]
+ },
+ {
   "name": "13 Festival",
   "cats": [
    "chile"
@@ -272,6 +325,29 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index"
+  ]
+ },
+ {
+  "name": "13 FutGO",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "",
+  "tvgId": "13FutGO.cl",
+  "urls": [
+   "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "dpsgo.com",
+  "srcs": [
+   "verified-manual"
   ]
  },
  {
@@ -405,7 +481,8 @@
    "freetv-cl",
    "herberthe-o_all",
    "iptvorg-cl",
-   "iptvorg-index"
+   "iptvorg-index",
+   "verified-manual"
   ]
  },
  {
@@ -1376,6 +1453,31 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index"
+  ]
+ },
+ {
+  "name": "CNN Chile (1) [CL]",
+  "cats": [
+   "chile",
+   "news"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
+  "tvgId": "CNNChile.cl",
+  "urls": [
+   "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "rudo.video",
+  "srcs": [
+   "jsonteles-cl",
+   "verified-manual"
   ]
  },
  {
@@ -2617,29 +2719,6 @@
   ]
  },
  {
-  "name": "Mega",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/RlZfR84.png",
-  "tvgId": "Mega.cl",
-  "urls": [
-   "http://15.204.246.24:8080/MEGAHD/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "246.24",
-  "srcs": [
-   "dearbulut-cl"
-  ]
- },
- {
   "name": "Mega 2",
   "cats": [
    "chile"
@@ -2663,6 +2742,31 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index"
+  ]
+ },
+ {
+  "name": "Meganoticias [CL]",
+  "cats": [
+   "chile",
+   "news"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png",
+  "tvgId": "Meganoticias.cl",
+  "urls": [
+   "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "dps.live",
+  "srcs": [
+   "jsonteles-cl",
+   "verified-manual"
   ]
  },
  {
@@ -4431,7 +4535,8 @@
   "cdn": "rudo.video",
   "srcs": [
    "freetv-cl",
-   "jsonteles-cl"
+   "jsonteles-cl",
+   "verified-manual"
   ]
  },
  {
@@ -5071,7 +5176,8 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index",
-   "jsonteles-cl"
+   "jsonteles-cl",
+   "verified-manual"
   ]
  },
  {
@@ -5358,29 +5464,6 @@
   ]
  },
  {
-  "name": "Via X",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
-  "tvgId": "ViaX.cl",
-  "urls": [
-   "http://45.170.130.224:8000/play/a025/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "mpeg2video",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "130.224",
-  "srcs": [
-   "dearbulut-cl"
-  ]
- },
- {
   "name": "Vision TV",
   "cats": [
    "chile"
@@ -5640,8 +5723,8 @@
    "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
    "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
    "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
-   "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
-   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8"
+   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
+   "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8"
   ],
   "w": 1280,
   "h": 720,
@@ -8702,7 +8785,8 @@
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
-   "iptvorg-index"
+   "iptvorg-index",
+   "verified-manual"
   ]
  },
  {
@@ -8756,35 +8840,6 @@
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index"
-  ]
- },
- {
-  "name": "TyC Sports USA",
-  "cats": [
-   "argentina",
-   "futbol"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-  "tvgId": "TyCSportsUSA.ar",
-  "urls": [
-   "http://45.170.130.224:8000/play/a020/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "mpeg2video",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "130.224",
-  "srcs": [
-   "dearbulut-ar",
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "iptvorg-us"
   ]
  },
  {
@@ -8987,6 +9042,41 @@
   ]
  },
  {
+  "name": "Red Bull TV",
+  "cats": [
+   "futbol"
+  ],
+  "country": "at",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+  "tvgId": "RedBullTV.at",
+  "urls": [
+   "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
+   "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+   "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+   "https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8",
+   "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+   "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+   "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+   "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 9,
+  "geo": "global",
+  "cdn": "amazonaws.com",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-ca",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "iptvorg-us"
+  ]
+ },
+ {
   "name": "Realmadrid TV",
   "cats": [
    "futbol"
@@ -9045,6 +9135,71 @@
    "plex-gb",
    "plex-mx",
    "plex-us"
+  ]
+ },
+ {
+  "name": "World Poker Tour",
+  "cats": [
+   "futbol",
+   "usa"
+  ],
+  "country": "us",
+  "group": "Futbol",
+  "logo": "https://i.imgur.com/98kLMjj.png",
+  "tvgId": "WorldPokerTour.us",
+  "urls": [
+   "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102",
+   "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
+   "https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8",
+   "https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8",
+   "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 5,
+  "geo": "global",
+  "cdn": "cloudfront.net",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "iptvorg-us",
+   "pluto-br",
+   "pluto-es"
+  ]
+ },
+ {
+  "name": "Azteca Deportes Network",
+  "cats": [
+   "futbol"
+  ],
+  "country": "mx",
+  "group": "Futbol",
+  "logo": "https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png",
+  "tvgId": "608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f",
+  "urls": [
+   "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f/?X-Plex-Token=2PT-Jbr2jSm9PLNSWNm6",
+   "https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8",
+   "http://209.14.115.253:8081/azteca-deportes/index.m3u8",
+   "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 4,
+  "geo": "unproven",
+  "cdn": "plex.tv",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "plex-mx",
+   "pluto-ar"
   ]
  },
  {
@@ -9131,6 +9286,63 @@
    "iptvorg-index",
    "pluto-us",
    "roku"
+  ]
+ },
+ {
+  "name": "Red Bull TV",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png",
+  "tvgId": "67813f893886aa863497733d",
+  "urls": [
+   "https://jmp2.uk/plu-67813f893886aa863497733d.m3u8",
+   "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
+   "https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-ar",
+   "pluto-br",
+   "pluto-mx",
+   "roku"
+  ]
+ },
+ {
+  "name": "UFC",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png",
+  "tvgId": "67a52cd4ec91870008a62164",
+  "urls": [
+   "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
+   "https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8",
+   "https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "pluto-ar",
+   "pluto-br",
+   "pluto-es",
+   "pluto-mx"
   ]
  },
  {
@@ -9244,6 +9456,96 @@
   ]
  },
  {
+  "name": "ITV Deportes",
+  "cats": [
+   "futbol"
+  ],
+  "country": "mx",
+  "group": "Futbol",
+  "logo": "https://iili.io/J1kV1Bn.png",
+  "tvgId": "ITVDeportes.mx",
+  "urls": [
+   "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+   "https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "otteravision.com",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-ar",
+   "pluto-mx"
+  ]
+ },
+ {
+  "name": "PFL MMA",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png",
+  "tvgId": "64f6163a30ab3300083d870e",
+  "urls": [
+   "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+   "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-ar",
+   "pluto-br",
+   "pluto-mx"
+  ]
+ },
+ {
+  "name": "Pluto TV Snooker 900",
+  "cats": [
+   "futbol",
+   "canada"
+  ],
+  "country": "ca",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+  "tvgId": "639b4f75d3d35c0007d37b30",
+  "urls": [
+   "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+   "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "dearbulut-sports",
+   "iptvorg-ca",
+   "iptvorg-index",
+   "iptvorg-sports",
+   "pluto-ca",
+   "pluto-cl",
+   "pluto-es"
+  ]
+ },
+ {
   "name": "Real Madrid TV",
   "cats": [
    "futbol"
@@ -9323,6 +9625,54 @@
    "dearbulut-sports",
    "iptvorg-index",
    "iptvorg-sports"
+  ]
+ },
+ {
+  "name": "Azteca Deportes Network LITE 3",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718994621239_AI_Roku_260x147_Mono_DEPORTES_TB_Oct23.png",
+  "tvgId": "04be54c79d1f55d0909e684f64f9fb57",
+  "urls": [
+   "https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8"
+  ],
+  "w": 384,
+  "h": 216,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "roku"
+  ]
+ },
+ {
+  "name": "Azteca Deportes Premium",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png",
+  "tvgId": "65cf60d166eec80008724e6f",
+  "urls": [
+   "https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-mx"
   ]
  },
  {
@@ -9415,6 +9765,75 @@
   "cdn": "jmp2.uk",
   "srcs": [
    "samsung-us"
+  ]
+ },
+ {
+  "name": "Canela.TV Deportes",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779312530486_ROKU-Deportes-InfoHUD-1.png",
+  "tvgId": "735c2b7253c551ae9f07b07ea5278b75",
+  "urls": [
+   "https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8"
+  ],
+  "w": 384,
+  "h": 216,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "roku"
+  ]
+ },
+ {
+  "name": "Claro Sports",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png",
+  "tvgId": "6320d80a66666000086712d7",
+  "urls": [
+   "https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-ar"
+  ]
+ },
+ {
+  "name": "Claro Sports Mexico",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png",
+  "tvgId": "6320d2755e54db000783fd87",
+  "urls": [
+   "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-mx"
   ]
  },
  {
@@ -9569,6 +9988,53 @@
   ]
  },
  {
+  "name": "Deportes TVC",
+  "cats": [
+   "futbol"
+  ],
+  "country": "hn",
+  "group": "Futbol",
+  "logo": "https://i.imgur.com/Y1t8xkL.png",
+  "tvgId": "DeportesTVC.hn",
+  "urls": [
+   "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
+  ],
+  "w": 720,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "onnethn.com",
+  "srcs": [
+   "dearbulut-sports"
+  ]
+ },
+ {
+  "name": "Dominance FC TV",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png",
+  "tvgId": "69f9c50202b6c1c00a213519",
+  "urls": [
+   "https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "pluto-es"
+  ]
+ },
+ {
   "name": "espn 2",
   "cats": [
    "futbol"
@@ -9718,6 +10184,52 @@
   ]
  },
  {
+  "name": "eurosport 1 uhd 25fps",
+  "cats": [
+   "futbol"
+  ],
+  "country": "romania",
+  "group": "Futbol",
+  "logo": "https://epg.pw/media/uploads/tmp_logo/2015/12/30/20151230055619280597_21.png",
+  "tvgId": "",
+  "urls": [
+   "https://stream1.freetv.fun/413b80fd24ced8efb67b4d9347fad8861209c99cd9a7eb4cef8f50ad3cee30b3.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "freetv.fun",
+  "srcs": [
+   "herberthe-all"
+  ]
+ },
+ {
+  "name": "eurosport 2 uhd 25fps",
+  "cats": [
+   "futbol"
+  ],
+  "country": "romania",
+  "group": "Futbol",
+  "logo": "https://epg.pw/media/images/channel/2022/05/25/large/20220525022137116147_53.png",
+  "tvgId": "",
+  "urls": [
+   "https://stream1.freetv.fun/aa947a31f0133d99c9946ab77838bbcaf2ab85b8cb152bb792afa1bc167399e3.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "freetv.fun",
+  "srcs": [
+   "herberthe-all"
+  ]
+ },
+ {
   "name": "fifa plus",
   "cats": [
    "futbol"
@@ -9816,6 +10328,29 @@
    "iptvorg-index",
    "iptvorg-sports",
    "iptvorg-us"
+  ]
+ },
+ {
+  "name": "fox sports 1",
+  "cats": [
+   "futbol"
+  ],
+  "country": "united states",
+  "group": "Futbol",
+  "logo": "https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg",
+  "tvgId": "",
+  "urls": [
+   "https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "freetv.fun",
+  "srcs": [
+   "herberthe-all"
   ]
  },
  {
@@ -9927,6 +10462,30 @@
   ]
  },
  {
+  "name": "MODUS Super Series Darts",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png",
+  "tvgId": "67164414e40c4a00087f450d",
+  "urls": [
+   "https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8"
+  ],
+  "w": 854,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "iptvorg-index",
+   "pluto-es"
+  ]
+ },
+ {
   "name": "Okko Futbol",
   "cats": [
    "futbol"
@@ -9950,33 +10509,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-sports"
-  ]
- },
- {
-  "name": "PFL MMA",
-  "cats": [
-   "futbol"
-  ],
-  "country": "",
-  "group": "Futbol",
-  "logo": "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
-  "tvgId": "64f6180130ab3300083d896b",
-  "urls": [
-   "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "pluto-br"
   ]
  },
  {
@@ -10089,6 +10621,54 @@
   ]
  },
  {
+  "name": "RACER Brasil",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png",
+  "tvgId": "65a6818c7bdc8d0008457b21",
+  "urls": [
+   "https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-br"
+  ]
+ },
+ {
+  "name": "Rally TV",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png",
+  "tvgId": "696e02423b9ce349c90edef9",
+  "urls": [
+   "https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "pluto-es"
+  ]
+ },
+ {
   "name": "Real Madrid TV English",
   "cats": [
    "futbol"
@@ -10112,6 +10692,54 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-sports"
+  ]
+ },
+ {
+  "name": "red bull tv",
+  "cats": [
+   "futbol"
+  ],
+  "country": "united kingdom",
+  "group": "Futbol",
+  "logo": "https://epg.pw/media/images/channel/2022/05/16/large/20220516155835221115_90.jpg",
+  "tvgId": "",
+  "urls": [
+   "https://stream1.freetv.fun/37a8a007237207285a22a56758913c131ca74cb61f50a8b1700fe8263a81a07d.m3u8"
+  ],
+  "w": 320,
+  "h": 180,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "freetv.fun",
+  "srcs": [
+   "herberthe-all"
+  ]
+ },
+ {
+  "name": "SFT Combat",
+  "cats": [
+   "futbol"
+  ],
+  "country": "",
+  "group": "Futbol",
+  "logo": "https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png",
+  "tvgId": "6660b636cb3ea10008429c6a",
+  "urls": [
+   "https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8"
+  ],
+  "w": 1216,
+  "h": 684,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "jmp2.uk",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "pluto-br"
   ]
  },
  {
@@ -10537,9 +11165,9 @@
   "tvgId": "619d59b7cbef25000728221c",
   "urls": [
    "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
-   "https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8",
    "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d/?X-Plex-Token=jpP7S6AVHYkxxcx2UzsM",
-   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60089d97f682a3002c34829d/?X-Plex-Token=PrTkB3KGtKXxL3_3YdP3"
+   "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60089d97f682a3002c34829d/?X-Plex-Token=PrTkB3KGtKXxL3_3YdP3",
+   "https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8"
   ],
   "w": 854,
   "h": 480,
@@ -10716,8 +11344,8 @@
   "tvgId": "BBCNews.uk",
   "urls": [
    "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8",
-   "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
-   "https://xemzi.short.gy/1000015"
+   "https://xemzi.short.gy/1000015",
+   "http://138.121.15.230:9002/BBC-NEWS/index.m3u8"
   ],
   "w": 1280,
   "h": 720,
@@ -11105,33 +11733,6 @@
   ]
  },
  {
-  "name": "BBC America",
-  "cats": [
-   "news",
-   "usa"
-  ],
-  "country": "us",
-  "group": "News",
-  "logo": "https://i.imgur.com/pTiiPz0.png",
-  "tvgId": "BBCAmerica.us",
-  "urls": [
-   "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8",
-   "http://23.239.31.26:8989/bbcamerica/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "ac3",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "tier1streams.com",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
   "name": "BBC Earth",
   "cats": [
    "news"
@@ -11328,19 +11929,19 @@
   ],
   "country": "us",
   "group": "News",
-  "logo": "https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png",
-  "tvgId": "60fb299b79498900070b29e0",
+  "logo": "https://i.imgur.com/DExbVa9.png",
+  "tvgId": "CBSNewsMiami.us",
   "urls": [
-   "https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8",
-   "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8"
+   "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
+   "https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
+  "geo": "likely",
+  "cdn": "cbsnews.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -11434,19 +12035,19 @@
   ],
   "country": "cn",
   "group": "News",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
-  "tvgId": "CGTN.cn",
+  "logo": "https://i.imgur.com/nDWkCmL.png",
+  "tvgId": "CGTNRussian.cn",
   "urls": [
-   "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
-   "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+   "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+   "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
   ],
-  "w": 640,
-  "h": 360,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "amagi.tv",
+  "geo": "unproven",
+  "cdn": "cgtn.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -11461,19 +12062,19 @@
   ],
   "country": "us",
   "group": "News",
-  "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20260610T182304SQUARE.png",
-  "tvgId": "USAJ3504714A",
+  "logo": "https://i.imgur.com/tuP9GW8.png",
+  "tvgId": "CheddarNews.us",
   "urls": [
-   "https://jmp2.uk/stvp-USAJ3504714A",
-   "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8"
+   "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
+   "https://jmp2.uk/stvp-USAJ3504714A"
   ],
-  "w": 384,
-  "h": 216,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "jmp2.uk",
+  "geo": "likely",
+  "cdn": "livecdn.io",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -11520,16 +12121,16 @@
   "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
   "tvgId": "DDNews.in",
   "urls": [
-   "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
-   "https://cdn-2.pishow.tv/live/12/master.m3u8"
+   "https://cdn-2.pishow.tv/live/12/master.m3u8",
+   "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
   ],
-  "w": 384,
-  "h": 216,
+  "w": 1024,
+  "h": 576,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "cloudfront.net",
+  "geo": "unproven",
+  "cdn": "pishow.tv",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -11574,16 +12175,16 @@
   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
   "tvgId": "EuronewsEnglish.fr",
   "urls": [
-   "http://45.190.28.50/EURONEWS_HD/index.m3u8",
-   "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8"
+   "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8",
+   "http://45.190.28.50/EURONEWS_HD/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1216,
+  "h": 684,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
   "geo": "global",
-  "cdn": "28.50",
+  "cdn": "jmp2.uk",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -11810,19 +12411,19 @@
   ],
   "country": "ru",
   "group": "News",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png",
   "tvgId": "RTenEspanol.ru",
   "urls": [
-   "http://177.234.249.135:8888/RT/index.m3u8",
-   "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+   "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+   "http://177.234.249.135:8888/RT/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "249.135",
+  "geo": "unproven",
+  "cdn": "rttv.com",
   "srcs": [
    "freetv-news-es",
    "herberthe-o_all",
@@ -11838,19 +12439,19 @@
   ],
   "country": "ru",
   "group": "News",
-  "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png",
   "tvgId": "RT.ru",
   "urls": [
-   "http://31.148.48.15/RT_HD/index.m3u8",
-   "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+   "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+   "http://31.148.48.15/RT_HD/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "likely",
-  "cdn": "48.15",
+  "geo": "unproven",
+  "cdn": "rttv.com",
   "srcs": [
    "freetv-news-en",
    "herberthe-o_all",
@@ -14450,6 +15051,32 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-news"
+  ]
+ },
+ {
+  "name": "BBC America East HD",
+  "cats": [
+   "news",
+   "usa"
+  ],
+  "country": "us",
+  "group": "News",
+  "logo": "https://i.imgur.com/pTiiPz0.png",
+  "tvgId": "BBCAmerica.us",
+  "urls": [
+   "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "ac3",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "tier1streams.com",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us"
   ]
  },
  {
@@ -17162,29 +17789,6 @@
   ]
  },
  {
-  "name": "CNN Chile (1) [CL]",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
-  "tvgId": "",
-  "urls": [
-   "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "rudo.video",
-  "srcs": [
-   "jsonteles-cl"
-  ]
- },
- {
   "name": "CNN International",
   "cats": [
    "news",
@@ -19114,10 +19718,10 @@
   "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png",
   "tvgId": "",
   "urls": [
-   "https://stream1.freetv.fun/0d07df1b570c4322ceb7beb4645a4baf3775efb81548689c5162e1f6c1580263.m3u8"
+   "https://stream1.freetv.fun/7db9de06352f7ebc85c89a7254ea6062fc434a024dc6b6064c433d82187f8da0.m3u8"
   ],
-  "w": 1024,
-  "h": 576,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -22445,29 +23049,6 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-news"
-  ]
- },
- {
-  "name": "Meganoticias [CL]",
-  "cats": [
-   "news"
-  ],
-  "country": "",
-  "group": "News",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png",
-  "tvgId": "",
-  "urls": [
-   "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "dps.live",
-  "srcs": [
-   "jsonteles-cl"
   ]
  },
  {
@@ -30862,29 +31443,6 @@
   ]
  },
  {
-  "name": "合肥新闻",
-  "cats": [
-   "news"
-  ],
-  "country": "china",
-  "group": "News",
-  "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527164234697314_53.jpg",
-  "tvgId": "",
-  "urls": [
-   "https://stream1.freetv.fun/447bc23a2af7194a517d4869389c2d56eedb85e856a65720a10edd6f50cb6ec6.m3u8"
-  ],
-  "w": 720,
-  "h": 576,
-  "vcodec": "mpeg2video",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "freetv.fun",
-  "srcs": [
-   "herberthe-all"
-  ]
- },
- {
   "name": "嘉兴新闻综合",
   "cats": [
    "news"
@@ -31322,29 +31880,6 @@
   ]
  },
  {
-  "name": "盐城新闻综合",
-  "cats": [
-   "news"
-  ],
-  "country": "china",
-  "group": "News",
-  "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531231343728219_21.jpg",
-  "tvgId": "",
-  "urls": [
-   "https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.ctv"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "freetv.fun",
-  "srcs": [
-   "herberthe-all"
-  ]
- },
- {
   "name": "绍兴新闻",
   "cats": [
    "news"
@@ -31673,16 +32208,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
   "tvgId": "NBATV.us",
   "urls": [
-   "http://40.160.24.58/NBA_TV/index.m3u8",
-   "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+   "https://cdn1.ayitistream.com/NBATV/index.m3u8",
+   "http://40.160.24.58/NBA_TV/index.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "24.58",
+  "geo": "likely",
+  "cdn": "ayitistream.com",
   "srcs": [
    "dearbulut-sports",
    "herberthe-o_all",
@@ -34786,34 +35321,6 @@
   ]
  },
  {
-  "name": "Pluto TV Snooker 900",
-  "cats": [
-   "canada"
-  ],
-  "country": "ca",
-  "group": "Canada",
-  "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
-  "tvgId": "639b4f75d3d35c0007d37b30",
-  "urls": [
-   "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "iptvorg-ca",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "pluto-ca",
-   "pluto-cl"
-  ]
- },
- {
   "name": "Pluto TV True Crime",
   "cats": [
    "canada"
@@ -36688,33 +37195,6 @@
   ]
  },
  {
-  "name": "AMC",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/abtANyj.png",
-  "tvgId": "AMCPlus.us",
-  "urls": [
-   "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
-   "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
-   "http://23.239.31.26:8989/amc/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "tier1streams.com",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
   "name": "AMC Latin America",
   "cats": [
    "usa"
@@ -36792,35 +37272,6 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "World Poker Tour",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/98kLMjj.png",
-  "tvgId": "WorldPokerTour.us",
-  "urls": [
-   "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102",
-   "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
-   "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "cloudfront.net",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
    "iptvorg-us"
   ]
  },
@@ -37171,16 +37622,16 @@
   "logo": "https://i.imgur.com/rnZN7rD.png",
   "tvgId": "HSN.us",
   "urls": [
-   "http://40.160.24.53/HSN/index.m3u8",
-   "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
+   "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+   "http://40.160.24.53/HSN/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
   "geo": "global",
-  "cdn": "24.53",
+  "cdn": "akamaized.net",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -37197,16 +37648,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
   "tvgId": "LifetimeLatinAmerica.us",
   "urls": [
-   "http://138.121.15.230:9002/LIFETIME/index.m3u8",
-   "http://138.255.2.6:8084/LIFETIME/index.m3u8"
+   "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+   "http://138.121.15.230:9002/LIFETIME/index.m3u8"
   ],
-  "w": 544,
-  "h": 480,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "15.230",
+  "geo": "likely",
+  "cdn": "2.6",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index"
@@ -37318,58 +37769,6 @@
   ]
  },
  {
-  "name": "National Geographic",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-  "tvgId": "NationalGeographic.us",
-  "urls": [
-   "http://40.160.24.53/NAT_GEO/index.m3u8",
-   "http://198.58.104.90:8989/natgeo/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "24.53",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "National Geographic Wild",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-  "tvgId": "NationalGeographicWild.us",
-  "urls": [
-   "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-   "http://198.58.104.90:8989/natgeowild/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "24.53",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
   "name": "NBC",
   "cats": [
    "usa"
@@ -37433,16 +37832,16 @@
   "logo": "https://i.imgur.com/RZ8pIKe.png",
   "tvgId": "NBCUniverso.us",
   "urls": [
-   "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-   "http://187.102.210.46/universo/index.m3u8"
+   "http://187.102.210.46/universo/index.m3u8",
+   "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
-  "acodec": "aac",
+  "acodec": "mp2",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "225.124",
+  "geo": "likely",
+  "cdn": "210.46",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -37695,16 +38094,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
   "tvgId": "StarChannelLatinAmerica.us",
   "urls": [
-   "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
-   "https://streamer.metronethn.com/StarChannel/index.m3u8"
+   "https://streamer.metronethn.com/StarChannel/index.m3u8",
+   "http://45.162.193.35/STAR_CHANNEL/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
-  "acodec": "mp2",
+  "acodec": "aac",
   "nstreams": 2,
-  "geo": "global",
-  "cdn": "193.35",
+  "geo": "likely",
+  "cdn": "metronethn.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index"
@@ -37979,19 +38378,19 @@
   ],
   "country": "us",
   "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/500px-WeatherNation_Logo.svg.png",
   "tvgId": "WeatherNation.us",
   "urls": [
-   "http://40.160.24.55/WEATHER_NATION/index.m3u8",
-   "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b"
+   "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b",
+   "http://40.160.24.55/WEATHER_NATION/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 640,
+  "h": 360,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
   "geo": "global",
-  "cdn": "24.55",
+  "cdn": "pluto.tv",
   "srcs": [
    "freetv-news-en",
    "herberthe-o_all",
@@ -40004,6 +40403,56 @@
   "nstreams": 1,
   "geo": "global",
   "cdn": "wurl.tv",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us"
+  ]
+ },
+ {
+  "name": "AMC East",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+  "tvgId": "AMC.us",
+  "urls": [
+   "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "mp2",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "225.124",
+  "srcs": [
+   "herberthe-o_all",
+   "iptvorg-index",
+   "iptvorg-us"
+  ]
+ },
+ {
+  "name": "AMC+",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/abtANyj.png",
+  "tvgId": "AMCPlus.us",
+  "urls": [
+   "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "tier1streams.com",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -52740,6 +53189,30 @@
   ]
  },
  {
+  "name": "National Geographic",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+  "tvgId": "NationalGeographic.us",
+  "urls": [
+   "http://40.160.24.53/NAT_GEO/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "24.53",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us"
+  ]
+ },
+ {
   "name": "National Geographic Latin America",
   "cats": [
    "usa"
@@ -52761,6 +53234,30 @@
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index"
+  ]
+ },
+ {
+  "name": "National Geographic Wild",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+  "tvgId": "NationalGeographicWild.us",
+  "urls": [
+   "http://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "24.53",
+  "srcs": [
+   "iptvorg-index",
+   "iptvorg-us"
   ]
  },
  {
