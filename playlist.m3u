@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png" tvg-chno="1" group-title="⭐ Para Papá",C5N
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785978587/ei/e4pzatiGOPv8-LAPou258Qc/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM8xpIxft7cX_8OvmtWYu6ssILG-ehdzW20G1L_mVhe9LVKKZho-E_NAyG6fEbvgnYtnwqMYIXV/spc/KBGBcuZAC3h09xUbOjVyrS9LNSa4Auic2Qi_-J_HKncX_JMJ3g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1981250/met/1785956988,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785956680/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNe703JqVYUlASK46vXFk5oqb_ea63dRzcHUNePX5S6YCICqsyXUvJ4Mx-L_ZERH83FJZ_9MV5TLzD4rYShh5aaIs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgLH4Z6ytIEoYIdWxEuc4zbQr7rwwJwE723ggdrDzzyzcCIBv6fmbV5oi7sgMPzdif3a7Em1wIqRYphCAVvUfKK0sA/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980089/ei/WZBzapGAKoPx1sQP2ofQ0Ac/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhOL7QWXS82WSOtVs1f87bXIRkbiKFgEqp3xSaSmjZwbVGXckDY8JmSZfGaKpBngK1N2H3D4HjUO/spc/KBGBcoWfN7A71bW5pcyz8sALUq55e_wKrSR255G1l1cvqrvn9g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958489,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAKb-Uk2jsKXpDd_4rIqovHoXYNhMZMt-PX9yZ5Yw41wEAiEAqBehrwrSznWMMXaqhigUFwVSlIoNM1JN-t5gdC3Fjpw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMcopFeM6ZVqgHWzyXtnFX2_6DZqiMz-fi3p_MudB6qOAiBJmjzXtbFqMJcNEuB5KMkQTCsKBLAbfd1mXUIG419axg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" tvg-chno="2" group-title="⭐ Para Papá",HBO Xtreme
 http://190.60.37.118:4000/play/a03z
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" tvg-chno="3" group-title="⭐ Para Papá",HBO Family
@@ -18,7 +18,7 @@ http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-id="13Deportes.cl" tvg-name="13 Deportes" tvg-logo="" tvg-chno="9" group-title="⭐ Para Papá",13 Deportes
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png" tvg-chno="10" group-title="⭐ Para Papá",Cronica TV
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980096/ei/YJBzarGiO7qV-LAPz7C5qAc/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/hw4uHyct4vg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM78Fca0CCClG1VvfPM9aDKAWjHrTtYJO0OYysLh6UxjgbbIM5A59AYBd6J_Vo9S5-dLgttDdS-/spc/KBGBcn5wsmJPKuR4xmJTvUvBGAapiVgnI66WiawSUg2tk6YVqg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958497,/mh/B7/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/1/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAOndpOHCY8gg6bF0Xp4QjV0X9VPVanGpMmz1OP7tj3M7AiA7M2tXPzoMR0xJtCE6nGdTtA_XdcFul84R1W01fP_9YQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgU9OjMSZ5LFpKL_op9cfZaQUduC2rxpbTa2ykbN-_nrsCIQCaRWsdTkl6_hrlMjx_nhgQBDT2oFrk788OgYvaKzsAHQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-chno="11" group-title="⭐ Para Papá",CBC News Network
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" tvg-chno="12" group-title="⭐ Para Papá",Mega
@@ -98,7 +98,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" tvg-chno="49" group-title="Chile",CNN Chile
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" tvg-chno="50" group-title="Chile",24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980102/ei/ZpBzap2-MtyQ-LAPj5jO0AM/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/4wb_xjoZau8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr6---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMa0FlQc4N8N0CdnbNgcNoxdXTBSflMMwQCBB2uQQno9oSc-6x49D2ZJwmcXLWaEJ7wVpXBemUZ/spc/KBGBcoPfifW_BOPc6myy7kr6Rfhz2-4_6BnHq3a_dg3TS7nbIQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2407500/met/1785958502,/mh/1X/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/6/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJnJgdd2pT5abV5-H_H_IP2pURiW027gkvn1UVedIghfAiBzomTAhM6BtLS5KYF34L8PFSaHjt7U_RmCgO3wmoP5Hw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMsHOWKJRVjUgXcLPu3lcWT-dVcp9cszYjRATKNYiOBHAiEAmnaJIFRTLct1tcHxGBeWXEVHZjPhYJSvKLmlQjiJtTU%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-chno="51" group-title="Chile",La Red
 http://45.162.193.35/LA_RED/index.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-name="Meganoticias [CL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png" tvg-chno="52" group-title="Chile",Meganoticias [CL]
@@ -498,7 +498,7 @@ https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl" tvg-name="TV UCT (U. Católica de Temuco) (3) [CL]" tvg-logo="https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png" tvg-chno="249" group-title="Chile",TV UCT (U. Católica de Temuco) (3) [CL]
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png" tvg-chno="250" group-title="Argentina",C5N
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785978587/ei/e4pzatiGOPv8-LAPou258Qc/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM8xpIxft7cX_8OvmtWYu6ssILG-ehdzW20G1L_mVhe9LVKKZho-E_NAyG6fEbvgnYtnwqMYIXV/spc/KBGBcuZAC3h09xUbOjVyrS9LNSa4Auic2Qi_-J_HKncX_JMJ3g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1981250/met/1785956988,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785956680/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNe703JqVYUlASK46vXFk5oqb_ea63dRzcHUNePX5S6YCICqsyXUvJ4Mx-L_ZERH83FJZ_9MV5TLzD4rYShh5aaIs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgLH4Z6ytIEoYIdWxEuc4zbQr7rwwJwE723ggdrDzzyzcCIBv6fmbV5oi7sgMPzdif3a7Em1wIqRYphCAVvUfKK0sA/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980089/ei/WZBzapGAKoPx1sQP2ofQ0Ac/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhOL7QWXS82WSOtVs1f87bXIRkbiKFgEqp3xSaSmjZwbVGXckDY8JmSZfGaKpBngK1N2H3D4HjUO/spc/KBGBcoWfN7A71bW5pcyz8sALUq55e_wKrSR255G1l1cvqrvn9g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958489,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAKb-Uk2jsKXpDd_4rIqovHoXYNhMZMt-PX9yZ5Yw41wEAiEAqBehrwrSznWMMXaqhigUFwVSlIoNM1JN-t5gdC3Fjpw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMcopFeM6ZVqgHWzyXtnFX2_6DZqiMz-fi3p_MudB6qOAiBJmjzXtbFqMJcNEuB5KMkQTCsKBLAbfd1mXUIG419axg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="251" group-title="Argentina",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-chno="252" group-title="Argentina",El Trece
@@ -512,11 +512,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-chno="256" group-title="Argentina",TV Publica
 https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-chno="257" group-title="Argentina",TN
-http://15.204.246.24:8080/TNHD/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980092/ei/XJBzasGMEPnw1sQP7MekgA4/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/cb12KmMMDJA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNoGB-SzNnp5fFC7Gwrgkvwf5ZE08hUFIr9jklkS9z5qr_yTDceENtNlBFCJiShr0DiiFbJxZja/spc/KBGBcgW2oT3er0DnqohrA2WXvwFKTpEilosD3amO0k4CYUcJ-Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958492,/mh/o5/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgfvaG6WsWJ2V2_4eUqOh2CE5TGoqSorKvwjK1eamqqRgCIQCFlM3LRBLNYaU2OVvtCG15D6VPPUGePbr-eQTqkhnRQQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYMufKoEFHcuAi3o_VCSXKZjL-BpJpfOx6gqAp1hfLHMCIQD1cfpkUxj8QjZIHGOElkdj_40szwWvPXV5CsncW51y2Q%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-chno="258" group-title="Argentina",A24
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980094/ei/XpBzav-BHob7-LAP2oHn4Q0/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/ArKbAx1K-2U.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-xouxa-njad.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhO9GSZN3fNK0P0bWZNR_rggcYWitz6bTggGC17CLV49bUVtr5oGudwItIeFxadMLyxUEHb0-uv0/spc/KBGBcvHYTYyhrrSGVnS4Lom6qX0sVK16FgHeSb4yLLlNKjWrDw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2558750/met/1785958494,/mh/C8/mm/44/mn/sn-xouxa-njad/ms/lva/mv/m/mvi/1/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAMbFdoVDjB-AUKhHMk5cIY_m_OooPMi7W1XV-D27B03QAiAbOmspinPqpbEpkE8vk6WeV7kLgZ4r2hD9A3INlZnUvw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgVNT7jJLe0IRdW0ooPgVd6m4G1S4QJSgvWWy-i_MB8xoCICaGxxTENuGqruIabOxaOAGcXpbC_L8W0COIQju34pzM/playlist/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png" tvg-chno="259" group-title="Argentina",Cronica TV
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980096/ei/YJBzarGiO7qV-LAPz7C5qAc/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/hw4uHyct4vg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM78Fca0CCClG1VvfPM9aDKAWjHrTtYJO0OYysLh6UxjgbbIM5A59AYBd6J_Vo9S5-dLgttDdS-/spc/KBGBcn5wsmJPKuR4xmJTvUvBGAapiVgnI66WiawSUg2tk6YVqg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958497,/mh/B7/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/1/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAOndpOHCY8gg6bF0Xp4QjV0X9VPVanGpMmz1OP7tj3M7AiA7M2tXPzoMR0xJtCE6nGdTtA_XdcFul84R1W01fP_9YQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgU9OjMSZ5LFpKL_op9cfZaQUduC2rxpbTa2ykbN-_nrsCIQCaRWsdTkl6_hrlMjx_nhgQBDT2oFrk788OgYvaKzsAHQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-chno="260" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-chno="261" group-title="Argentina",Telemax
@@ -3336,9 +3336,9 @@ http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6470/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 horas [CL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" tvg-chno="1668" group-title="Noticias",24 horas [CL]
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-chno="1669" group-title="Noticias",24 Horas
-http://185.47.212.25:8080/24h_HD/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980102/ei/ZpBzap2-MtyQ-LAPj5jO0AM/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/4wb_xjoZau8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr6---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMa0FlQc4N8N0CdnbNgcNoxdXTBSflMMwQCBB2uQQno9oSc-6x49D2ZJwmcXLWaEJ7wVpXBemUZ/spc/KBGBcoPfifW_BOPc6myy7kr6Rfhz2-4_6BnHq3a_dg3TS7nbIQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2407500/met/1785958502,/mh/1X/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/6/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJnJgdd2pT5abV5-H_H_IP2pURiW027gkvn1UVedIghfAiBzomTAhM6BtLS5KYF34L8PFSaHjt7U_RmCgO3wmoP5Hw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMsHOWKJRVjUgXcLPu3lcWT-dVcp9cszYjRATKNYiOBHAiEAmnaJIFRTLct1tcHxGBeWXEVHZjPhYJSvKLmlQjiJtTU%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 horas" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" tvg-chno="1670" group-title="Noticias",24 horas
-https://stream1.freetv.fun/fbbd15925e684d39ef1e1e3adb7682b0987e54bc048a409f815fa77767f4739d.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980102/ei/ZpBzap2-MtyQ-LAPj5jO0AM/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/4wb_xjoZau8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr6---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMa0FlQc4N8N0CdnbNgcNoxdXTBSflMMwQCBB2uQQno9oSc-6x49D2ZJwmcXLWaEJ7wVpXBemUZ/spc/KBGBcoPfifW_BOPc6myy7kr6Rfhz2-4_6BnHq3a_dg3TS7nbIQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2407500/met/1785958502,/mh/1X/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/6/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJnJgdd2pT5abV5-H_H_IP2pURiW027gkvn1UVedIghfAiBzomTAhM6BtLS5KYF34L8PFSaHjt7U_RmCgO3wmoP5Hw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMsHOWKJRVjUgXcLPu3lcWT-dVcp9cszYjRATKNYiOBHAiEAmnaJIFRTLct1tcHxGBeWXEVHZjPhYJSvKLmlQjiJtTU%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="6536725167bd1a00084481bc" tvg-name="CBC News" tvg-logo="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" tvg-chno="1671" group-title="Noticias",CBC News
 https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 #EXTINF:-1 tvg-id="CA15000018F" tvg-name="CBC News BC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA15000018F_20250401T004701SQUARE.png" tvg-chno="1672" group-title="Noticias",CBC News BC
@@ -4744,17 +4744,17 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 #EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" tvg-chno="2372" group-title="Premier League",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/skysprem.m3u8?md5=KSQIUov0SN3_dLN-IIkPwA&expires=1785961221
+https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=sQZQ3Oz8be9ipOFqBVuH4Q&expires=1785963019
 #EXTINF:-1 tvg-id="12453" tvg-name="sky sports premier league 50fps" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904161002034102_45.png" tvg-chno="2373" group-title="Premier League",sky sports premier league 50fps
 https://stream1.freetv.fun/63268f240f7244bf9ef7d262931f9ef88e28893f1dca0f30a570677cbe6540aa.m3u8
 #EXTINF:-1 tvg-id="superpremier" tvg-name="Super Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" tvg-chno="2374" group-title="Premier League",Super Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/superpremier.m3u8?md5=WuUwTz_Aa5PxpD-Lbtykxw&expires=1785961222
+https://cdn4.zohanayaan.com:1686/hls/superpremier.m3u8?md5=5inTWIVS__aSfklE7aKglw&expires=1785963020
 #EXTINF:-1 tvg-id="laligauk" tvg-name="LaLiGA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" tvg-chno="2375" group-title="La Liga",LaLiGA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=-g0hXWw8x8Lsmj5IECh4kQ&expires=1785961222
+https://cdn10.zohanayaan.com:1686/hls/laligauk.m3u8?md5=Wwb77FsmmqMzfQYtd6iBlg&expires=1785963019
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-chno="2376" group-title="Futbol",ESPN Deportes
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fox sports 1" tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg" tvg-chno="2377" group-title="Futbol",fox sports 1
@@ -4834,19 +4834,19 @@ http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-id="premieruk" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" tvg-chno="2414" group-title="Futbol",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=qdue-ptbHPg4dJzWn2xEOg&expires=1785961222
+https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=Ie0OUQ77iVx2ojxhdIRJJw&expires=1785963019
 #EXTINF:-1 tvg-id="hdchnl2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" tvg-chno="2415" group-title="Futbol",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=8Y8ta4JZ-1txG5GajZ1Tlw&expires=1785961222
+https://cdn7.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=BRWKDXrFPAGmGYEi5UoPLw&expires=1785963019
 #EXTINF:-1 tvg-id="skysfott" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" tvg-chno="2416" group-title="Futbol",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/skysfott.m3u8?md5=MBZagIVfsYuCfT0jgqm5DA&expires=1785961221
+https://cdn6.zohanayaan.com:1686/hls/skysfott.m3u8?md5=Jf1MXT1IzfSVO0_urJpJXw&expires=1785963019
 #EXTINF:-1 tvg-id="superfotball" tvg-name="Super Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" tvg-chno="2417" group-title="Futbol",Super Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/superfotball.m3u8?md5=NmQrA6312GN5aWnLYqUAlQ&expires=1785961222
+https://cdn2.zohanayaan.com:1686/hls/superfotball.m3u8?md5=canlPu18cWySb9LoobbxIg&expires=1785963020
 #EXTINF:-1 tvg-id="" tvg-name="win sports" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/21/20151221075821841834_38.png" tvg-chno="2418" group-title="Futbol",win sports
 https://stream1.freetv.fun/e13c610024b62a10fc363e48b31778c9a40f7428ca6a10a3677d0e5bf3433c7d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="МАТЧ ПРЕМЬЕР HD" tvg-logo="https://i.imgur.com/aF1sqTb.png" tvg-chno="2419" group-title="Futbol",МАТЧ ПРЕМЬЕР HD
@@ -4890,49 +4890,49 @@ http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-chno="2438" group-title="Cricket",A Sports HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=ZPO1TU-ARiHxRO5K_-Excw&expires=1785961220
+https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=d6ajfCQPXz9WwlEbH_C0vQ&expires=1785963016
 #EXTINF:-1 tvg-id="fox501" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" tvg-chno="2439" group-title="Cricket",Astro Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/fox501.m3u8?md5=vGyms_RlcnpSZw1YwU8SNQ&expires=1785961222
+https://cdn8.zohanayaan.com:1686/hls/fox501.m3u8?md5=hXBDTc2mkuQGkTniGXx8lg&expires=1785963020
 #EXTINF:-1 tvg-id="fox501" tvg-name="Fox Cricket 501 HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" tvg-chno="2440" group-title="Cricket",Fox Cricket 501 HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/fox501.m3u8?md5=vGyms_RlcnpSZw1YwU8SNQ&expires=1785961222
+https://cdn8.zohanayaan.com:1686/hls/fox501.m3u8?md5=hXBDTc2mkuQGkTniGXx8lg&expires=1785963020
 #EXTINF:-1 tvg-id="ptvpk" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" tvg-chno="2441" group-title="Cricket",PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ck2Ljt7Kff0wm1aOn41RfA&expires=1785961219
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=IzCoTZDWo9UBpVTUlE0TkQ&expires=1785963015
 #EXTINF:-1 tvg-id="skyscric" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" tvg-chno="2442" group-title="Cricket",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NYZhsHox6Unjm12OlXubtQ&expires=1785961220
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=G1ZMW3kFIvpPBfdeaitqWQ&expires=1785963016
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://i.imgur.com/RDRTfkg.png" tvg-chno="2443" group-title="Cricket",SKY SPORTS CRICKET HD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
 #EXTINF:-1 tvg-id="ten1hd" tvg-name="Sony Sports3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" tvg-chno="2444" group-title="Cricket",Sony Sports3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=UlfiH9VCK7Ow-GqFZJtsnw&expires=1785961223
+https://cdn3.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=1h8yYs8NOfIOhYh6j0adMg&expires=1785963021
 #EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" tvg-chno="2445" group-title="Cricket",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=xF3q7fWQpL3Cu-onxCv4cg&expires=1785961219
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=BxJ0Ca2maEZhpFsWncOuZA&expires=1785963015
 #EXTINF:-1 tvg-id="starhindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" tvg-chno="2446" group-title="Cricket",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=B1B-aE4qhSEdQS6Rcf7Emw&expires=1785961219
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=7oYaYhFjvVxyEBvo4Zer1A&expires=1785963015
 #EXTINF:-1 tvg-id="tenspk" tvg-name="Ten Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" tvg-chno="2447" group-title="Cricket",Ten Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=L-xtOnToDoIPTqqCbPqX0w&expires=1785961219
+https://cdn5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=s-0K6QOfrm6_Oau1ZPdW5g&expires=1785963016
 #EXTINF:-1 tvg-id="willowusa" tvg-name="Willow HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" tvg-chno="2448" group-title="Cricket",Willow HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=_4p3LIHO7a6pCGWpLpa5fQ&expires=1785961219
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=MYDrsslc3RHdNxt0uUi-jw&expires=1785963016
 #EXTINF:-1 tvg-id="willowextra" tvg-name="Willow HD 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" tvg-chno="2449" group-title="Cricket",Willow HD 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=t40ZyadG8EoWukAZfdhtPA&expires=1785961219
+https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=Wcf0KkSfA217y22uvsW4fQ&expires=1785963016
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-chno="2450" group-title="Tennis",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 tvg-id="681109b688b9d85d0938c6ba" tvg-name="TennisChannel 2" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png" tvg-chno="2451" group-title="Tennis",TennisChannel 2
@@ -4942,7 +4942,7 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wG
 #EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" tvg-chno="2453" group-title="Tennis",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/skystennis.m3u8?md5=oV-kIzU8LWthPdaSMZbcPA&expires=1785961223
+https://cdn10.zohanayaan.com:1686/hls/skystennis.m3u8?md5=06VQ2huiz3z5iQTWCG32Qw&expires=1785963020
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL HD" tvg-logo="https://i.imgur.com/PdJfutU.png" tvg-chno="2454" group-title="Tennis",TENNIS CHANNEL HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-name="30A Golf Kingdom" tvg-logo="https://i.imgur.com/Lv53nh4.png" tvg-chno="2455" group-title="Golf",30A Golf Kingdom
@@ -4954,7 +4954,7 @@ http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" tvg-chno="2458" group-title="Golf",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/skysgol.m3u8?md5=gJn7ochNwl6lNft0_rssqw&expires=1785961221
+https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=SHezFGYrMINwhUVA36omSA&expires=1785963019
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://i.imgur.com/aJYeDGG.png" tvg-chno="2459" group-title="Golf",SKY SPORTS GOLF HD
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 HD" tvg-logo="https://i.imgur.com/99hU51a.png" tvg-chno="2460" group-title="F1",SKY SPORT F1 HD
@@ -4962,7 +4962,7 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 #EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" tvg-chno="2461" group-title="F1",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=rhkymaw3sS1DIIvH0TsskQ&expires=1785961222
+https://cdn6.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=Vo6rk4zxobnjeLSlKoopsw&expires=1785963019
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-name="FloRacing 24/7" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" tvg-chno="2462" group-title="Racing",FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="65a6818c7bdc8d0008457b21" tvg-name="RACER Brasil" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png" tvg-chno="2463" group-title="Racing",RACER Brasil
@@ -5074,11 +5074,11 @@ http://190.83.2.182:8090/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="espnusa" tvg-name="ESPN 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" tvg-chno="2516" group-title="Deportes",ESPN 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/espnusa.m3u8?md5=reH_k_8ER29QCzK8uAlj7g&expires=1785961222
+https://cdn8.zohanayaan.com:1686/hls/espnusa.m3u8?md5=WkrPku6VBAvY7VBGcRM3EQ&expires=1785963020
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" tvg-chno="2517" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/espn2.m3u8?md5=HosA3o55AFbMzrg6MQKzfg&expires=1785961222
+https://cdn1.zohanayaan.com:1686/hls/espn2.m3u8?md5=1ssl3sp6Y_5TzhroMvRXgQ&expires=1785963020
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-chno="2518" group-title="Deportes",ESPN 3
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-chno="2519" group-title="Deportes",ESPN 4
@@ -5094,77 +5094,77 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-id="sky6nz" tvg-name="Sky Sport 6 Nz" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2524" group-title="Deportes",Sky Sport 6 Nz
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=b10412v1B8ztwsj6T-feWA&expires=1785961221
+https://cdn10.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=8r8LcpAvdzyEggEI2u276g&expires=1785963018
 #EXTINF:-1 tvg-id="sky1nz" tvg-name="Sky Sport Nz 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2525" group-title="Deportes",Sky Sport Nz 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=BkzJ9fWIm9UYPI05gcRg4w&expires=1785961220
+https://cdn4.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=GZjZGv_o0uPEJrRg0g-BcQ&expires=1785963017
 #EXTINF:-1 tvg-id="sky2nz" tvg-name="Sky Sport Nz 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2526" group-title="Deportes",Sky Sport Nz 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=gfoEX9eg92a1OHbRYIAheQ&expires=1785961220
+https://cdn2.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=GXSR-UNruEO9t8sf4HWj_A&expires=1785963017
 #EXTINF:-1 tvg-id="sky3nz" tvg-name="Sky Sport Nz 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2527" group-title="Deportes",Sky Sport Nz 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=sKqbkL7gVY5-hmVBXh4F6Q&expires=1785961220
+https://cdn10.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=SY8zv2-zygCCRPdNyEHHrw&expires=1785963017
 #EXTINF:-1 tvg-id="sky4nz" tvg-name="Sky Sport Nz 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2528" group-title="Deportes",Sky Sport Nz 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=ICvm3bjhUxL-djWOk-U_3w&expires=1785961221
+https://cdn9.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=81AfpuQ_6ZoTRv0979GqRA&expires=1785963017
 #EXTINF:-1 tvg-id="sky5nz" tvg-name="Sky Sport Nz 5" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2529" group-title="Deportes",Sky Sport Nz 5
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn2.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=ZWRfMl5JwVvROSPDBn8qpw&expires=1785961221
+https://cdn5.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=sHHwA6zTjcRtEAKRkPtVVA&expires=1785963018
 #EXTINF:-1 tvg-id="sky7nz" tvg-name="Sky Sport Nz 7" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2530" group-title="Deportes",Sky Sport Nz 7
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=nbuKoPxjbDelVkeNj1wPAg&expires=1785961221
+https://cdn2.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=2hPCmpMxoZzuQlR1PXYWhQ&expires=1785963018
 #EXTINF:-1 tvg-id="sky8nz" tvg-name="Sky Sport Nz 8" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2531" group-title="Deportes",Sky Sport Nz 8
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn7.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=tpEROJZLJsPuVeso0CQgyg&expires=1785961221
+https://cdn7.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=D2hWM-x7PhqgQv5O4dJ2Kg&expires=1785963018
 #EXTINF:-1 tvg-id="sky9nz" tvg-name="Sky Sport Nz 9" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" tvg-chno="2532" group-title="Deportes",Sky Sport Nz 9
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=t0-agZ8PQSvOvZJxm0yKzw&expires=1785961221
+https://cdn5.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=buvmcEQhxVQdoCvvZrSoFg&expires=1785963018
 #EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" tvg-chno="2533" group-title="Deportes",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=B42zdlDEJ0-yHcD4Li7foQ&expires=1785961221
+https://cdn3.zohanayaan.com:1686/hls/skysact.m3u8?md5=6jmV7kjAbpxA8sIWJ2LlgQ&expires=1785963018
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" tvg-chno="2534" group-title="Deportes",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=A-HM-hwN6dB2wDSIVC4enA&expires=1785961221
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=DwF6pCTWu6tA283-dQbmrg&expires=1785963019
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" tvg-chno="2535" group-title="Deportes",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=P5z2nxm2NZW6_W1ReWKq3A&expires=1785961220
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=0fNAS5trpXNWaX2IrA9XHQ&expires=1785963016
 #EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" tvg-chno="2536" group-title="Deportes",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=54ozNlsO3Vg9dHa0MgNwIQ&expires=1785961222
+https://cdn6.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=dzgc0UvQWvjRJYX3s3Hnvg&expires=1785963020
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Plus" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" tvg-chno="2537" group-title="Deportes",Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=A-HM-hwN6dB2wDSIVC4enA&expires=1785961221
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=DwF6pCTWu6tA283-dQbmrg&expires=1785963019
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS GRID HD" tvg-logo="https://i.imgur.com/yswLt38.png" tvg-chno="2538" group-title="Deportes",SPORTS GRID HD
 https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=_qnpor080IHZsdt3pWXK7Q&e=2074426561&scheme=https
 #EXTINF:-1 tvg-id="bbtsp1" tvg-name="TNT 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" tvg-chno="2539" group-title="Deportes",TNT 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn9.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=H36kKiLzQ4lHC08Kpuo3Ng&expires=1785961220
+https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=IGQ7Eb_tdIkPjVdTxBb9Fw&expires=1785963016
 #EXTINF:-1 tvg-id="bbtsp2" tvg-name="TNT 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" tvg-chno="2540" group-title="Deportes",TNT 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=nbsLckoGRSuXR5a0YnaNNA&expires=1785961220
+https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=S6fp77A7nSokRMJTL5nO5Q&expires=1785963017
 #EXTINF:-1 tvg-id="bbtsp3" tvg-name="TNT 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" tvg-chno="2541" group-title="Deportes",TNT 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=mABP0rJoa7IYSeef_EESYg&expires=1785961220
+https://cdn9.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=8_5nV6JU9hALXGOZ5XhorA&expires=1785963017
 #EXTINF:-1 tvg-id="bbtespn" tvg-name="TNT 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" tvg-chno="2542" group-title="Deportes",TNT 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=hrhj2pOx-YE5577qZgSxIg&expires=1785961220
+https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=STgALzWKF3CZdkGInH3Leg&expires=1785963017
 #EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars HD" tvg-logo="https://i.imgur.com/F8FR3hl.png" tvg-chno="2543" group-title="Deportes",Trace Sport Stars HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNBEATEN HD" tvg-logo="https://i.imgur.com/53nLP2H.png" tvg-chno="2544" group-title="Deportes",UNBEATEN HD
@@ -5348,3 +5348,7 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiplashCinema.us" tvg-name="Whiplash Cinema" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-chno="2633" group-title="TV",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="TelefeNoticias.ar" tvg-name="Telefe Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Noticias
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980099/ei/Y5BzauGkAs-g-LAPz9fD4As/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/XhAYcYpPzTc.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhMikbgvbRqranUeHgtcyg_hsF-nzo_yqXCeH7A4UhOfXnPzv3PTdWPjpYAg4kk56Vyz72BngPrE/spc/KBGBcvaHSeR-DgtEJmMnFex9HtyrDI3h16YzAzmuL7ESOdfkCQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2407500/met/1785958499,/mh/04/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/2/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAP3fIfgjhalXVC8bQlBBjx-pYjtRyUn_p37JjHG_FoM4AiEA73aiWIpIkY-O0LXxmvzZ_qloHP-MUZFpD5zNb__vNYw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPWJBMih5SY0n4kpHamQ57VYzmzaG27NizRv1Ru-zl-oAiEAyEF0zAytclj7ymbkBWlD2RVQjXQf6XEl2oq3RnEIYDI%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="LaNacionMas.ar" tvg-name="La Nacion+" tvg-logo="" group-title="Argentina",La Nacion+
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980100/ei/ZJBzaqqjOp2P4dUPp7vW4Ag/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/FEWZjXJ7M0c.21/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/AZFlqhN95uWYWTOu_RganS5APE2X2b4oTVo_0Kbkl8XMKHCrFaZZTHr42UYN_RELLAIdd_rnuOc2hYmS/spc/KBGBcpwLelTJNSWlVWn_W3GNCcBFX3mJ5B7q5lY16GCJjQhcZA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958501,/mh/Ph/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/6/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAO8NRkHnMMmRyWXqdBrUGpY2qWKPONqecU1OsGRVKdZFAiAzTMSvTm8hpnyoqVQ0hAZmETCNaG5JI4H2Iw1NeiNtGA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbVvy3_D9LihlbaQxW2F6Sw-YtWr8eAoen200puIbECsCIQDEE9THLXHGmEyasTBnmr99-l-1BXmcZeSA2x99XndqEA%3D%3D/playlist/index.m3u8

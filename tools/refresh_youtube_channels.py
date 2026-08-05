@@ -19,13 +19,49 @@ import sys
 import tempfile
 
 # Stable YouTube live pages → channel name / tvg-id used in our playlist.
+# Only channels that reliably run a full-time /live broadcast.
 YOUTUBE_LIVES = [
     {
         "name": "C5N",
         "tvg_id": "C5N.ar",
-        # Official live page (resolves to current broadcast id).
         "page": "https://www.youtube.com/c/c5n/live",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png",
+    },
+    {
+        "name": "TN",
+        "tvg_id": "TN.ar",
+        "page": "https://www.youtube.com/c/todonoticias/live",
+        "logo": "https://i.imgur.com/vFwPhPS.png",
+    },
+    {
+        "name": "A24",
+        "tvg_id": "A24.ar",
+        "page": "https://www.youtube.com/@A24com/live",
+        "logo": "https://i.imgur.com/E3pamA5.png",
+    },
+    {
+        "name": "Cronica TV",
+        "tvg_id": "CronicaTV.ar",
+        "page": "https://www.youtube.com/@cronicatv/live",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png",
+    },
+    {
+        "name": "Telefe Noticias",
+        "tvg_id": "TelefeNoticias.ar",
+        "page": "https://www.youtube.com/@TelefeNoticias/live",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    },
+    {
+        "name": "La Nacion+",
+        "tvg_id": "LaNacionMas.ar",
+        "page": "https://www.youtube.com/@lanacion/live",
+        "logo": "",
+    },
+    {
+        "name": "24 Horas",
+        "tvg_id": "24Horas.cl",
+        "page": "https://www.youtube.com/user/24horas/live",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     },
 ]
 

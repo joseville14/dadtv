@@ -1,0 +1,40 @@
+name: Refresh YouTube live channels
+
+# googlevideo HLS tokens expire in a few hours. Re-extract AR/CL news lives
+# (C5N, TN, A24, Crónica, Telefe Noticias, LN+, 24 Horas) into playlist.m3u.
+on:
+  schedule:
+    - cron: "20 */2 * * *"   # every 2 hours
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install yt-dlp
+        run: |
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+          yt-dlp --version
+
+      - name: Refresh YouTube HLS URLs
+        run: |
+          python3 tools/refresh_youtube_channels.py \
+            --playlist playlist.m3u \
+            --verified verified.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u verified.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Refresh YouTube live HLS tokens (C5N + AR/CL news)"
+            git push
+          fi
