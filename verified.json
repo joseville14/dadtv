@@ -26,7 +26,8 @@
    "iptvorg-cl",
    "iptvorg-index",
    "jsonteles-cl",
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -107,7 +108,8 @@
   "srcs": [
    "dearbulut-cl",
    "jsonteles-cl",
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -298,7 +300,8 @@
   "geo": "global",
   "cdn": "dpsgo.com",
   "srcs": [
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -330,6 +333,7 @@
  {
   "name": "13 FutGO",
   "cats": [
+   "futbol",
    "chile"
   ],
   "country": "cl",
@@ -347,7 +351,8 @@
   "geo": "global",
   "cdn": "dpsgo.com",
   "srcs": [
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -512,14 +517,14 @@
   ]
  },
  {
-  "name": "24 horas",
+  "name": "24 Horas",
   "cats": [
    "chile",
    "news"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/0rF6Kub.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
   "tvgId": "24Horas.cl",
   "urls": [
    "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"
@@ -532,7 +537,8 @@
   "geo": "likely",
   "cdn": "mdstrm.com",
   "srcs": [
-   "freetv-cl"
+   "freetv-cl",
+   "musthave"
   ]
  },
  {
@@ -1275,15 +1281,16 @@
   ]
  },
  {
-  "name": "ChileVision",
+  "name": "Chilevision",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/PRijvR0.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
   "tvgId": "ChileVision.cl",
   "urls": [
+   "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
    "http://15.204.246.24:8080/CHVHD/index.m3u8"
   ],
   "w": 1920,
@@ -1294,7 +1301,8 @@
   "geo": "global",
   "cdn": "246.24",
   "srcs": [
-   "dearbulut-cl"
+   "dearbulut-cl",
+   "musthave"
   ]
  },
  {
@@ -1456,7 +1464,7 @@
   ]
  },
  {
-  "name": "CNN Chile (1) [CL]",
+  "name": "CNN Chile",
   "cats": [
    "chile",
    "news"
@@ -1477,7 +1485,8 @@
   "cdn": "rudo.video",
   "srcs": [
    "jsonteles-cl",
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -2584,7 +2593,8 @@
    "dearbulut-cl",
    "herberthe-o_all",
    "iptvorg-cl",
-   "iptvorg-index"
+   "iptvorg-index",
+   "musthave"
   ]
  },
  {
@@ -4515,8 +4525,9 @@
   ]
  },
  {
-  "name": "T13 - Teletrece [CL]",
+  "name": "T13",
   "cats": [
+   "news",
    "chile"
   ],
   "country": "cl",
@@ -4536,7 +4547,8 @@
   "srcs": [
    "freetv-cl",
    "jsonteles-cl",
-   "verified-manual"
+   "verified-manual",
+   "musthave"
   ]
  },
  {
@@ -7533,6 +7545,7 @@
   "logo": "https://i.imgur.com/TrgBAdA.png",
   "tvgId": "ElTrece.ar",
   "urls": [
+   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
    "http://15.204.246.24:8080/eltreceHD/index.m3u8"
   ],
   "w": 1280,
@@ -7543,7 +7556,8 @@
   "geo": "global",
   "cdn": "246.24",
   "srcs": [
-   "dearbulut-ar"
+   "dearbulut-ar",
+   "musthave"
   ]
  },
  {
@@ -8502,7 +8516,8 @@
   "geo": "likely",
   "cdn": "41.246",
   "srcs": [
-   "dearbulut-ar"
+   "dearbulut-ar",
+   "musthave"
   ]
  },
  {
@@ -8681,7 +8696,8 @@
   "geo": "global",
   "cdn": "246.24",
   "srcs": [
-   "dearbulut-ar"
+   "dearbulut-ar",
+   "musthave"
   ]
  },
  {
@@ -63537,6 +63553,124 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
+  ]
+ },
+ {
+  "name": "CHV Noticias",
+  "cats": [
+   "chile",
+   "news"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
+  "tvgId": "CHVNoticias.cl",
+  "urls": [
+   "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "America TV",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://i.imgur.com/Jt7dOQm.png",
+  "tvgId": "AmericaTV.ar",
+  "urls": [
+   "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "TV Publica",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://i.imgur.com/4hYYpiu.png",
+  "tvgId": "TVPublica.ar",
+  "urls": [
+   "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "A24",
+  "cats": [
+   "argentina",
+   "news"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://i.imgur.com/E3pamA5.png",
+  "tvgId": "A24.ar",
+  "urls": [
+   "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
+  ]
+ },
+ {
+  "name": "TyC Sports",
+  "cats": [
+   "argentina",
+   "futbol"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://i.imgur.com/5ZNZYjO.png",
+  "tvgId": "TyCSports.ar",
+  "urls": [
+   "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
   ]
  }
 ]
