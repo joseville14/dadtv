@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png" tvg-chno="1" group-title="⭐ Para Papá",C5N
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980075/ei/S5BzapTuBdDy1sQPv_2ZAQ/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhP2c2x2sl5N_p8If6SzfUL5pUIo6CmvtLL07Ws2XoOVIFVD3TRqxzd8XQfo1hTRl4lDIxeBZDy1/spc/KBGBciqU35YDU15otOaCkijeuu3oLvRyq-1TGTH6VwlYboGc_w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958475,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgaczlPcHCRgo4ei5ZMz_LJFi8h-zpSaMo6-oguQUquQMCIQD87z_LWBL3WJiJWLvDEOYAgyInBdZB_zPJIAayR2uZEw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIgjZwBbKy6zaARRgT9RGUseNOXq2jy7XJWoLrUxY4LIAiEAsaznvOkSB_d5MRjd8U7KM9hJ7g0rpMTZ7Wb4XdYylZ8%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" tvg-chno="2" group-title="⭐ Para Papá",HBO Xtreme
+http://190.60.37.118:4000/play/a03z
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" tvg-chno="3" group-title="⭐ Para Papá",HBO Family
+http://181.205.130.194:4000/play/a0dr
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Channel" tvg-logo="" tvg-chno="4" group-title="⭐ Para Papá",Warner Channel
+http://190.60.37.118:4000/play/a04g
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-chno="5" group-title="⭐ Para Papá",Cinecanal
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/5ZNZYjO.png" tvg-chno="6" group-title="⭐ Para Papá",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" tvg-chno="7" group-title="⭐ Para Papá",ESPN 2
+http://190.61.43.117:45000/play/a053
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" tvg-chno="8" group-title="⭐ Para Papá",Fox Sports
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1 tvg-id="13Deportes.cl" tvg-name="13 Deportes" tvg-logo="" tvg-chno="9" group-title="⭐ Para Papá",13 Deportes
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png" tvg-chno="10" group-title="⭐ Para Papá",Cronica TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785980080/ei/UJBzasSKMfyT-LAPsb7EmAQ/ip/2800:300:6f15:5c30:4c16:d535:d5b5:e160/id/hw4uHyct4vg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhM01yEeqoSKbDH74xXKY8N6-P4tpIA_BnC3qTT_zysVy-6wr47Qy_h4YozVXma9vH_hxtbs4afA/spc/KBGBcuJj5_cnCOtXJn60utbCSm3Qq9h09X5nfkPNX7tB2R6e6g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1902500/met/1785958480,/mh/B7/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/46/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785957877/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJmua5Jp1CjGnAQkPtNxTbB-5ZG3RPsL5SH4Vq7MRNn5AiBqw0M4odH4a29ryE6JzOAYu3mmsuEEWxPGVbIzZPBQFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAP9LSfbQMUUNaDsGBL4R8fAsNYYLva8ItQIyQE1_rKQNAiEAuP1IE48QMIzxOABwSi-avMOPUdBOD8cvWtYL8LdyPSw%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-chno="11" group-title="⭐ Para Papá",CBC News Network
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" tvg-chno="12" group-title="⭐ Para Papá",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC News Network HD CA" tvg-logo="" tvg-chno="13" group-title="⭐ Para Papá",CBC News Network HD CA
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6442/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" tvg-chno="14" group-title="⭐ Para Papá",CNN
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6499/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-chno="15" group-title="⭐ Para Papá",BBC News
+https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="6536725167bd1a00084481bc" tvg-name="CBC News" tvg-logo="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" tvg-chno="16" group-title="⭐ Para Papá",CBC News
+https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-chno="17" group-title="⭐ Para Papá",ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="ESPN8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" tvg-chno="18" group-title="⭐ Para Papá",ESPN8: The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" tvg-chno="19" group-title="⭐ Para Papá",ESPNews
+https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://i.imgur.com/HiBrysh.png" tvg-chno="20" group-title="⭐ Para Papá",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" tvg-chno="21" group-title="⭐ Para Papá",TVN
+https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-chno="22" group-title="⭐ Para Papá",ESPN 3
+http://190.61.43.117:45000/play/a051
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-chno="23" group-title="⭐ Para Papá",ESPN 4
+http://179.51.136.19:8000/play/a1a5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN7.ar" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-chno="24" group-title="⭐ Para Papá",ESPN 7
+http://190.60.37.118:4000/play/a09j
+#EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-name="ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-chno="25" group-title="⭐ Para Papá",ESPN Extra
+http://190.61.43.117:45000/play/a01v
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="26" group-title="⭐ Para Papá",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-chno="27" group-title="⭐ Para Papá",ESPN
+http://190.83.2.182:8090/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" tvg-chno="28" group-title="⭐ Para Papá",Chilevision
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CA1400004AE" tvg-name="CTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400004AE_20260421T141158SQUARE.png" tvg-chno="29" group-title="⭐ Para Papá",CTV News
+https://jmp2.uk/stvp-CA1400004AE
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-chno="30" group-title="⭐ Para Papá",El Trece
+http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" tvg-chno="31" group-title="⭐ Para Papá",Fox Sports 2
+http://190.61.43.117:45000/play/a01g
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-chno="32" group-title="⭐ Para Papá",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera2.qa" tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png" tvg-chno="33" group-title="⭐ Para Papá",Al Jazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="al jazeera english" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904160018056594_85.png" tvg-chno="34" group-title="⭐ Para Papá",al jazeera english
+https://stream1.freetv.fun/eb4901826f7e7e778e2321b85ca4437a494febfd3700b7f86ea14d03d34cc010.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-name="Al Jazeera Mubasher 24" tvg-logo="https://i.imgur.com/LMCcIZ2.png" tvg-chno="35" group-title="⭐ Para Papá",Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-name="Al Jazeera Mubasher Broadcast 2" tvg-logo="https://i.imgur.com/nJmi6G6.png" tvg-chno="36" group-title="⭐ Para Papá",Al Jazeera Mubasher Broadcast 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTV News Channel HD CA" tvg-logo="" tvg-chno="37" group-title="⭐ Para Papá",CTV News Channel HD CA
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6468/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="fox sports 1" tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg" tvg-chno="38" group-title="⭐ Para Papá",fox sports 1
+https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.m3u8
+#EXTINF:-1 tvg-id="660c29b5aec9680008f5b4a4" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/colorLogoPNG_1750064928408.png" tvg-chno="39" group-title="⭐ Para Papá",FIFA+
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-name="FIFA+ Women" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" tvg-chno="40" group-title="⭐ Para Papá",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
