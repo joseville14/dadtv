@@ -67,9 +67,17 @@ YOUTUBE_LIVES = [
 
 
 def yt_hls(page: str) -> str:
+    # -4 is load-bearing, not a preference. googlevideo HLS URLs embed the
+    # requesting client's address in an /ip/<addr>/ path segment and only serve
+    # that address. Over IPv6 that is this Mac's own globally-unique address, so
+    # the URL plays here and 403s on the TV — which is exactly what happened:
+    # the refresher "succeeded" for weeks while those channels stayed dark.
+    # Forcing IPv4 binds the URL to the household's shared NAT address instead,
+    # which the TV egresses through too.
     out = subprocess.check_output(
         [
             "yt-dlp",
+            "-4",
             "-g",
             "-f",
             "best[height<=1080]/best",
@@ -78,7 +86,7 @@ def yt_hls(page: str) -> str:
             page,
         ],
         timeout=60,
-        stderr=subprocess.DEVNULL,
+        stderr=subprocess.PIPE,   # keep the real error; DEVNULL hid it before
     ).decode().strip().splitlines()
     if not out:
         raise RuntimeError(f"yt-dlp returned no URL for {page}")
@@ -169,6 +177,10 @@ def main():
     for ch in YOUTUBE_LIVES:
         try:
             url = yt_hls(ch["page"])
+        except subprocess.CalledProcessError as e:
+            detail = (e.stderr or b"").decode(errors="replace").strip().splitlines()
+            print(f"FAIL {ch['name']}: {detail[-1] if detail else e}", file=sys.stderr)
+            continue
         except Exception as e:
             print(f"FAIL {ch['name']}: {e}", file=sys.stderr)
             continue
