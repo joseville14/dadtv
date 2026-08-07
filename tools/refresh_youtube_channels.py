@@ -17,6 +17,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import urllib.request
 
 # Stable YouTube live pages → channel name / tvg-id used in our playlist.
 # Only channels that reliably run a full-time /live broadcast.
@@ -74,6 +75,12 @@ def yt_hls(page: str) -> str:
     # the refresher "succeeded" for weeks while those channels stayed dark.
     # Forcing IPv4 binds the URL to the household's shared NAT address instead,
     # which the TV egresses through too.
+    # player_client=mweb is load-bearing. yt-dlp's default client hands back the
+    # DVR manifest: a 2-hour rewind window listing 7,200 one-second segments,
+    # each with a ~1.1 KB signed URL — a 9.8 MB playlist that hls.js must
+    # re-download and re-parse every second because TARGETDURATION is 1. The TV
+    # cannot do that; the URL resolves with HTTP 200 and then never plays.
+    # mweb returns the live sliding window instead: 3-6 segments, 5-8 KB.
     out = subprocess.check_output(
         [
             "yt-dlp",
@@ -81,6 +88,8 @@ def yt_hls(page: str) -> str:
             "-g",
             "-f",
             "best[height<=1080]/best",
+            "--extractor-args",
+            "youtube:player_client=mweb",
             "--no-warnings",
             "--no-playlist",
             page,
@@ -91,6 +100,26 @@ def yt_hls(page: str) -> str:
     if not out:
         raise RuntimeError(f"yt-dlp returned no URL for {page}")
     return out[0].strip()
+
+
+# A live window is a few KB. Anything approaching a megabyte means we have been
+# handed a DVR manifest again and the channel will not play on the TV, so fail
+# loudly rather than publish a URL that looks fine and isn't.
+MAX_PLAYLIST_BYTES = 262144
+
+
+def check_playlist_size(url):
+    """Return (bytes, segments). Raises if the playlist is DVR-sized."""
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        body = r.read(MAX_PLAYLIST_BYTES + 1)
+    if len(body) > MAX_PLAYLIST_BYTES:
+        raise RuntimeError(
+            f"playlist is >{MAX_PLAYLIST_BYTES // 1024} KB — looks like a DVR "
+            f"manifest, which will not play on the TV"
+        )
+    text = body.decode("utf-8", "replace")
+    return len(body), text.count("#EXTINF")
 
 
 def patch_playlist(path: str, name: str, tvg_id: str, logo: str, url: str) -> bool:
@@ -184,7 +213,14 @@ def main():
         except Exception as e:
             print(f"FAIL {ch['name']}: {e}", file=sys.stderr)
             continue
-        print(f"OK {ch['name']}: {url[:96]}…")
+
+        try:
+            nbytes, nsegs = check_playlist_size(url)
+        except Exception as e:
+            print(f"FAIL {ch['name']}: {e}", file=sys.stderr)
+            continue
+
+        print(f"OK {ch['name']}: {nbytes}B/{nsegs} segs  {url[:72]}…")
         if patch_playlist(args.playlist, ch["name"], ch["tvg_id"], ch["logo"], url):
             changed = True
         if args.verified and patch_verified(args.verified, ch["name"], ch["tvg_id"], ch["logo"], url):
