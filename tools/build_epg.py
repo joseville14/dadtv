@@ -119,6 +119,7 @@ EXTRA_CHANNELS = [
     {"name": "ESPN 6",                   "tvgId": "ESPN6.ar",            "logo": ""},
     {"name": "ESPN 7",                   "tvgId": "ESPN7.ar",            "logo": ""},
     {"name": "TNT Sports",               "tvgId": "TNTSports.ar",        "logo": ""},
+    {"name": "Fox Sports 3",             "tvgId": "FoxSports3.ar",       "logo": ""},
     {"name": "TyC Sports",               "tvgId": "TyCSports.ar",        "logo": ""},
     {"name": "DSports Argentina",        "tvgId": "DSports.ar",          "logo": ""},
     # HBO family — added 2026-08-11 with the HBO tab. open-epg Chile publishes
@@ -150,6 +151,7 @@ ALIASES = {
     "FoxSports.ar":        ["FOXSportsConoSur.ar", "FOXSports.ar",
                             "FOX SPORTS ARGENTINA.ar"],
     "FoxSports2.ar":       ["FOXSports2.ar", "FOX SPORTS 2.ar"],
+    "FoxSports3.ar":       ["FOX SPORTS 3.ar", "FOXSports3.ar"],
     # TyC Sports and ESPN 7 are single Southern-Cone feeds carried in both
     # countries; only the Chilean list publishes a guide for them.
     "TyCSports.ar":        ["TyCSports.cl", "TYC SPORTS.ar", "TyC Sports.cl"],
