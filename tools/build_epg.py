@@ -77,8 +77,15 @@ FEEDS = {
     # Found 2026-08-11 by enumerating epgshare01 rather than guessing filenames.
     # Checked against the fabricated-loop heuristic before use: varied durations
     # and genuinely different titles, unlike open-epg's ESPN PREMIUM.ar.
-    "sv":      "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz",
+    # UY1 BEFORE SV1, and the order is load-bearing. SV1 publishes ESPN 5 and 6
+    # only as "(Centroamérica y República Dominicana)", and its display-name pass
+    # cheerfully matched those to our ESPN5.ar / ESPN6.ar — the wrong playout, and
+    # the kind of wrong that shows Dad a programme that is not on. UY1 carries the
+    # Southern-Cone ESPN.5.HD.uy / ESPN.6.HD.uy, so letting it match first (first
+    # feed wins) gets the right region. SV1 still supplies everything else,
+    # including the Chile-specific ids UY1 does not have.
     "uy":      "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz",
+    "sv":      "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz",
     "pluto-cl": "https://i.mjh.nz/PlutoTV/cl.xml.gz",
     "pluto-ar": "https://i.mjh.nz/PlutoTV/ar.xml.gz",
     "pluto-ca": "https://i.mjh.nz/PlutoTV/ca.xml.gz",
