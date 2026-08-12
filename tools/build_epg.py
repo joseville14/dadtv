@@ -17,6 +17,12 @@ reliable first:
     python3 tools/build_epg.py
     python3 tools/build_epg.py --only cl,ar        # just those feeds
 
+A COPY OF THIS FILE LIVES IN THE dadtv PUBLISH REPO. The refresh box rebuilds
+the guide from a throwaway clone of that repo, so FEEDS / ALIASES / WATCHLIST
+edits here only reach Dad's TV once the file is copied across and pushed:
+
+    cp tools/build_epg.py ~/dadtv/tools/build_epg.py && cd ~/dadtv && git commit -am … && git push
+
 Prints an honest match rate — how many of our channels actually got programmes.
 A number well below 100% is normal and expected: many small regional streams
 simply have no published guide data anywhere.
@@ -115,6 +121,17 @@ EXTRA_CHANNELS = [
     {"name": "TNT Sports",               "tvgId": "TNTSports.ar",        "logo": ""},
     {"name": "TyC Sports",               "tvgId": "TyCSports.ar",        "logo": ""},
     {"name": "DSports Argentina",        "tvgId": "DSports.ar",          "logo": ""},
+    # HBO family — added 2026-08-11 with the HBO tab. open-epg Chile publishes
+    # the whole line-up, so these all get real listings; the spaced ids it uses
+    # are mapped in ALIASES below.
+    {"name": "HBO",                      "tvgId": "HBO.cl",              "logo": ""},
+    {"name": "HBO Plus",                 "tvgId": "HBOPlus.cl",          "logo": ""},
+    {"name": "HBO Family",               "tvgId": "HBOFamily.cl",        "logo": ""},
+    {"name": "HBO Xtreme",               "tvgId": "HBOXtreme.cl",        "logo": ""},
+    {"name": "HBO Pop",                  "tvgId": "HBOPop.cl",           "logo": ""},
+    {"name": "HBO Signature",            "tvgId": "HBOSignature.cl",     "logo": ""},
+    {"name": "HBO Mundi",                "tvgId": "HBOMundi.cl",         "logo": ""},
+    {"name": "Cinemax",                  "tvgId": "Cinemax.cl",          "logo": ""},
 ]
 
 # Feeds sometimes publish a channel under an older or regional id. Map our
@@ -177,6 +194,15 @@ ALIASES = {
     "ElNueve.ar":          ["EL NUEVE.ar"],
     "NetTV.ar":            ["NET TV.ar"],
     "Canal26.ar":          ["Canal 26.ar"],
+    # --- HBO family. open-epg CL spaces these ids; "HBO.cl" and "Cinemax.cl"
+    # match exactly and need no alias. HBO Plus is published per-region, so both
+    # the Este and Panregional feeds are offered, best first.
+    "HBOPlus.cl":          ["HBO Plus Este.cl", "HBO Plus Panregional.cl", "HBO PLUS.ar"],
+    "HBOFamily.cl":        ["HBO Family.cl", "HBO FAMILY.ar"],
+    "HBOXtreme.cl":        ["HBO Xtreme.cl", "HBO Xtreme (Oeste).cl", "HBO XTREME.ar"],
+    "HBOPop.cl":           ["HBO Pop.cl", "HBO POP.ar"],
+    "HBOSignature.cl":     ["HBO Signature.cl", "HBO SIGNATURE.ar"],
+    "HBOMundi.cl":         ["HBO Mundi.cl", "HBO MUNDI.ar"],
     # Deliberately NOT aliased: TNTSports.ar -> TNTSports.cl. They are different
     # channels — Liga Profesional in Argentina, Campeonato Nacional in Chile —
     # so borrowing the schedule would print the wrong match on screen.
@@ -212,6 +238,8 @@ WATCHLIST = [
     "ChileVision.cl", "Mega.cl", "TVN.cl", "T13.cl", "CNNChile.cl",
     "24Horas.cl", "Telefe.ar", "ElTrece.ar", "AmericaTV.ar", "ElNueve.ar",
     "NetTV.ar", "TN.ar", "C5N.ar", "A24.ar", "CronicaTV.ar", "Canal26.ar",
+    "HBO.cl", "HBOPlus.cl", "HBOFamily.cl", "HBOXtreme.cl", "HBOPop.cl",
+    "HBOSignature.cl", "HBOMundi.cl", "Cinemax.cl",
     "CHVDeportes.cl", "TNTSports.cl", "TNTSportsPremium.cl",
     "13Deportes.cl", "DIRECTVSports2.cl", "DIRECTVSports+.cl",
     "DSports.us", "ESPN.cl", "ESPN2.cl", "ESPN4.cl",
