@@ -69,6 +69,16 @@ FEEDS = {
     # DirecTV Sports' own guide — the only feed anywhere that carries DSports,
     # DSports 2 and DSports+. Four channels, so it costs nothing to pull.
     "dtv-sports": "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz",
+    # SV1 and UY1 are filed under El Salvador and Uruguay but are nothing of the
+    # sort: both are pan-Latin-American rips that publish the ESPN *regional*
+    # playouts by name — "(Sur)", "(Sudamérica)", "(Chile)". They are the only
+    # source anywhere for ESPN Premium Chile and ESPN 5/6/7, which no other feed
+    # carries, and they are small (1.0 MB / 2.4 MB).
+    # Found 2026-08-11 by enumerating epgshare01 rather than guessing filenames.
+    # Checked against the fabricated-loop heuristic before use: varied durations
+    # and genuinely different titles, unlike open-epg's ESPN PREMIUM.ar.
+    "sv":      "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz",
+    "uy":      "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz",
     "pluto-cl": "https://i.mjh.nz/PlutoTV/cl.xml.gz",
     "pluto-ar": "https://i.mjh.nz/PlutoTV/ar.xml.gz",
     "pluto-ca": "https://i.mjh.nz/PlutoTV/ca.xml.gz",
@@ -155,20 +165,29 @@ ALIASES = {
     # TyC Sports and ESPN 7 are single Southern-Cone feeds carried in both
     # countries; only the Chilean list publishes a guide for them.
     "TyCSports.ar":        ["TyCSports.cl", "TYC SPORTS.ar", "TyC Sports.cl"],
-    "ESPN7.ar":            ["ESPN7.cl"],
-    "ESPN6.ar":            ["ESPN6.cl"],
+    # --- SV1 / UY1 regional playouts. These filled seven channels that had no
+    #     guide anywhere before 2026-08-11. SV1 names the region in the id, so
+    #     pick "(Chile)" or "(Sudamérica)"/"(Sur)" and never "(Norte)",
+    #     "(México)" or "(Centroamérica…)" — those are the wrong playout and
+    #     would print the wrong programme.
+    "ESPN7.ar":            ["Canal.ESPN.7.(Sudamérica).sv", "ESPN7.cl"],
+    "ESPN6.ar":            ["ESPN.6.HD.uy", "ESPN6.cl"],
+    "ESPNPremium.cl":      ["Canal.ESPN.Premium.(Chile).sv"],
     # --- open-epg.com spaces its numbered ESPN ids, so neither the exact nor
     # the case-folded pass reaches them. Spelled out rather than made into a
     # normalising rule: a rule that ate spaces would also fold "ESPN 2" into
     # "ESPN2" for feeds where those are genuinely different channels.
     "ESPN2.cl":            ["ESPN 2.cl"],
     "ESPN4.cl":            ["ESPN 4.cl"],
-    "ESPN5.cl":            ["ESPN 5.cl"],
-    "ESPN7.cl":            ["ESPN 7.cl"],
+    # NOTE: one entry per key. These were briefly duplicated higher up the
+    # dict and Python silently kept only the later definition, so the SV1
+    # aliases were dropped and both channels stayed guide-less.
+    "ESPN5.cl":            ["ESPN 5.cl", "Canal.ESPN.5.(Sudamérica).sv"],
+    "ESPN7.cl":            ["ESPN 7.cl", "Canal.ESPN.7.(Chile).sv"],
     "ESPN2.ar":            ["ESPN 2.ar"],
     "ESPN3.ar":            ["ESPN 3.ar"],
     "ESPN4.ar":            ["ESPN 4.ar"],
-    "ESPN5.ar":            ["ESPN 5.ar"],
+    "ESPN5.ar":            ["ESPN 5.ar", "ESPN.5.HD.uy"],
     "ESPNExtra.ar":        ["ESPN Extra.cl", "ESPN Extra.ar"],
     # ESPN Premium is one Argentine channel (the Liga Profesional rights holder),
     # and open-epg DOES publish an "ESPN PREMIUM.ar" — but it is FABRICATED, so
@@ -230,14 +249,19 @@ ALIASES = {
 # has no feed of its own. Needed when both ids are real EXTRA_CHANNELS (alias
 # registration cannot steal an id another channel owns — see wanted_index).
 GUIDE_SHARE = {
+    # ESPN 5 and 7 AR now match directly off SV1/UY1, so these two are only a
+    # fallback for the day those feeds go the way of iptv-epg.org.
     "ESPN7.ar":  "ESPN7.cl",     # Southern-Cone ESPN 7
     "DSports.ar": "DSports.us",  # same three panel mirrors / DirecTV Sports brand
     "ESPN5.ar":  "ESPN5.cl",     # Southern-Cone ESPN 5; ESPN5.cl is a channel we
                                  # carry, so an alias cannot claim its id
-    # (ESPNPremium.cl deliberately shares nothing now — its only possible source
-    #  was the fabricated ESPN PREMIUM.ar loop described in ALIASES above. Both
-    #  Chilean and Argentine rows are the same feed; frame-checked 2026-08-11,
-    #  they showed byte-identical ESPN Knock Out coverage.)
+    # ESPN Premium: the sharing is back, but the direction is reversed and the
+    # source is different. open-epg's "ESPN PREMIUM.ar" was fabricated and is
+    # still not used; SV1 publishes a REAL "Canal.ESPN.Premium.(Chile).sv",
+    # which ESPNPremium.cl takes as an alias above. The Argentine row borrows it
+    # from there — legitimate, because the two are the same feed: frame-checked
+    # 2026-08-11, both showed byte-identical ESPN Knock Out coverage.
+    "ESPNPremium.ar": "ESPNPremium.cl",
     # Southern-Cone ESPN 4, same logic as ESPN 5 and 7 above — but sharing the
     # other way round now: open-epg publishes "ESPN 4.ar" and no Chilean twin,
     # where iptv-epg.org used to publish both.
@@ -290,6 +314,22 @@ def fetch(url, timeout=180):
         except OSError:
             pass
     return raw
+
+
+def _assert_no_duplicate_alias_keys():
+    """A repeated key in the ALIASES literal is invisible: Python keeps only the
+    last definition and the earlier aliases vanish. That happened on 2026-08-11
+    — ESPN 5 and ESPN 7 Chile were given SV1 aliases, a second ESPN5.cl/ESPN7.cl
+    pair further down the dict silently won, and both channels stayed guide-less
+    through a full build that reported no error at all. Fail loudly instead."""
+    import re, collections
+    src = io.open(os.path.abspath(__file__), encoding="utf-8").read()
+    block = src[src.index("ALIASES = {"):src.index("# After matching:")]
+    keys = re.findall(r'^\s{4}"([^"]+)":\s*\[', block, re.M)
+    dupes = sorted(k for k, n in collections.Counter(keys).items() if n > 1)
+    if dupes:
+        sys.exit("ALIASES has duplicate keys, so some aliases are being "
+                 "silently discarded: %s" % ", ".join(dupes))
 
 
 def wanted_index(chans):
@@ -392,6 +432,8 @@ def main():
     ap.add_argument("--only", default="", help="comma-separated feed keys")
     ap.add_argument("--gzip", action="store_true", help="also write epg.xml.gz")
     args = ap.parse_args()
+
+    _assert_no_duplicate_alias_keys()
 
     chans = json.load(open(args.pack))
 
