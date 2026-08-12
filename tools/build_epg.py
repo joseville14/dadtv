@@ -167,11 +167,20 @@ ALIASES = {
     "ESPN4.ar":            ["ESPN 4.ar"],
     "ESPN5.ar":            ["ESPN 5.ar"],
     "ESPNExtra.ar":        ["ESPN Extra.cl", "ESPN Extra.ar"],
-    # ESPN Premium is one Argentine channel (the Liga Profesional rights
-    # holder). open-epg publishes it upper-cased and only under .ar; the
-    # "ESPN Premium Chile" we carry is that same feed on a Chilean panel, so
-    # ESPNPremium.cl borrows it through GUIDE_SHARE below.
-    "ESPNPremium.ar":      ["ESPN PREMIUM.ar"],
+    # ESPN Premium is one Argentine channel (the Liga Profesional rights holder),
+    # and open-epg DOES publish an "ESPN PREMIUM.ar" — but it is FABRICATED, so
+    # it is deliberately NOT aliased here. Removed 2026-08-11 after the owner
+    # reported the channel looking wrong.
+    # What it publishes is a gapless 24-hour loop of 115-minute "Fútbol Argentino
+    # Primera División" blocks with the same fixtures repeating three times a day.
+    # Caught by playing the channel and reading the picture: the guide claimed
+    # "Independiente vs. Platense" while the feed was showing ESPN Knock Out
+    # boxing. The FEED is correct — only the listing was invented.
+    # Detect this class of junk before trusting a new feed:
+    #   a channel whose programmes are gapless, near-identical in duration, and
+    #   repeat their titles is a placeholder, not a schedule.
+    # A wrong programme on screen is worse than a blank one, so ESPN Premium now
+    # carries no guide on either side of the border.
     # In Argentina the Liga Profesional co-broadcaster is branded plain "TNT
     # Sports"; open-epg lists it as "TNT SPORTS PREMIUM.ar". Same channel — not
     # to be confused with TNT Sports Premium *Chile*, which is CDF Premium.
@@ -221,10 +230,10 @@ GUIDE_SHARE = {
     "DSports.ar": "DSports.us",  # same three panel mirrors / DirecTV Sports brand
     "ESPN5.ar":  "ESPN5.cl",     # Southern-Cone ESPN 5; ESPN5.cl is a channel we
                                  # carry, so an alias cannot claim its id
-    # ESPN Premium is a single Argentine channel. "ESPN Premium Chile" is that
-    # same feed restreamed from a Chilean panel, so it shows the same Liga
-    # Profesional match — this is a shared feed, not a borrowed neighbour.
-    "ESPNPremium.cl": "ESPNPremium.ar",
+    # (ESPNPremium.cl deliberately shares nothing now — its only possible source
+    #  was the fabricated ESPN PREMIUM.ar loop described in ALIASES above. Both
+    #  Chilean and Argentine rows are the same feed; frame-checked 2026-08-11,
+    #  they showed byte-identical ESPN Knock Out coverage.)
     # Southern-Cone ESPN 4, same logic as ESPN 5 and 7 above — but sharing the
     # other way round now: open-epg publishes "ESPN 4.ar" and no Chilean twin,
     # where iptv-epg.org used to publish both.
