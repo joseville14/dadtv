@@ -125,6 +125,7 @@ EXTRA_CHANNELS = [
     # the whole line-up, so these all get real listings; the spaced ids it uses
     # are mapped in ALIASES below.
     {"name": "HBO",                      "tvgId": "HBO.cl",              "logo": ""},
+    {"name": "HBO 2",                    "tvgId": "HBO2.cl",             "logo": ""},
     {"name": "HBO Plus",                 "tvgId": "HBOPlus.cl",          "logo": ""},
     {"name": "HBO Family",               "tvgId": "HBOFamily.cl",        "logo": ""},
     {"name": "HBO Xtreme",               "tvgId": "HBOXtreme.cl",        "logo": ""},
@@ -206,6 +207,7 @@ ALIASES = {
     # --- HBO family. open-epg CL spaces these ids; "HBO.cl" and "Cinemax.cl"
     # match exactly and need no alias. HBO Plus is published per-region, so both
     # the Este and Panregional feeds are offered, best first.
+    "HBO2.cl":             ["HBO 2.cl", "HBO 2.ar"],
     "HBOPlus.cl":          ["HBO Plus Este.cl", "HBO Plus Panregional.cl", "HBO PLUS.ar"],
     "HBOFamily.cl":        ["HBO Family.cl", "HBO FAMILY.ar"],
     "HBOXtreme.cl":        ["HBO Xtreme.cl", "HBO Xtreme (Oeste).cl", "HBO XTREME.ar"],
@@ -247,7 +249,7 @@ WATCHLIST = [
     "ChileVision.cl", "Mega.cl", "TVN.cl", "T13.cl", "CNNChile.cl",
     "24Horas.cl", "Telefe.ar", "ElTrece.ar", "AmericaTV.ar", "ElNueve.ar",
     "NetTV.ar", "TN.ar", "C5N.ar", "A24.ar", "CronicaTV.ar", "Canal26.ar",
-    "HBO.cl", "HBOPlus.cl", "HBOFamily.cl", "HBOXtreme.cl", "HBOPop.cl",
+    "HBO.cl", "HBO2.cl", "HBOPlus.cl", "HBOFamily.cl", "HBOXtreme.cl", "HBOPop.cl",
     "HBOSignature.cl", "HBOMundi.cl", "Cinemax.cl",
     "CHVDeportes.cl", "TNTSports.cl", "TNTSportsPremium.cl",
     "13Deportes.cl", "DIRECTVSports2.cl", "DIRECTVSports+.cl",
