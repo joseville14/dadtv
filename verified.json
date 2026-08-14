@@ -63960,8 +63960,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png",
   "tvgId": "C5N.ar",
   "urls": [
-   "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786759606/ei/VnV_ap6eI-2U-LAPqoakqAk/ip/186.10.41.103/id/j6oh4Kqz3UM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/ssa/1/bui/AZFlqhMufW9V-rN4nFh9Al1hMcx5O5ZKK7Tsj0OY-qAdTEEk-MBJdR2RKnoex2fUsA5Knlqt0luvQz8Q/spc/KBGBcvAsPZi_qwLgg7A4GZI8e0SGAyp-tA5KMZ0-u1hfublGmPx3WwLH2vIuyc49/vprv/1/reg/0/playlist_type/LIVE/initcwndbps/2011250/met/1786738006,/mh/SY/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786737633/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPb4nTZK4ijpAcwiXu56bHNYvAJwOhJ9j-h1sSIvKLrxAiBXgFyAUjDuAOv-2HeqZRLr8pDRAiCTzbtSoTpKT0aGJQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgXL5AnrQ80QDKqRANDzV-RKNKrHE4HGX1rVrLC6MALUwCIQC6s9wciov40GsNTrIbdmLaNas4W2y51N33TGCnLKMc4A%3D%3D/playlist/index.m3u8",
-   "http://192.168.100.53:8178/c5n.ts"
+   "http://192.168.100.53:8178/c5n.m3u8"
   ],
   "w": 1920,
   "h": 1080,
