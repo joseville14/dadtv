@@ -18,7 +18,7 @@ http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-id="13Deportes.cl" tvg-name="13 Deportes" tvg-logo="" tvg-chno="9" group-title="⭐ Para Papá",13 Deportes
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png" tvg-chno="10" group-title="⭐ Para Papá",Cronica TV
-http://192.168.100.53:8178/cronica.ts
+http://192.168.100.53:8178/cronica.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-chno="11" group-title="⭐ Para Papá",CBC News Network
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" tvg-chno="12" group-title="⭐ Para Papá",Mega
@@ -98,7 +98,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" tvg-chno="49" group-title="Chile",CNN Chile
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" tvg-chno="50" group-title="Chile",24 Horas
-http://192.168.100.53:8178/24horas.ts
+http://192.168.100.53:8178/24horas.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-chno="51" group-title="Chile",La Red
 http://45.162.193.35/LA_RED/index.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-name="Meganoticias [CL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png" tvg-chno="52" group-title="Chile",Meganoticias [CL]
@@ -512,11 +512,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-chno="256" group-title="Argentina",TV Publica
 https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-chno="257" group-title="Argentina",TN
-http://192.168.100.53:8178/tn.ts
+http://192.168.100.53:8178/tn.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-chno="258" group-title="Argentina",A24
-http://192.168.100.53:8178/a24.ts
+http://192.168.100.53:8178/a24.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png" tvg-chno="259" group-title="Argentina",Cronica TV
-http://192.168.100.53:8178/cronica.ts
+http://192.168.100.53:8178/cronica.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-chno="260" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-chno="261" group-title="Argentina",Telemax
@@ -3336,9 +3336,9 @@ http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6470/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 horas [CL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" tvg-chno="1668" group-title="Noticias",24 horas [CL]
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-chno="1669" group-title="Noticias",24 Horas
-http://192.168.100.53:8178/24horas.ts
+http://192.168.100.53:8178/24horas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 horas" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174550461890_53.png" tvg-chno="1670" group-title="Noticias",24 horas
-http://192.168.100.53:8178/24horas.ts
+http://192.168.100.53:8178/24horas.m3u8
 #EXTINF:-1 tvg-id="6536725167bd1a00084481bc" tvg-name="CBC News" tvg-logo="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" tvg-chno="1671" group-title="Noticias",CBC News
 https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 #EXTINF:-1 tvg-id="CA15000018F" tvg-name="CBC News BC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA15000018F_20250401T004701SQUARE.png" tvg-chno="1672" group-title="Noticias",CBC News BC
@@ -5349,6 +5349,6 @@ https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiplashCinema.us" tvg-name="Whiplash Cinema" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-chno="2633" group-title="TV",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="TelefeNoticias.ar" tvg-name="Telefe Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Noticias
-http://192.168.100.53:8178/telefe-noticias.ts
+http://192.168.100.53:8178/telefe-noticias.m3u8
 #EXTINF:-1 tvg-id="LaNacionMas.ar" tvg-name="La Nacion+" tvg-logo="" group-title="Argentina",La Nacion+
-http://192.168.100.53:8178/lnmas.ts
+http://192.168.100.53:8178/lnmas.m3u8
