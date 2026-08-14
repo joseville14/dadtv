@@ -528,7 +528,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
   "tvgId": "24Horas.cl",
   "urls": [
-   "http://192.168.100.53:8178/24horas.m3u8"
+   "http://192.168.100.53:8178/24horas.ts"
   ],
   "w": 640,
   "h": 360,
@@ -8698,7 +8698,7 @@
   "logo": "https://i.imgur.com/vFwPhPS.png",
   "tvgId": "TN.ar",
   "urls": [
-   "http://192.168.100.53:8178/tn.m3u8"
+   "http://192.168.100.53:8178/tn.ts"
   ],
   "w": 1280,
   "h": 1080,
@@ -63674,7 +63674,7 @@
   "logo": "https://i.imgur.com/E3pamA5.png",
   "tvgId": "A24.ar",
   "urls": [
-   "http://192.168.100.53:8178/a24.m3u8"
+   "http://192.168.100.53:8178/a24.ts"
   ],
   "w": 0,
   "h": 720,
@@ -63863,7 +63863,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png",
   "tvgId": "CronicaTV.ar",
   "urls": [
-   "http://192.168.100.53:8178/cronica.m3u8"
+   "http://192.168.100.53:8178/cronica.ts"
   ],
   "w": 0,
   "h": 720,
@@ -63960,7 +63960,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png",
   "tvgId": "C5N.ar",
   "urls": [
-   "http://192.168.100.53:8178/c5n.m3u8"
+   "http://192.168.100.53:8178/c5n.ts"
   ],
   "w": 1920,
   "h": 1080,
@@ -63984,7 +63984,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
   "tvgId": "TelefeNoticias.ar",
   "urls": [
-   "http://192.168.100.53:8178/telefe-noticias.m3u8"
+   "http://192.168.100.53:8178/telefe-noticias.ts"
   ],
   "w": 1920,
   "h": 1080,
@@ -64008,7 +64008,7 @@
   "logo": "",
   "tvgId": "LaNacionMas.ar",
   "urls": [
-   "http://192.168.100.53:8178/lnmas.m3u8"
+   "http://192.168.100.53:8178/lnmas.ts"
   ],
   "w": 1920,
   "h": 1080,
