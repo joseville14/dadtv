@@ -528,6 +528,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
   "tvgId": "24Horas.cl",
   "urls": [
+   "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
    "http://192.168.100.53:8178/24horas.m3u8"
   ],
   "w": 640,
@@ -7528,8 +7529,8 @@
   "logo": "https://i.imgur.com/cJHP7bU.png",
   "tvgId": "ElNueve.ar",
   "urls": [
-   "http://15.204.246.24:8080/elnueveHD/index.m3u8",
-   "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
+   "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+   "http://15.204.246.24:8080/elnueveHD/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -7553,8 +7554,8 @@
   "logo": "https://i.imgur.com/TrgBAdA.png",
   "tvgId": "ElTrece.ar",
   "urls": [
-   "http://15.204.246.24:8080/eltreceHD/index.m3u8",
-   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+   "http://15.204.246.24:8080/eltreceHD/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -9028,18 +9029,16 @@
   "cats": [
    "futbol"
   ],
-  "country": "uk",
+  "country": "",
   "group": "Futbol",
-  "logo": "https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/colorLogoPNG_1750064928408.png",
-  "tvgId": "660c29b5aec9680008f5b4a4",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+  "tvgId": "FIFAPlus.uk",
   "urls": [
    "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
    "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
    "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
    "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-   "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
-   "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
-   "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
+   "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8"
   ],
   "w": 1216,
   "h": 684,
@@ -9066,7 +9065,8 @@
    "pluto-it",
    "pluto-mx",
    "samsung-ca",
-   "samsung-us"
+   "samsung-us",
+   "musthave"
   ]
  },
  {
@@ -9299,10 +9299,11 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
   "tvgId": "FoxSports.ar",
   "urls": [
+   "http://138.59.227.20:8000/play/a085/index.m3u8",
+   "http://177.53.153.207:8000/play/a008/index.m3u8",
    "http://200.115.120.1:8000/play/ca041/index.m3u8",
    "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
-   "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
-   "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8"
+   "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8"
   ],
   "w": 854,
   "h": 480,
@@ -10078,9 +10079,10 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
   "tvgId": "ESPN2.ar",
   "urls": [
+   "http://191.97.49.82:8001/play/a00m/index.m3u8",
+   "https://stream1.freetv.fun/329b6afa11b080deaf88429b5872ccc899dd1f76b1917696c23e70e5ca1a9ff1.m3u8",
    "http://190.61.43.117:45000/play/a053",
-   "http://181.205.130.194:4000/play/a07i",
-   "https://stream1.freetv.fun/329b6afa11b080deaf88429b5872ccc899dd1f76b1917696c23e70e5ca1a9ff1.m3u8"
+   "http://181.205.130.194:4000/play/a07i"
   ],
   "w": 1280,
   "h": 720,
@@ -10131,6 +10133,8 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
   "tvgId": "ESPN3.ar",
   "urls": [
+   "http://209.61.12.77:9000/play/a08x/index.m3u8",
+   "http://138.59.227.20:8000/play/a09a/index.m3u8",
    "http://190.61.43.117:45000/play/a051",
    "https://stream1.freetv.fun/49953f9f3a3fe8aeebf6a2a608392a0f82b22fb8a56a759ceef45f69d3911059.m3u8"
   ],
@@ -10184,8 +10188,9 @@
   "tvgId": "ESPN4.ar",
   "urls": [
    "http://179.51.136.19:8000/play/a1a5/index.m3u8",
-   "http://190.60.37.118:4000/play/a09j",
-   "https://stream1.freetv.fun/90d1fe53600ece931ce2337a88dbaf88b8531872069196c3009b05302956a29b.m3u8"
+   "http://181.78.197.59:8000/play/a07n/index.m3u8",
+   "https://stream1.freetv.fun/90d1fe53600ece931ce2337a88dbaf88b8531872069196c3009b05302956a29b.m3u8",
+   "http://190.60.37.118:4000/play/a09j"
   ],
   "w": 1920,
   "h": 1080,
@@ -63673,6 +63678,7 @@
   "logo": "https://i.imgur.com/E3pamA5.png",
   "tvgId": "A24.ar",
   "urls": [
+   "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
    "http://192.168.100.53:8178/a24.m3u8"
   ],
   "w": 0,
@@ -63695,7 +63701,7 @@
   ],
   "country": "ar",
   "group": "Argentina",
-  "logo": "https://i.imgur.com/5ZNZYjO.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",
   "tvgId": "TyCSports.ar",
   "urls": [
    "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
@@ -63862,6 +63868,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png",
   "tvgId": "CronicaTV.ar",
   "urls": [
+   "https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true",
    "http://192.168.100.53:8178/cronica.m3u8"
   ],
   "w": 0,
@@ -63911,6 +63918,8 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
   "tvgId": "ESPN7.ar",
   "urls": [
+   "http://191.97.49.82:8001/play/a00c/index.m3u8",
+   "http://209.61.12.77:9000/play/a09m/index.m3u8",
    "http://190.60.37.118:4000/play/a09j"
   ],
   "w": 0,
@@ -63935,6 +63944,8 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
   "tvgId": "FoxSports2.ar",
   "urls": [
+   "http://181.115.239.66:8000/play/a00p/index.m3u8",
+   "http://138.59.227.20:8000/play/a09b/index.m3u8",
    "http://190.61.43.117:45000/play/a01g"
   ],
   "w": 0,
@@ -64018,6 +64029,30 @@
   "cdn": "youtube",
   "srcs": [
    "youtube-refresh"
+  ]
+ },
+ {
+  "name": "DeporTV",
+  "cats": [
+   "argentina",
+   "futbol"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Deportv.svg",
+  "tvgId": "DeporTV.ar",
+  "urls": [
+   "http://138.59.227.20:8000/play/a07f/index.m3u8"
+  ],
+  "w": 0,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "likely",
+  "cdn": "",
+  "srcs": [
+   "musthave"
   ]
  }
 ]
