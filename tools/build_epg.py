@@ -95,6 +95,19 @@ FEEDS = {
     "ripper-cl": "https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz",
     "ripper-ar": "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz",
     "ripper-ca": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+    # ES1 + UK1 — added 2026-08-21 with the LaLiga / EPL tabs. ES1 carries
+    # Real.Madrid.TV.es (the club channel's only published guide anywhere) and
+    # Teledeporte; UK1 carries Sky Sports Football. Both are ~3 MB, same ripper
+    # family as CL1/AR1.
+    "ripper-es": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
+    "ripper-uk": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+    # MX1 / CO1 / VE1 — added 2026-08-21 with the Deportes tab (owner's 30).
+    # MX1 carries Canal.TUDN.(México).mx (the channel's only published guide
+    # anywhere); open-epg's Colombia list carries Caracol HD + Win Sports HD;
+    # open-epg Venezuela carries MERIDIANO TV.ve. All small (~2-3 MB).
+    "ripper-mx": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
+    "open-co":   "https://www.open-epg.com/files/colombia1.xml",
+    "open-ve":   "https://www.open-epg.com/files/venezuela1.xml",
     # USA last, and deliberately so: it is by far the largest tab in the pack,
     # but these feeds are huge (12k+ channels) and lowest-trust for matching, so
     # they only fill gaps the country-specific feeds above left behind.
@@ -139,6 +152,94 @@ EXTRA_CHANNELS = [
     {"name": "Fox Sports 3",             "tvgId": "FoxSports3.ar",       "logo": ""},
     {"name": "TyC Sports",               "tvgId": "TyCSports.ar",        "logo": ""},
     {"name": "DSports Argentina",        "tvgId": "DSports.ar",          "logo": ""},
+    # DeporTV — added 2026-08-21 with the BUILTINS entry in js/config.js.
+    # open-epg publishes its schedule under the id mapped in ALIASES below.
+    {"name": "DeporTV",                  "tvgId": "DeporTV.ar",          "logo": ""},
+    # Deportes tab (owner's 30) — added 2026-08-21 with the BUILTINS entries.
+    {"name": "Fox Sports 3",             "tvgId": "FoxSports3.mx",       "logo": ""},
+    {"name": "Tigo Sports+",             "tvgId": "TigoSportsPlus.py",   "logo": ""},
+    {"name": "Meridiano TV",             "tvgId": "MeridianoTV.ve",      "logo": ""},
+    {"name": "Movistar Deportes",        "tvgId": "MovistarDeportes.pe", "logo": ""},
+    {"name": "Win Sports+",              "tvgId": "WinSportsPlus.co",    "logo": ""},
+    {"name": "Caracol HD",               "tvgId": "CaracolHD.co",        "logo": ""},
+    {"name": "Azteca Deportes",          "tvgId": "AztecaDeportes.mx",   "logo": ""},
+    {"name": "GolTV",                    "tvgId": "GolTVLatinAmerica.us","logo": ""},
+    {"name": "TUDN",                     "tvgId": "TUDN.mx",             "logo": ""},
+    {"name": "Teledeporte",              "tvgId": "Teledeporte.es",      "logo": ""},
+    {"name": "DAZN LaLiga",              "tvgId": "DAZNLaLiga.es",       "logo": ""},
+    {"name": "Gol Play",                 "tvgId": "GolPlay.es",          "logo": ""},
+    {"name": "Liga 1 Max",               "tvgId": "L1Max.pe",            "logo": ""},
+    {"name": "CDO",                      "tvgId": "CDO.cl",              "logo": ""},
+    {"name": "Claro Sports",             "tvgId": "ClaroSports.mx",      "logo": ""},
+    {"name": "beIN SPORTS XTRA en Espanol","tvgId": "beINSPORTSXTRAenEspanol.us","logo": ""},
+    # USA / Canadá tabs — owner's 30, added 2026-08-21
+    {"name": "NBC",                      "tvgId": "NBC.us",              "logo": ""},
+    {"name": "CBS",                      "tvgId": "CBS.us",              "logo": ""},
+    {"name": "ABC",                      "tvgId": "ABC.us",              "logo": ""},
+    {"name": "FOX",                      "tvgId": "FOX.us",              "logo": ""},
+    {"name": "Fox News",                 "tvgId": "FoxNewsChannel.us",   "logo": ""},
+    {"name": "Univision",                "tvgId": "Univision.us",        "logo": ""},
+    {"name": "Telemundo",                "tvgId": "Telemundo.us",        "logo": ""},
+    {"name": "TNT",                      "tvgId": "TNT.us",              "logo": ""},
+    {"name": "ION",                      "tvgId": "IONTV.us",            "logo": ""},
+    {"name": "Hallmark Channel",         "tvgId": "HallmarkChannel.us",  "logo": ""},
+    {"name": "CNN",                      "tvgId": "CNN.us",              "logo": ""},
+    {"name": "USA Network",              "tvgId": "USANetwork.us",       "logo": ""},
+    {"name": "History",                  "tvgId": "History.us",          "logo": ""},
+    {"name": "Discovery",                "tvgId": "DiscoveryChannel.us", "logo": ""},
+    {"name": "Bravo",                    "tvgId": "Bravo.us",            "logo": ""},
+    {"name": "FX",                       "tvgId": "FX.us",               "logo": ""},
+    {"name": "ESPN",                     "tvgId": "ESPN.us",             "logo": ""},
+    {"name": "MSNBC",                    "tvgId": "MSNBC.us",            "logo": ""},
+    {"name": "TBS",                      "tvgId": "TBS.us",              "logo": ""},
+    {"name": "HGTV",                     "tvgId": "HGTV.us",             "logo": ""},
+    {"name": "TLC",                      "tvgId": "TLC.us",              "logo": ""},
+    {"name": "INSP",                     "tvgId": "INSP.us",             "logo": ""},
+    {"name": "Food Network",             "tvgId": "FoodNetwork.us",      "logo": ""},
+    {"name": "The CW",                   "tvgId": "TheCW.us",            "logo": ""},
+    {"name": "A&E",                      "tvgId": "AE.us",               "logo": ""},
+    {"name": "Investigation Discovery",  "tvgId": "InvestigationDiscovery.us", "logo": ""},
+    {"name": "TV Land",                  "tvgId": "TVLand.us",           "logo": ""},
+    {"name": "Paramount Network",        "tvgId": "ParamountNetwork.us", "logo": ""},
+    {"name": "NFL Network",              "tvgId": "NFLNetwork.us",       "logo": ""},
+    {"name": "NFL RedZone",              "tvgId": "NFLRedZone.us",       "logo": ""},
+    {"name": "MLB Network",              "tvgId": "MLBNetwork.us",       "logo": ""},
+    {"name": "CTV",                      "tvgId": "CFCNDT.ca",           "logo": ""},
+    {"name": "Global",                   "tvgId": "CICTDT.ca",           "logo": ""},
+    {"name": "CTV News Channel",         "tvgId": "CTVNewsChannel.ca",   "logo": ""},
+    {"name": "History Canada",           "tvgId": "History.ca",          "logo": ""},
+    {"name": "Slice",                    "tvgId": "Slice.ca",            "logo": ""},
+    {"name": "CTV Drama",                "tvgId": "CTVDrama.ca",         "logo": ""},
+    {"name": "CTV Sci-Fi",               "tvgId": "CTVSciFi.ca",         "logo": ""},
+    {"name": "BNN Bloomberg",            "tvgId": "BNNBloomberg.ca",     "logo": ""},
+    {"name": "CBC",                      "tvgId": "CBLTDT.ca",           "logo": ""},
+    {"name": "CBC News Network",         "tvgId": "CBCNewsNetwork.ca",   "logo": ""},
+    {"name": "CTV 2",                    "tvgId": "CTV2Atlantic.ca",     "logo": ""},
+    {"name": "TVA",                      "tvgId": "CFTMDT.ca",           "logo": ""},
+    {"name": "ICI Télé",                 "tvgId": "CBFTDT.ca",           "logo": ""},
+    {"name": "RDS",                      "tvgId": "RDS.ca",              "logo": ""},
+    {"name": "LCN",                      "tvgId": "LCN.ca",              "logo": ""},
+    {"name": "TVA Sports",               "tvgId": "TVASports.ca",        "logo": ""},
+    {"name": "Food Network Canada",      "tvgId": "FoodNetwork.ca",      "logo": ""},
+    {"name": "Sportsnet",                "tvgId": "Sportsnet.ca",        "logo": ""},
+    {"name": "TSN 1",                    "tvgId": "TSN1.ca",             "logo": ""},
+    {"name": "Citytv",                   "tvgId": "CITYDT.ca",           "logo": ""},
+    {"name": "W Network",                "tvgId": "WNetwork.ca",         "logo": ""},
+    {"name": "Discovery Canada",         "tvgId": "Discovery.ca",        "logo": ""},
+    {"name": "HGTV Canada",              "tvgId": "HGTV.ca",             "logo": ""},
+    {"name": "Showcase",                 "tvgId": "Showcase.ca",         "logo": ""},
+    {"name": "OMNI",                     "tvgId": "Omni1.ca",            "logo": ""},
+    {"name": "YTV",                      "tvgId": "YTV.ca",              "logo": ""},
+    {"name": "Fox Sports 1 MX",          "tvgId": "FoxSports.mx",        "logo": ""},
+    {"name": "Fox Sports 2 MX",          "tvgId": "FoxSports2.mx",       "logo": ""},
+    {"name": "ESPN Deportes",            "tvgId": "ESPNDeportes.us",     "logo": ""},
+    {"name": "Fox Deportes",             "tvgId": "FoxDeportes.us",      "logo": ""},
+    # EPL / LaLiga tabs — added 2026-08-21 with the BUILTINS entries.
+    # Real Madrid TV's official feeds publish under their own ids on
+    # open-epg; Top Barça is mapped in ALIASES below.
+    {"name": "Sky Sports Premier League","tvgId": "SkySportsPremierLeague.uk", "logo": ""},
+    {"name": "Real Madrid TV",           "tvgId": "RealMadridTV.es",     "logo": ""},
+    {"name": "Top Barça",                "tvgId": "TopBarca.es",         "logo": ""},
     # HBO family — added 2026-08-11 with the HBO tab. open-epg Chile publishes
     # the whole line-up, so these all get real listings; the spaced ids it uses
     # are mapped in ALIASES below.
@@ -172,6 +273,115 @@ ALIASES = {
     # TyC Sports and ESPN 7 are single Southern-Cone feeds carried in both
     # countries; only the Chilean list publishes a guide for them.
     "TyCSports.ar":        ["TyCSports.cl", "TYC SPORTS.ar", "TyC Sports.cl"],
+    # DeporTV: open-epg's Argentina list carries the full schedule but under
+    # this unrelated id (verified 2026-08-21 — "DEPORTV textual : Jonás
+    # Gutiérrez" etc. all sit on channel="DXTV.ar").
+    "DeporTV.ar":          ["DXTV.ar"],
+    # Top Barça: open-epg's Spain list carries FC Barcelona's channel under
+    # the spaced id (verified 2026-08-21 while wiring the new LaLiga tab).
+    "TopBarca.es":         ["Top Barça.es", "TopBarca.es"],
+    # Real Madrid TV: ES1 ripper uses the dotted form. The EN feed has no
+    # published guide — only the Spanish playout is listed anywhere.
+    "RealMadridTV.es":     ["Real.Madrid.TV.es"],
+    # Sky Sports Premier League: UK1 ripper abbreviates it (sampled titles are
+    # real PL content — "PL Retro: Chelsea v Man Utd 2006", "PL 100 Club").
+    "SkySportsPremierLeague.uk": ["SkySp.PL.HD.uk"],
+    "CFCNDT.ca":           ["CTV.Calgary.HD.ca2", "CTV.Calgary.ca2",
+                            "CTV Calgary.ca", "CFCN-DT.ca", "CFCN.ca"],
+    "CICTDT.ca":           ["Global.Calgary.HD.ca2", "Global.Calgary.ca2",
+                            "Global Calgary.ca", "CICT-DT.ca", "CICT.ca", "Global.Calgary.ca"],
+    "CFSKDT.ca":           ["Global Saskatoon.ca", "CFSK-DT.ca", "CFSK.ca"],
+    "CTVNewsChannel.ca":   ["CTV.News.Channel.HD.ca2", "CTV.News.Channel.ca2",
+                            "CTV News Channel.ca", "CTV.News.Channel.ca",
+                            "CTV News Channel HD.ca"],
+    "History.ca":          ["History.Television.HD.(Canada).ca2", "History.ca2",
+                            "History Canada HD East.ca", "History Canada.ca",
+                            "History.Canada.East.ca"],
+    "Slice.ca":            ["SLICE.HD.ca2", "SLICE.ca2", "Slice.ca", "slice.ca"],
+    "CTVDrama.ca":         ["CTV.DRAMA.CHANNEL.HD.ca2", "CTV.DRAMA.CHANNEL.ca2",
+                            "CTV Drama HD.ca", "CTV Drama.ca", "ctv.drama.ca",
+                            "CTV.Drama.Channel.ca"],
+    "CTVSciFi.ca":         ["CTV.SCI-FI.CHANNEL.HD.ca2", "CTV Sci-Fi HD.ca",
+                            "CTV Sci-Fi.ca", "CTV.Sci-Fi.ca"],
+    "BNNBloomberg.ca":     ["BNN.Bloomberg.HD.ca2", "BNN.Bloomberg.ca2",
+                            "BNN Bloomberg HD.ca", "BNN Bloomberg.ca", "bnn.bloomberg.ca"],
+    "CBLTDT.ca":           ["CBC.Calgary.HD.ca2", "CBC.Calgary.ca2",
+                            "CBC.Toronto.HD.ca2", "CBC Toronto.ca", "CBLT-DT.ca", "CBLT.ca"],
+    "CFTMDT.ca":           ["CFTM.Montréal.ca2", "CFTM-DT.ca2", "TVA (CFCM) Québec HD.ca"],
+    "Sportsnet.ca":        ["Sportsnet.West.HD.ca2", "Sportsnet (West) - Satellite/Digital HD.ca",
+                            "Sportsnet (Ontario) - Satellite/Digital HD.ca"],
+    "TSN1.ca":             ["TSN.1.HD.ca2", "TSN.1.ca2", "TSN.HD.ca2"],
+    "CBFTDT.ca":           ["ICI.Tele.HD.ca2", "ICI.Tele.ca2"],
+    "CITYDT.ca":           ["Citytv.Calgary.HD.ca2", "Citytv.Calgary.ca2",
+                            "Citytv.Toronto.HD.ca2"],
+    "RDS.ca":              ["Réseau.des.Sports.(RDS).HD.ca2", "Réseau.des.Sports.(RDS).ca2",
+                            "RDS (Réseau des sports) HD.ca"],
+    "CBCNewsNetwork.ca":   ["CBC.News.Network.HD.ca2", "CBC.News.Network.ca2",
+                            "CBC News Network HD.ca"],
+    "WNetwork.ca":         ["W.Network.HD.ca2", "W.Network.ca2"],
+    "LCN.ca":              ["Le.Canal.Nouvelles.TVA.HD.ca2", "Le.Canal.Nouvelles.TVA.ca2",
+                            "LCN HD.ca"],
+    "TVASports.ca":        ["TVA.Sports.HD.ca2"],
+    "CTV2Atlantic.ca":     ["CTV.Two.-.Atlantic.ca2", "CTV2 Atlantic Region HD.ca"],
+    "Discovery.ca":        ["Discovery.Channel.ca2"],
+    "HGTV.ca":             ["Home.Network.HD.ca2", "Home.and.Garden.Television.ca2"],
+    "FoodNetwork.ca":      ["Food.Network.ca2", "Flavour.Network.HD.ca2"],
+    "Showcase.ca":         ["Showcase.Canada.HD.ca2", "Showcase Canada HD.ca"],
+    "Omni1.ca":            ["OMNI.Calgary.HD.ca2", "OMNI1.HD.ca2", "OMNI1.ca2"],
+    "YTV.ca":              ["YTV.HD.ca2", "YTV.ca2", "YTV (Youth Television) - East HD.ca"],
+    # --- Deportes tab members (owner's 30), added 2026-08-21. The feed ids are
+    #     spaced/upper-cased exactly like the ESPN entries below.
+    "Tudn.mx":             ["Canal.TUDN.(México).mx"],
+    "TUDN.mx":             ["Canal.TUDN.(México).mx", "Tudn.mx"],
+    "Teledeporte.es":      ["Teledeporte.es", "TDP.es"],
+    "DAZNLaLiga.es":       ["DAZN.LaLiga.es", "DAZN LaLiga 1.es"],
+    "GolPlay.es":          ["Gol.es", "GOL.es", "Gol Play.es"],
+    "L1Max.pe":            ["Liga1Max.pe", "L1 Max.pe"],
+    "CDO.cl":              ["CDO HD.cl", "CDOPremium.cl", "CDO Premium.cl"],
+    "FoxSports.mx":        ["Canal.Fox.Sports.(México).mx", "FOX.SPORTS.mx",
+                            "FOX Sports HD.co", "FOX Sports.co"],
+    "FoxSports2.mx":       ["Canal.Fox.Sports.2.(México).mx", "FOX.SPORTS.2.mx",
+                            "FOX Sports 2 HD.co"],
+    "FoxSports3.mx":       ["Canal.Fox.Sports.3.(México).mx", "FOX.SPORTS.3.mx",
+                            "FOX Sports 3.mx", "FOX SPORTS 3.ve", "FOX Sports 3.pe"],
+    "ClaroSports.mx":      ["Claro.Sports.1.mx"],
+    "ESPNDeportes.us":     ["ESPN.Deportes.HD.us2"],
+    "FoxDeportes.us":      ["Fox.Deportes.HD.us2"],
+    "beINSPORTSXTRAenEspanol.us": ["beIN.Sports.En.Español.HD.us2"],
+    # --- USA tab (owner's 30). US2 uses dotted "ESPN.HD.us2" ids; without
+    #     these aliases NBC.us etc. stay as empty channel stubs and the
+    #     guide prints "USA — On now". East / national feed first.
+    "NBC.us":              ["NBC.East.Stream.us2"],
+    "CBS.us":              ["CBS.Streaming.SD.East.feed.us2"],
+    "ABC.us":              ["ABC.National.Feed.us2"],
+    "FoxNewsChannel.us":   ["Fox.News.Channel.HD.us2"],
+    "ESPN.us":             ["ESPN.HD.us2"],
+    "MSNBC.us":            ["MSNBC.HD.us2", "MSNBC"],
+    "Univision.us":        ["Univision.Network.HD.us2"],
+    "Telemundo.us":        ["Telemundo.Satellite.Feed.us2"],
+    "TNT.us":              ["TNT.HD.us2"],
+    "IONTV.us":            ["ION.Television.HD.us2"],
+    "TBS.us":              ["TBS.HD.us2"],
+    "HGTV.us":             ["Home.and.Garden.Television.HD.us2"],
+    "HallmarkChannel.us":  ["Hallmark.Channel.HD.us2"],
+    "CNN.us":              ["CNN.HD.us2"],
+    "USANetwork.us":       ["USA.Network.HD.us2"],
+    "History.us":          ["History.HD.us2"],
+    "TLC.us":              ["TLC.HD.(US).us2"],
+    "INSP.us":             ["INSP.HD.us2"],
+    "DiscoveryChannel.us": ["Discovery.Channel.HD.us2"],
+    "FoodNetwork.us":      ["Food.Network.HD.us2"],
+    "Bravo.us":            ["Bravo.HD.us2"],
+    "TheCW.us":            ["CW.us2"],
+    "AE.us":               ["A.and.E.HD.East.us2"],
+    "FX.us":               ["FX.HD.us2"],
+    "InvestigationDiscovery.us": ["Investigation.Discovery.HD.us2"],
+    "TVLand.us":           ["TV.Land.HD.us2"],
+    "ParamountNetwork.us": ["Paramount.Network.HD.us2"],
+    "MeridianoTV.ve":      ["MERIDIANO TV.ve"],
+    "CaracolHD.co":        ["Caracol HD.co"],
+    "WinSportsPlus.co":    ["Win Sports HD.co"],   # Win+ has no guide; the FTA sibling's HD slot is the same schedule
+    "AztecaDeportes.mx":   ["Azteca 13.mx"],       # Azteca Deportes airs on Azteca 13's stream
     # --- SV1 / UY1 regional playouts. These filled seven channels that had no
     #     guide anywhere before 2026-08-11. SV1 names the region in the id, so
     #     pick "(Chile)" or "(Sudamérica)"/"(Sur)" and never "(Norte)",
@@ -290,7 +500,30 @@ WATCHLIST = [
     "ESPN5.cl", "ESPN7.cl", "ESPN5.ar", "ESPN6.ar", "ESPNPremium.cl",
     "ESPNPremium.ar", "ESPN.ar", "ESPN2.ar", "ESPN3.ar", "ESPN4.ar",
     "ESPN7.ar", "ESPNExtra.ar", "TyCSports.ar", "TNTSports.ar",
-    "DSports.ar", "FoxSports.ar", "FoxSports2.ar"
+    "DSports.ar", "FoxSports.ar", "FoxSports2.ar", "DeporTV.ar",
+    "SkySportsPremierLeague.uk", "RealMadridTV.es", "TopBarca.es",
+    # Deportes tab (owner's 30) — 2026-08-21
+    "FoxSports3.mx", "TigoSportsPlus.py", "MeridianoTV.ve",
+    "MovistarDeportes.pe", "WinSportsPlus.co", "CaracolHD.co",
+    "AztecaDeportes.mx", "GolTVLatinAmerica.us",
+    "TUDN.mx", "Teledeporte.es", "DAZNLaLiga.es", "GolPlay.es",
+    "L1Max.pe", "CDO.cl", "ClaroSports.mx", "beINSPORTSXTRAenEspanol.us",
+    "NBC.us", "CBS.us", "ABC.us", "FOX.us", "FoxNewsChannel.us",
+    "Univision.us", "Telemundo.us", "TNT.us", "IONTV.us",
+    "HallmarkChannel.us", "CNN.us", "USANetwork.us", "History.us",
+    "DiscoveryChannel.us", "Bravo.us", "FX.us",
+    "ESPN.us", "MSNBC.us", "TBS.us", "HGTV.us", "TLC.us", "INSP.us",
+    "FoodNetwork.us", "TheCW.us", "AE.us", "InvestigationDiscovery.us",
+    "TVLand.us", "ParamountNetwork.us", "NFLNetwork.us", "NFLRedZone.us",
+    "MLBNetwork.us",
+    "CFCNDT.ca", "CICTDT.ca", "CBLTDT.ca",
+    "CBCNewsNetwork.ca", "CTV2Atlantic.ca",
+    "CFTMDT.ca", "CBFTDT.ca", "RDS.ca", "LCN.ca", "TVASports.ca",
+    "FoodNetwork.ca", "CTVNewsChannel.ca", "History.ca", "Slice.ca",
+    "CTVDrama.ca", "CTVSciFi.ca", "BNNBloomberg.ca",
+    "Sportsnet.ca", "TSN1.ca", "CITYDT.ca", "WNetwork.ca",
+    "Discovery.ca", "HGTV.ca", "Showcase.ca", "Omni1.ca", "YTV.ca",
+    "FoxSports.mx", "FoxSports2.mx", "ESPNDeportes.us", "FoxDeportes.us"
 ]
 
 
@@ -339,12 +572,19 @@ def _assert_no_duplicate_alias_keys():
                  "silently discarded: %s" % ", ".join(dupes))
 
 
+def chan_key(c):
+    """Stable merge key. Name is not unique — ESPN.ar and ESPN.us are both
+    called 'ESPN', and using the name folded USA ESPN onto the Argentine
+    schedule (2026-08-23). tvg-id is what the app matches on."""
+    return bare_id(c.get("tvgId")) or c["name"]
+
+
 def wanted_index(chans):
     """Build the lookup structures the three matching passes need."""
     by_id, by_lower, by_name = {}, {}, {}
     ambiguous = set()
     for c in chans:
-        key = c["name"]
+        key = chan_key(c)
         tid = bare_id(c.get("tvgId"))
         if tid:
             by_id.setdefault(tid, key)
@@ -492,7 +732,7 @@ def main():
             f"(exact {st['exact']}, lower {st['lower']}, name {st['name']}) "
             f"-> {new} new")
 
-    id_to_key = {bare_id(c.get("tvgId")): c["name"] for c in chans if c.get("tvgId")}
+    id_to_key = {bare_id(c.get("tvgId")): chan_key(c) for c in chans if c.get("tvgId")}
     for dest_id, src_id in GUIDE_SHARE.items():
         dest_key, src_key = id_to_key.get(dest_id), id_to_key.get(src_id)
         if not dest_key or not src_key or dest_key in merged or src_key not in merged:
@@ -507,7 +747,7 @@ def main():
         "generator-info-name": "dadlivetv/build_epg.py",
         "source-info-name": "merged free XMLTV feeds",
     })
-    by_key = {c["name"]: c for c in chans}
+    by_key = {chan_key(c): c for c in chans}
     n_prog = 0
     for ours, progs in merged.items():
         c = by_key.get(ours)
