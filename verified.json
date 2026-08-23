@@ -528,7 +528,6 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
   "tvgId": "24Horas.cl",
   "urls": [
-   "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
    "http://192.168.100.53:8178/24horas.m3u8"
   ],
   "w": 640,
@@ -63678,7 +63677,6 @@
   "logo": "https://i.imgur.com/E3pamA5.png",
   "tvgId": "A24.ar",
   "urls": [
-   "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
    "http://192.168.100.53:8178/a24.m3u8"
   ],
   "w": 0,
@@ -63868,7 +63866,6 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cr%C3%B3nica_TV_logo.svg/960px-Cr%C3%B3nica_TV_logo.svg.png",
   "tvgId": "CronicaTV.ar",
   "urls": [
-   "https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true",
    "http://192.168.100.53:8178/cronica.m3u8"
   ],
   "w": 0,
