@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-26",
+  "tz": "America/Santiago",
+  "builtAt": "2026-08-26T15:56:09-04:00",
+  "leagues": {
+    "chi.1": "ok 1",
+    "arg.1": "ok 0",
+    "conmebol.libertadores": "ok 0",
+    "conmebol.sudamericana": "ok 1",
+    "eng.1": "ok 0",
+    "esp.1": "ok 1",
+    "ita.1": "ok 0",
+    "ger.1": "ok 0",
+    "uefa.champions": "ok 0",
+    "uefa.europa": "ok 0",
+    "mex.1": "ok 0",
+    "usa.1": "ok 0",
+    "uru.1": "ok 0",
+    "bra.1": "ok 0"
+  },
+  "matches": [
+    {
+      "id": "401882919",
+      "slug": "esp.1",
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Real Sociedad",
+      "kickoff": "2026-08-26T15:00:00-04:00",
+      "kickoffMs": 1787770800000,
+      "time": "15:00",
+      "status": "in",
+      "tvgId": "ESPNDeportes.us"
+    },
+    {
+      "id": "401850620",
+      "slug": "chi.1",
+      "league": "Campeonato Nacional",
+      "home": "Coquimbo Unido",
+      "away": "Universidad Católica",
+      "kickoff": "2026-08-26T18:00:00-04:00",
+      "kickoffMs": 1787781600000,
+      "time": "18:00",
+      "status": "pre",
+      "tvgId": "TNTSportsPremium.cl"
+    },
+    {
+      "id": "401903295",
+      "slug": "conmebol.sudamericana",
+      "league": "Copa Sudamericana",
+      "home": "River Plate",
+      "away": "Independiente Santa Fe",
+      "kickoff": "2026-08-26T20:30:00-04:00",
+      "kickoffMs": 1787790600000,
+      "time": "20:30",
+      "status": "pre",
+      "tvgId": "DSports.us"
+    }
+  ]
+}
