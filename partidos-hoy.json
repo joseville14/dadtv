@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-28T14:07:12-04:00",
+  "builtAt": "2026-08-28T16:07:05-04:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 2",
@@ -28,7 +28,7 @@
       "kickoff": "2026-08-28T13:00:00-04:00",
       "kickoffMs": 1787936400000,
       "time": "13:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "DAZNLaLiga.es"
     },
     {
@@ -40,7 +40,7 @@
       "kickoff": "2026-08-28T14:30:00-04:00",
       "kickoffMs": 1787941800000,
       "time": "14:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401874758",
@@ -51,7 +51,7 @@
       "kickoff": "2026-08-28T14:45:00-04:00",
       "kickoffMs": 1787942700000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar"
     },
     {
@@ -63,7 +63,7 @@
       "kickoff": "2026-08-28T15:00:00-04:00",
       "kickoffMs": 1787943600000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -75,7 +75,7 @@
       "kickoff": "2026-08-28T15:30:00-04:00",
       "kickoffMs": 1787945400000,
       "time": "15:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar"
     },
     {
