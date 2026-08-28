@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-28T12:06:48-04:00",
+  "builtAt": "2026-08-28T14:07:12-04:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 2",
@@ -28,7 +28,7 @@
       "kickoff": "2026-08-28T13:00:00-04:00",
       "kickoffMs": 1787936400000,
       "time": "13:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DAZNLaLiga.es"
     },
     {
