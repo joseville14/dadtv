@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-29T14:07:52-04:00",
+  "builtAt": "2026-08-29T16:08:25-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 5",
@@ -97,7 +97,7 @@
       "kickoffMs": 1788012000000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPN.ar"
+      "tvgId": "ESPN2.ar"
     },
     {
       "id": "401879316",
@@ -143,7 +143,7 @@
       "kickoff": "2026-08-29T12:30:00-04:00",
       "kickoffMs": 1788021000000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar"
     },
     {
@@ -155,7 +155,7 @@
       "kickoff": "2026-08-29T12:30:00-04:00",
       "kickoffMs": 1788021000000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN4.ar"
     },
     {
@@ -167,7 +167,7 @@
       "kickoff": "2026-08-29T12:30:00-04:00",
       "kickoffMs": 1788021000000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it"
     },
     {
@@ -179,7 +179,7 @@
       "kickoff": "2026-08-29T12:30:00-04:00",
       "kickoffMs": 1788021000000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "DAZN1.it"
     },
     {
@@ -191,7 +191,7 @@
       "kickoff": "2026-08-29T12:30:00-04:00",
       "kickoffMs": 1788021000000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar"
     },
     {
@@ -203,7 +203,7 @@
       "kickoff": "2026-08-29T13:00:00-04:00",
       "kickoffMs": 1788022800000,
       "time": "13:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us"
     },
     {
@@ -215,7 +215,7 @@
       "kickoff": "2026-08-29T13:00:00-04:00",
       "kickoffMs": 1788022800000,
       "time": "13:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401912472",
@@ -226,7 +226,7 @@
       "kickoff": "2026-08-29T13:00:00-04:00",
       "kickoffMs": 1788022800000,
       "time": "13:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841529",
@@ -237,7 +237,7 @@
       "kickoff": "2026-08-29T13:45:00-04:00",
       "kickoffMs": 1788025500000,
       "time": "13:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar"
     },
     {
@@ -249,7 +249,7 @@
       "kickoff": "2026-08-29T14:45:00-04:00",
       "kickoffMs": 1788029100000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.ar"
     },
     {
@@ -261,7 +261,7 @@
       "kickoff": "2026-08-29T15:30:00-04:00",
       "kickoffMs": 1788031800000,
       "time": "15:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us"
     },
     {
@@ -273,7 +273,7 @@
       "kickoff": "2026-08-29T16:00:00-04:00",
       "kickoffMs": 1788033600000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TyCSports.ar"
     },
     {
@@ -285,7 +285,7 @@
       "kickoff": "2026-08-29T16:00:00-04:00",
       "kickoffMs": 1788033600000,
       "time": "16:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761755",
