@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-30T10:08:05-04:00",
+  "builtAt": "2026-08-30T12:07:03-04:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-08-30T09:00:00-04:00",
       "kickoffMs": 1788094800000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar"
     },
     {
@@ -40,7 +40,7 @@
       "kickoff": "2026-08-30T09:00:00-04:00",
       "kickoffMs": 1788094800000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -52,7 +52,7 @@
       "kickoff": "2026-08-30T09:00:00-04:00",
       "kickoffMs": 1788094800000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -64,7 +64,7 @@
       "kickoff": "2026-08-30T09:30:00-04:00",
       "kickoffMs": 1788096600000,
       "time": "09:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar"
     },
     {
@@ -76,7 +76,7 @@
       "kickoff": "2026-08-30T10:00:00-04:00",
       "kickoffMs": 1788098400000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br"
     },
     {
@@ -88,7 +88,7 @@
       "kickoff": "2026-08-30T11:00:00-04:00",
       "kickoffMs": 1788102000000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us"
     },
     {
@@ -100,7 +100,7 @@
       "kickoff": "2026-08-30T11:30:00-04:00",
       "kickoffMs": 1788103800000,
       "time": "11:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.ar"
     },
     {
@@ -112,7 +112,7 @@
       "kickoff": "2026-08-30T11:30:00-04:00",
       "kickoffMs": 1788103800000,
       "time": "11:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401874755",
