@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-30T20:06:55-04:00",
+  "builtAt": "2026-08-30T22:07:09-04:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -312,7 +312,7 @@
       "kickoff": "2026-08-30T18:15:00-04:00",
       "kickoffMs": 1788128100000,
       "time": "18:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar"
     },
     {
@@ -324,7 +324,7 @@
       "kickoff": "2026-08-30T18:30:00-04:00",
       "kickoffMs": 1788129000000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.br"
     },
     {
@@ -336,7 +336,7 @@
       "kickoff": "2026-08-30T19:00:00-04:00",
       "kickoffMs": 1788130800000,
       "time": "19:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401850641",
@@ -347,7 +347,7 @@
       "kickoff": "2026-08-30T20:00:00-04:00",
       "kickoffMs": 1788134400000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl"
     },
     {
@@ -359,7 +359,7 @@
       "kickoff": "2026-08-30T20:00:00-04:00",
       "kickoffMs": 1788134400000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TUDN.mx"
     },
     {
@@ -371,7 +371,7 @@
       "kickoff": "2026-08-30T20:30:00-04:00",
       "kickoffMs": 1788136200000,
       "time": "20:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us"
     },
     {
