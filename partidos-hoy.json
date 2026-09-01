@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "tz": "America/Santiago",
-  "builtAt": "2026-08-31T18:06:30-04:00",
+  "builtAt": "2026-08-31T20:08:11-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 4",
@@ -99,7 +99,7 @@
       "kickoff": "2026-08-31T18:00:00-04:00",
       "kickoffMs": 1788213600000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar"
     },
     {
@@ -111,7 +111,7 @@
       "kickoff": "2026-08-31T18:00:00-04:00",
       "kickoffMs": 1788213600000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar"
     },
     {
@@ -123,7 +123,7 @@
       "kickoff": "2026-08-31T18:15:00-04:00",
       "kickoffMs": 1788214500000,
       "time": "18:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl"
     },
     {
@@ -135,7 +135,7 @@
       "kickoff": "2026-08-31T19:00:00-04:00",
       "kickoffMs": 1788217200000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br"
     },
     {
