@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-02T16:07:35-04:00",
+  "builtAt": "2026-09-02T18:07:44-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 0",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-02T18:00:00-04:00",
       "kickoffMs": 1788386400000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl"
     },
     {
