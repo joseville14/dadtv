@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-01T22:08:06-04:00",
+  "builtAt": "2026-09-02T00:06:14-04:00",
   "leagues": {
-    "chi.1": "ok 0",
+    "chi.1": "ok 2",
     "arg.1": "ok 0",
     "conmebol.libertadores": "ok 0",
     "conmebol.sudamericana": "ok 0",
@@ -16,7 +16,44 @@
     "mex.1": "ok 0",
     "usa.1": "ok 0",
     "uru.1": "ok 0",
-    "bra.1": "ok 0"
+    "bra.1": "ok 1"
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "401850598",
+      "slug": "chi.1",
+      "league": "Campeonato Nacional",
+      "home": "Coquimbo Unido",
+      "away": "Universidad de Concepción",
+      "kickoff": "2026-09-02T18:00:00-04:00",
+      "kickoffMs": 1788386400000,
+      "time": "18:00",
+      "status": "pre",
+      "tvgId": "TNTSportsPremium.cl"
+    },
+    {
+      "id": "401913077",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "Flamengo",
+      "away": "Mirassol",
+      "kickoff": "2026-09-02T18:30:00-04:00",
+      "kickoffMs": 1788388200000,
+      "time": "18:30",
+      "status": "pre",
+      "tvgId": "SporTV.br"
+    },
+    {
+      "id": "401850604",
+      "slug": "chi.1",
+      "league": "Campeonato Nacional",
+      "home": "Deportes Limache",
+      "away": "Ñublense",
+      "kickoff": "2026-09-02T20:30:00-04:00",
+      "kickoffMs": 1788395400000,
+      "time": "20:30",
+      "status": "pre",
+      "tvgId": "TNTSports.cl"
+    }
+  ]
 }
