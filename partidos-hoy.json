@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-02T22:07:08-04:00",
+  "builtAt": "2026-09-03T00:07:02-04:00",
   "leagues": {
-    "chi.1": "ok 2",
+    "chi.1": "ok 0",
     "arg.1": "ok 0",
     "conmebol.libertadores": "ok 0",
     "conmebol.sudamericana": "ok 0",
     "eng.1": "ok 0",
-    "esp.1": "ok 0",
+    "esp.1": "ok 1",
     "ita.1": "ok 0",
     "ger.1": "ok 0",
     "uefa.champions": "ok 0",
@@ -16,44 +16,20 @@
     "mex.1": "ok 0",
     "usa.1": "ok 0",
     "uru.1": "ok 0",
-    "bra.1": "ok 1"
+    "bra.1": "ok 0"
   },
   "matches": [
     {
-      "id": "401850598",
-      "slug": "chi.1",
-      "league": "Campeonato Nacional",
-      "home": "Coquimbo Unido",
-      "away": "Universidad de Concepción",
-      "kickoff": "2026-09-02T18:00:00-04:00",
-      "kickoffMs": 1788386400000,
-      "time": "18:00",
-      "status": "post",
-      "tvgId": "TNTSportsPremium.cl"
-    },
-    {
-      "id": "401913077",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Flamengo",
-      "away": "Mirassol",
-      "kickoff": "2026-09-02T18:30:00-04:00",
-      "kickoffMs": 1788388200000,
-      "time": "18:30",
-      "status": "post",
-      "tvgId": "SporTV.br"
-    },
-    {
-      "id": "401850604",
-      "slug": "chi.1",
-      "league": "Campeonato Nacional",
-      "home": "Deportes Limache",
-      "away": "Ñublense",
-      "kickoff": "2026-09-02T20:30:00-04:00",
-      "kickoffMs": 1788395400000,
-      "time": "20:30",
-      "status": "in",
-      "tvgId": "TNTSports.cl"
+      "id": "401882867",
+      "slug": "esp.1",
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Celta Vigo",
+      "kickoff": "2026-09-03T15:00:00-04:00",
+      "kickoffMs": 1788462000000,
+      "time": "15:00",
+      "status": "pre",
+      "tvgId": "DSports.us"
     }
   ]
 }
