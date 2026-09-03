@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-02T20:07:05-04:00",
+  "builtAt": "2026-09-02T22:07:08-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 0",
@@ -40,7 +40,7 @@
       "kickoff": "2026-09-02T18:30:00-04:00",
       "kickoffMs": 1788388200000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br"
     },
     {
@@ -52,7 +52,7 @@
       "kickoff": "2026-09-02T20:30:00-04:00",
       "kickoffMs": 1788395400000,
       "time": "20:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.cl"
     }
   ]
