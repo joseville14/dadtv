@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-05T08:07:38-04:00",
+  "builtAt": "2026-09-05T10:06:00-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 5",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-05T07:30:00-04:00",
       "kickoffMs": 1788607800000,
       "time": "07:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.cl"
     },
     {
@@ -40,7 +40,7 @@
       "kickoff": "2026-09-05T09:00:00-04:00",
       "kickoffMs": 1788613200000,
       "time": "09:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar"
     },
     {
@@ -52,7 +52,7 @@
       "kickoff": "2026-09-05T09:30:00-04:00",
       "kickoffMs": 1788615000000,
       "time": "09:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884804",
@@ -63,7 +63,7 @@
       "kickoff": "2026-09-05T09:30:00-04:00",
       "kickoffMs": 1788615000000,
       "time": "09:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884800",
@@ -74,7 +74,7 @@
       "kickoff": "2026-09-05T09:30:00-04:00",
       "kickoffMs": 1788615000000,
       "time": "09:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884807",
@@ -85,7 +85,7 @@
       "kickoff": "2026-09-05T09:30:00-04:00",
       "kickoffMs": 1788615000000,
       "time": "09:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884802",
@@ -96,7 +96,7 @@
       "kickoff": "2026-09-05T09:30:00-04:00",
       "kickoffMs": 1788615000000,
       "time": "09:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401879311",
@@ -107,7 +107,7 @@
       "kickoff": "2026-09-05T10:00:00-04:00",
       "kickoffMs": 1788616800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -119,7 +119,7 @@
       "kickoff": "2026-09-05T10:00:00-04:00",
       "kickoffMs": 1788616800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -131,7 +131,7 @@
       "kickoff": "2026-09-05T10:00:00-04:00",
       "kickoffMs": 1788616800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
@@ -143,7 +143,7 @@
       "kickoff": "2026-09-05T10:00:00-04:00",
       "kickoffMs": 1788616800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl"
     },
     {
@@ -155,7 +155,7 @@
       "kickoff": "2026-09-05T10:00:00-04:00",
       "kickoffMs": 1788616800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk"
     },
     {
