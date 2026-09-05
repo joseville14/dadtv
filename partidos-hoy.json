@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-05T06:05:49-04:00",
+  "builtAt": "2026-09-05T08:07:38-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 5",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-05T07:30:00-04:00",
       "kickoffMs": 1788607800000,
       "time": "07:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl"
     },
     {
