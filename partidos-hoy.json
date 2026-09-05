@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-05T16:07:17-04:00",
+  "builtAt": "2026-09-05T18:05:47-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 5",
@@ -262,7 +262,7 @@
       "kickoff": "2026-09-05T14:45:00-04:00",
       "kickoffMs": 1788633900000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "DAZN1.it"
     },
     {
@@ -274,7 +274,7 @@
       "kickoff": "2026-09-05T15:00:00-04:00",
       "kickoffMs": 1788634800000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us"
     },
     {
@@ -286,7 +286,7 @@
       "kickoff": "2026-09-05T15:00:00-04:00",
       "kickoffMs": 1788634800000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br"
     },
     {
@@ -298,7 +298,7 @@
       "kickoff": "2026-09-05T15:30:00-04:00",
       "kickoffMs": 1788636600000,
       "time": "15:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports2.ar"
     },
     {
@@ -310,7 +310,7 @@
       "kickoff": "2026-09-05T17:00:00-04:00",
       "kickoffMs": 1788642000000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401850651",
@@ -321,7 +321,7 @@
       "kickoff": "2026-09-05T17:30:00-04:00",
       "kickoffMs": 1788643800000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl"
     },
     {
@@ -333,7 +333,7 @@
       "kickoff": "2026-09-05T17:30:00-04:00",
       "kickoffMs": 1788643800000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV2.br"
     },
     {
@@ -345,7 +345,7 @@
       "kickoff": "2026-09-05T18:00:00-04:00",
       "kickoffMs": 1788645600000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar"
     },
     {
