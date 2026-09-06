@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-05T20:05:54-04:00",
+  "builtAt": "2026-09-05T22:06:59-04:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 5",
@@ -357,7 +357,7 @@
       "kickoff": "2026-09-05T19:00:00-04:00",
       "kickoffMs": 1788649200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TUDN.mx"
     },
     {
@@ -369,7 +369,7 @@
       "kickoff": "2026-09-05T19:30:00-04:00",
       "kickoffMs": 1788651000000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761775",
@@ -380,29 +380,7 @@
       "kickoff": "2026-09-05T19:30:00-04:00",
       "kickoffMs": 1788651000000,
       "time": "19:30",
-      "status": "in"
-    },
-    {
-      "id": "761773",
-      "slug": "usa.1",
-      "league": "MLS",
-      "home": "FC Cincinnati",
-      "away": "D.C. United",
-      "kickoff": "2026-09-05T19:30:00-04:00",
-      "kickoffMs": 1788651000000,
-      "time": "19:30",
-      "status": "in"
-    },
-    {
-      "id": "761777",
-      "slug": "usa.1",
-      "league": "MLS",
-      "home": "Inter Miami CF",
-      "away": "Atlanta United FC",
-      "kickoff": "2026-09-05T19:30:00-04:00",
-      "kickoffMs": 1788651000000,
-      "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761771",
@@ -413,7 +391,7 @@
       "kickoff": "2026-09-05T19:30:00-04:00",
       "kickoffMs": 1788651000000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761772",
@@ -424,7 +402,7 @@
       "kickoff": "2026-09-05T19:30:00-04:00",
       "kickoffMs": 1788651000000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761776",
@@ -435,7 +413,7 @@
       "kickoff": "2026-09-05T19:30:00-04:00",
       "kickoffMs": 1788651000000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401850646",
@@ -446,7 +424,7 @@
       "kickoff": "2026-09-05T20:00:00-04:00",
       "kickoffMs": 1788652800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.cl"
     },
     {
@@ -458,7 +436,7 @@
       "kickoff": "2026-09-05T20:00:00-04:00",
       "kickoffMs": 1788652800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV3.br"
     },
     {
@@ -470,7 +448,7 @@
       "kickoff": "2026-09-05T20:15:00-04:00",
       "kickoffMs": 1788653700000,
       "time": "20:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl"
     },
     {
@@ -482,7 +460,7 @@
       "kickoff": "2026-09-05T20:30:00-04:00",
       "kickoffMs": 1788654600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761779",
@@ -493,7 +471,7 @@
       "kickoff": "2026-09-05T20:30:00-04:00",
       "kickoffMs": 1788654600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761780",
@@ -504,7 +482,7 @@
       "kickoff": "2026-09-05T20:30:00-04:00",
       "kickoffMs": 1788654600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876987",
@@ -515,8 +493,19 @@
       "kickoff": "2026-09-05T21:00:00-04:00",
       "kickoffMs": 1788656400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "EstrellaTV.us"
+    },
+    {
+      "id": "761777",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Inter Miami CF",
+      "away": "Atlanta United FC",
+      "kickoff": "2026-09-05T21:05:00-04:00",
+      "kickoffMs": 1788656700000,
+      "time": "21:05",
+      "status": "in"
     },
     {
       "id": "761782",
@@ -527,7 +516,7 @@
       "kickoff": "2026-09-05T21:30:00-04:00",
       "kickoffMs": 1788658200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761781",
@@ -538,7 +527,18 @@
       "kickoff": "2026-09-05T21:30:00-04:00",
       "kickoffMs": 1788658200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
+    },
+    {
+      "id": "761773",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "FC Cincinnati",
+      "away": "D.C. United",
+      "kickoff": "2026-09-05T21:31:00-04:00",
+      "kickoffMs": 1788658260000,
+      "time": "21:31",
+      "status": "in"
     },
     {
       "id": "761783",
