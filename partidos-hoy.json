@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-08T16:06:16-03:00",
+  "builtAt": "2026-09-08T18:05:40-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -50,7 +50,7 @@
       "kickoff": "2026-09-08T16:00:00-03:00",
       "kickoffMs": 1788894000000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar"
     },
     {
@@ -62,7 +62,7 @@
       "kickoff": "2026-09-08T16:00:00-03:00",
       "kickoffMs": 1788894000000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar"
     },
     {
@@ -74,7 +74,7 @@
       "kickoff": "2026-09-08T16:00:00-03:00",
       "kickoffMs": 1788894000000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN4.ar"
     },
     {
@@ -86,7 +86,7 @@
       "kickoff": "2026-09-08T16:00:00-03:00",
       "kickoffMs": 1788894000000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401912518",
