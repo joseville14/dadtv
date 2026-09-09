@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-09T18:06:05-03:00",
+  "builtAt": "2026-09-09T20:06:00-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -100,7 +100,7 @@
       "kickoff": "2026-09-09T19:00:00-03:00",
       "kickoffMs": 1788991200000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports.ar"
     },
     {
@@ -112,7 +112,7 @@
       "kickoff": "2026-09-09T19:00:00-03:00",
       "kickoffMs": 1788991200000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DSports.us"
     },
     {
