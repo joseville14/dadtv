@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-09T12:06:12-03:00",
+  "builtAt": "2026-09-09T14:06:31-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-09T13:45:00-03:00",
       "kickoffMs": 1788972300000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.ar"
     },
     {
@@ -40,7 +40,7 @@
       "kickoff": "2026-09-09T13:45:00-03:00",
       "kickoffMs": 1788972300000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar"
     },
     {
