@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-09T20:06:00-03:00",
+  "builtAt": "2026-09-09T22:06:45-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -100,7 +100,7 @@
       "kickoff": "2026-09-09T19:00:00-03:00",
       "kickoffMs": 1788991200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar"
     },
     {
@@ -112,7 +112,7 @@
       "kickoff": "2026-09-09T19:00:00-03:00",
       "kickoffMs": 1788991200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "DSports.us"
     },
     {
@@ -124,7 +124,7 @@
       "kickoff": "2026-09-09T20:30:00-03:00",
       "kickoffMs": 1788996600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761785",
@@ -135,7 +135,7 @@
       "kickoff": "2026-09-09T20:30:00-03:00",
       "kickoffMs": 1788996600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761789",
@@ -146,7 +146,7 @@
       "kickoff": "2026-09-09T20:30:00-03:00",
       "kickoffMs": 1788996600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761790",
@@ -157,7 +157,7 @@
       "kickoff": "2026-09-09T20:30:00-03:00",
       "kickoffMs": 1788996600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761786",
@@ -168,7 +168,7 @@
       "kickoff": "2026-09-09T20:45:00-03:00",
       "kickoffMs": 1788997500000,
       "time": "20:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us"
     },
     {
@@ -180,7 +180,7 @@
       "kickoff": "2026-09-09T21:00:00-03:00",
       "kickoffMs": 1788998400000,
       "time": "21:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401912541",
@@ -191,7 +191,7 @@
       "kickoff": "2026-09-09T21:30:00-03:00",
       "kickoffMs": 1789000200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl"
     },
     {
@@ -203,7 +203,7 @@
       "kickoff": "2026-09-09T21:30:00-03:00",
       "kickoffMs": 1789000200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761792",
@@ -214,7 +214,7 @@
       "kickoff": "2026-09-09T21:30:00-03:00",
       "kickoffMs": 1789000200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761791",
@@ -225,7 +225,7 @@
       "kickoff": "2026-09-09T21:30:00-03:00",
       "kickoffMs": 1789000200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761793",
@@ -236,7 +236,7 @@
       "kickoff": "2026-09-09T21:30:00-03:00",
       "kickoffMs": 1789000200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761795",
