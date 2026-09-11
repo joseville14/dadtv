@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-10T20:06:20-03:00",
+  "builtAt": "2026-09-10T22:05:58-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -99,7 +99,7 @@
       "kickoff": "2026-09-10T21:30:00-03:00",
       "kickoffMs": 1789086600000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNPremium.cl"
     },
     {
@@ -111,7 +111,7 @@
       "kickoff": "2026-09-10T21:30:00-03:00",
       "kickoffMs": 1789086600000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar"
     }
   ]
