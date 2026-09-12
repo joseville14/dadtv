@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T04:05:43-03:00",
+  "builtAt": "2026-09-12T06:06:19-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -181,7 +181,7 @@
       "kickoffMs": 1789227000000,
       "time": "12:30",
       "status": "pre",
-      "tvgId": "TNTSportsPremium.cl"
+      "tvgId": "TNTSports.cl"
     },
     {
       "id": "401874941",
@@ -311,7 +311,7 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "pre",
-      "tvgId": "ESPN2.cl"
+      "tvgId": "ESPNDeportes.us"
     },
     {
       "id": "401841231",
@@ -508,7 +508,7 @@
       "kickoffMs": 1789257600000,
       "time": "21:00",
       "status": "pre",
-      "tvgId": "ESPN2.br"
+      "tvgId": "SporTV.br"
     },
     {
       "id": "761805",
