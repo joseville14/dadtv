@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T19:21:57-03:00",
+  "builtAt": "2026-09-12T20:06:42-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -439,7 +439,7 @@
       "kickoff": "2026-09-12T17:30:00-03:00",
       "kickoffMs": 1789245000000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -465,7 +465,7 @@
       "kickoff": "2026-09-12T20:00:00-03:00",
       "kickoffMs": 1789254000000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -481,7 +481,7 @@
       "kickoff": "2026-09-12T20:00:00-03:00",
       "kickoffMs": 1789254000000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -494,7 +494,7 @@
       "kickoff": "2026-09-12T20:00:00-03:00",
       "kickoffMs": 1789254000000,
       "time": "20:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876982",
@@ -505,7 +505,7 @@
       "kickoff": "2026-09-12T20:05:00-03:00",
       "kickoffMs": 1789254300000,
       "time": "20:05",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
