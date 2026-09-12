@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T10:06:42-03:00",
+  "builtAt": "2026-09-12T12:06:18-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-12T09:00:00-03:00",
       "kickoffMs": 1789214400000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "DAZNLaLiga.es",
         "GolPlay.es"
@@ -44,7 +44,7 @@
       "kickoff": "2026-09-12T10:00:00-03:00",
       "kickoffMs": 1789218000000,
       "time": "10:00",
-      "status": "pre",
+      "status": "post",
       "tvgId": "ESPNExtra.ar",
       "bind": "epg"
     },
@@ -57,7 +57,7 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -70,7 +70,7 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPN2.ar"
       ],
@@ -85,7 +85,7 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPN2.ar"
       ],
@@ -100,7 +100,7 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPN2.ar"
       ],
@@ -115,7 +115,7 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPN2.ar"
       ],
@@ -130,7 +130,7 @@
       "kickoff": "2026-09-12T11:00:00-03:00",
       "kickoffMs": 1789221600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -143,7 +143,7 @@
       "kickoff": "2026-09-12T11:00:00-03:00",
       "kickoffMs": 1789221600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SkySportsPremierLeague.uk"
       ],
@@ -158,7 +158,7 @@
       "kickoff": "2026-09-12T11:00:00-03:00",
       "kickoffMs": 1789221600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -171,7 +171,7 @@
       "kickoff": "2026-09-12T11:00:00-03:00",
       "kickoffMs": 1789221600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SkySportsPremierLeague.uk"
       ],
@@ -186,7 +186,7 @@
       "kickoff": "2026-09-12T11:00:00-03:00",
       "kickoffMs": 1789221600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -199,7 +199,7 @@
       "kickoff": "2026-09-12T11:15:00-03:00",
       "kickoffMs": 1789222500000,
       "time": "11:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
