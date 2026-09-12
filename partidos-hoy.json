@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T08:13:52-03:00",
+  "builtAt": "2026-09-12T08:39:23-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -70,7 +70,11 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre"
+      "status": "pre",
+      "maybe": [
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401884794",
@@ -81,7 +85,11 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre"
+      "status": "pre",
+      "maybe": [
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401884796",
@@ -92,7 +100,11 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre"
+      "status": "pre",
+      "maybe": [
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401884797",
@@ -103,7 +115,11 @@
       "kickoff": "2026-09-12T10:30:00-03:00",
       "kickoffMs": 1789219800000,
       "time": "10:30",
-      "status": "pre"
+      "status": "pre",
+      "maybe": [
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879285",
@@ -259,7 +275,11 @@
       "kickoff": "2026-09-12T13:30:00-03:00",
       "kickoffMs": 1789230600000,
       "time": "13:30",
-      "status": "pre"
+      "status": "pre",
+      "maybe": [
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401841554",

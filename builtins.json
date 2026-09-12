@@ -546,6 +546,7 @@
       "name": "CDO",
       "tvgId": "CDO.cl",
       "urls": [
+        "http://45.4.3.177:9999/play/a0fw",
         "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8"
       ],
       "group": "Deportes",
