@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T16:05:56-03:00",
+  "builtAt": "2026-09-12T18:06:00-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -290,7 +290,7 @@
       "kickoff": "2026-09-12T14:45:00-03:00",
       "kickoffMs": 1789235100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -303,7 +303,7 @@
       "kickoff": "2026-09-12T14:45:00-03:00",
       "kickoffMs": 1789235100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -316,7 +316,7 @@
       "kickoff": "2026-09-12T15:00:00-03:00",
       "kickoffMs": 1789236000000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.cl",
       "bind": "epg"
     },
@@ -329,7 +329,7 @@
       "kickoff": "2026-09-12T15:45:00-03:00",
       "kickoffMs": 1789238700000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -342,7 +342,7 @@
       "kickoff": "2026-09-12T16:00:00-03:00",
       "kickoffMs": 1789239600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportsPremierLeague.uk"
       ],
@@ -357,7 +357,7 @@
       "kickoff": "2026-09-12T16:00:00-03:00",
       "kickoffMs": 1789239600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -370,7 +370,7 @@
       "kickoff": "2026-09-12T16:00:00-03:00",
       "kickoffMs": 1789239600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -392,7 +392,7 @@
       "kickoff": "2026-09-12T16:00:00-03:00",
       "kickoffMs": 1789239600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -414,7 +414,7 @@
       "kickoff": "2026-09-12T16:30:00-03:00",
       "kickoffMs": 1789241400000,
       "time": "16:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841228",
@@ -425,7 +425,7 @@
       "kickoff": "2026-09-12T17:00:00-03:00",
       "kickoffMs": 1789243200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -447,7 +447,7 @@
       "kickoff": "2026-09-12T17:30:00-03:00",
       "kickoffMs": 1789245000000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
