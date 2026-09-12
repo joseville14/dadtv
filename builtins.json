@@ -1574,6 +1574,28 @@
     },
     {
       "re": {
+        "__re": "\\bsportsnetwest\\.ca\\b|^sportsnet west\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ca"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bcbltdt\\.ca\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ca"
+      ],
+      "notName": {
+        "__re": "news|network|gem",
+        "flags": "i"
+      }
+    },
+    {
+      "re": {
         "__re": "\\btelefe\\.ar\\b|^telefe argentina\\b",
         "flags": "i"
       },
