@@ -35,7 +35,6 @@
       "tvgId": "TNTSports.cl",
       "urls": [
         "http://186.148.196.250:81/play/a0of/index.m3u8",
-        "http://45.181.122.46:8090/play/a04m",
         "http://45.185.163.75:8000/play/a03q/index.m3u8",
         "http://205.235.6.29:8000/play/a0xa/index.m3u8",
         "http://186.148.163.17:8000/play/a0ai/index.m3u8",
@@ -52,8 +51,7 @@
       "urls": [
         "http://205.235.6.29:8000/play/a0wl/index.m3u8",
         "http://45.185.163.75:8000/play/a03c/index.m3u8",
-        "http://38.44.109.41:8003/play/a0hg/index.m3u8",
-        "http://38.224.175.2:8000/play/a05g/index.m3u8"
+        "http://38.44.109.41:8003/play/a0hg/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -65,9 +63,7 @@
       "tvgId": "ESPN.cl",
       "urls": [
         "http://45.185.163.75:8000/play/a038/index.m3u8",
-        "http://205.235.6.29:8000/play/a0zf/index.m3u8",
-        "http://38.44.109.41:8003/play/a0i9/index.m3u8",
-        "http://38.224.175.2:8000/play/a02d/index.m3u8"
+        "http://205.235.6.29:8000/play/a0zf/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -107,9 +103,7 @@
       "urls": [
         "http://177.53.152.117:8000/play/a049/index.m3u8",
         "http://38.210.3.64:8090/play/a0jd/index.m3u8",
-        "http://45.185.163.75:8000/play/a044/index.m3u8",
-        "http://190.238.43.117:9000/play/a0fh/index.m3u8",
-        "http://38.224.175.2:8000/play/a0t2/index.m3u8"
+        "http://45.185.163.75:8000/play/a044/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -121,10 +115,7 @@
       "tvgId": "ESPN7.cl",
       "urls": [
         "http://177.53.152.117:8000/play/a0f1/index.m3u8",
-        "http://38.210.3.64:8090/play/a0e6/index.m3u8",
-        "http://190.238.43.117:9000/play/a0go/index.m3u8",
-        "http://181.78.67.171:8000/play/a0j5/index.m3u8",
-        "http://38.224.175.2:8000/play/a0l5/index.m3u8"
+        "http://38.210.3.64:8090/play/a0e6/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -137,8 +128,7 @@
       "urls": [
         "http://186.148.196.250:81/play/a0o4/index.m3u8",
         "http://38.187.7.252:8000/play/a03d/index.m3u8",
-        "http://190.117.20.37:8000/play/a08d/index.m3u8",
-        "http://38.224.175.2:8000/play/a09o/index.m3u8"
+        "http://190.117.20.37:8000/play/a08d/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -149,8 +139,7 @@
       "name": "DirecTV Sports 2",
       "tvgId": "DIRECTVSports2.cl",
       "urls": [
-        "http://187.102.208.209:8000/play/a0bq/index.m3u8",
-        "http://38.224.175.2:8000/play/a066/index.m3u8"
+        "http://187.102.208.209:8000/play/a0bq/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -160,9 +149,7 @@
     {
       "name": "DirecTV Sports+",
       "tvgId": "DIRECTVSports+.cl",
-      "urls": [
-        "http://38.224.175.2:8000/play/a011/index.m3u8"
-      ],
+      "urls": [],
       "group": "Chile",
       "country": "cl",
       "isSport": true,
@@ -172,7 +159,6 @@
       "name": "ESPN Premium",
       "tvgId": "ESPNPremium.ar",
       "urls": [
-        "http://138.59.227.20:8000/play/a086/index.m3u8",
         "http://187.102.208.209:8000/play/a04y/index.m3u8",
         "http://190.108.83.69:8000/play/a03w/index.m3u8",
         "http://38.210.3.64:8090/play/a0ke/index.m3u8",
@@ -181,7 +167,8 @@
         "http://186.148.196.250:81/play/a0cx/index.m3u8",
         "http://38.187.7.252:8000/play/a06e/index.m3u8",
         "http://181.78.197.59:8000/play/a09l/index.m3u8",
-        "http://179.51.136.19:8000/play/a1ml/index.m3u8"
+        "http://179.51.136.19:8000/play/a1ml/index.m3u8",
+        "http://138.59.227.20:8000/play/a086/index.m3u8"
       ],
       "group": "Argentina",
       "country": "ar",
@@ -234,10 +221,10 @@
       "name": "ESPN 4",
       "tvgId": "ESPN4.ar",
       "urls": [
-        "http://190.61.101.11:7050/play/a08p/index.m3u8",
         "http://138.59.227.20:8000/play/a084/index.m3u8",
         "http://181.78.197.59:8000/play/a07n/index.m3u8",
-        "http://209.61.12.77:9000/play/a09t/index.m3u8"
+        "http://209.61.12.77:9000/play/a09t/index.m3u8",
+        "http://190.61.101.11:7050/play/a08p/index.m3u8"
       ],
       "group": "Argentina",
       "country": "ar",
@@ -299,8 +286,8 @@
       "tvgId": "FoxSports.ar",
       "urls": [
         "http://177.53.153.207:8000/play/a008/index.m3u8",
-        "http://138.59.227.20:8000/play/a085/index.m3u8",
-        "http://190.61.101.11:7050/play/a08t/index.m3u8"
+        "http://190.61.101.11:7050/play/a08t/index.m3u8",
+        "http://138.59.227.20:8000/play/a085/index.m3u8"
       ],
       "group": "Argentina",
       "country": "ar",
@@ -327,8 +314,8 @@
       "urls": [
         "http://38.44.109.41:8003/play/a02l/index.m3u8",
         "http://177.53.153.207:8000/play/a005/index.m3u8",
-        "http://138.59.227.20:8000/play/a06x/index.m3u8",
-        "http://181.115.239.66:8000/play/a011/index.m3u8"
+        "http://181.115.239.66:8000/play/a011/index.m3u8",
+        "http://138.59.227.20:8000/play/a06x/index.m3u8"
       ],
       "group": "Argentina",
       "country": "ar",
@@ -495,9 +482,7 @@
       "name": "TUDN",
       "tvgId": "TUDN.mx",
       "urls": [
-        "https://streamer.metronethn.com/TUDN/index.m3u8",
-        "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/284484.m3u8",
-        "http://181.119.108.43:9001/play/a0jz/index.m3u8"
+        "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/284484.m3u8"
       ],
       "group": "Deportes",
       "country": "mx",
@@ -586,8 +571,7 @@
       "name": "NBC",
       "tvgId": "NBC.us",
       "urls": [
-        "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8",
-        "http://stream.cammonitorplus.net/1800/index.m3u8"
+        "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8"
       ],
       "group": "USA",
       "country": "us",
@@ -607,8 +591,7 @@
       "name": "ABC",
       "tvgId": "ABC.us",
       "urls": [
-        "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
-        "http://stream.cammonitorplus.net/1797/index.m3u8"
+        "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8"
       ],
       "group": "USA",
       "country": "us",
@@ -719,7 +702,6 @@
       "name": "Discovery",
       "tvgId": "DiscoveryChannel.us",
       "urls": [
-        "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
         "http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8"
       ],
       "group": "USA",
@@ -886,8 +868,7 @@
       "name": "Global",
       "tvgId": "CICTDT.ca",
       "urls": [
-        "http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40836.m3u8",
-        "http://stream.cammonitorplus.net/1728/index.m3u8"
+        "http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40836.m3u8"
       ],
       "group": "Canadá",
       "country": "ca",
@@ -1234,8 +1215,7 @@
       "tvgId": "HBOSignature.cl",
       "urls": [
         "http://187.102.208.209:8000/play/a07l/index.m3u8",
-        "http://190.108.83.69:8000/play/a01g/index.m3u8",
-        "http://38.224.175.2:8000/play/a082/index.m3u8"
+        "http://190.108.83.69:8000/play/a01g/index.m3u8"
       ],
       "group": "HBO",
       "country": "cl",
@@ -1393,9 +1373,7 @@
       "name": "Band Sports",
       "tvgId": "BandSports.br",
       "urls": [
-        "http://138.255.2.6:8084/BANDSPORTS/index.m3u8",
         "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8",
-        "http://45.190.28.50/BAND_SPORTS_HD/index.m3u8",
         "http://45.162.64.114/BAND_SPORTS/index.m3u8",
         "http://170.83.16.50/BAND_SPORTS/index.m3u8"
       ],
@@ -1466,13 +1444,280 @@
       "name": "DAZN 1",
       "tvgId": "DAZN1.it",
       "urls": [
-        "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/365316.m3u8",
-        "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/365315.m3u8"
+        "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/365316.m3u8"
       ],
       "group": "Serie A",
       "country": "it",
       "isSport": true,
       "logo": ""
     }
-  ]
+  ],
+  "favorites": [
+    {
+      "re": {
+        "__re": "\\bc5n\\.ar\\b|^c5n argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bchilevision\\.cl\\b|^chilevisi[oó]n ",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bmega\\.cl\\b|^mega chile\\b",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\btvn\\.cl\\b|^tvn chile\\b",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bchvdeportes\\.cl\\b|^chv deportes\\b",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bt13\\.cl\\b|^t13 chile\\b",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bviax\\.cl\\b|^v[ií]a x\\b",
+        "flags": "i"
+      },
+      "country": [
+        "cl"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\btelefe\\.ar\\b|^telefe argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\beltrece\\.ar\\b|^el trece\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bamericatv\\.ar\\b|^am[eé]rica tv argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\belnueve\\.ar\\b|^el nueve\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bnettv\\.ar\\b|^net tv argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\btn\\.ar\\b|^tn argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\ba24\\.ar\\b|^a24 argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bcronicatv\\.ar\\b|^cr[oó]nica tv argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    },
+    {
+      "re": {
+        "__re": "\\bcanal26\\.ar\\b|^canal 26 argentina\\b",
+        "flags": "i"
+      },
+      "country": [
+        "ar"
+      ]
+    }
+  ],
+  "pinned30": {
+    "deportes": [
+      "ESPN Norte",
+      "ESPN Sur",
+      "TUDN",
+      "TyC",
+      "Fox Sports 1 MX",
+      "TNT Sports AR",
+      "Movistar+/LaLiga TV",
+      "DSports",
+      "ESPN Deportes",
+      "Fox Deportes",
+      "TNT Sports Chile",
+      "Win Sports+",
+      "Teledeporte",
+      "DAZN LaLiga",
+      "Gol Play",
+      "ESPN 2",
+      "Fox Sports 2 MX",
+      "Fox Sports AR",
+      "Claro Sports",
+      "Caracol/Gol Caracol",
+      "beIN en Español",
+      "ESPN 3",
+      "ESPN 4",
+      "Movistar Deportes PE",
+      "Fox Sports 3 MX",
+      "Meridiano",
+      "Tigo Sports",
+      "Liga 1 Max",
+      "Esport3",
+      "CDO"
+    ],
+    "canada": [
+      "CTV",
+      "Global",
+      "TVA",
+      "CBC",
+      "Sportsnet",
+      "TSN 1–5",
+      "ICI Radio-Canada",
+      "Citytv",
+      "CTV News Channel",
+      "RDS",
+      "Noovo",
+      "CBC News Network",
+      "W Network",
+      "LCN",
+      "TVA Sports",
+      "CTV 2",
+      "Discovery CA",
+      "History CA",
+      "HGTV CA",
+      "Food Network CA",
+      "Showcase",
+      "Slice",
+      "CTV Comedy",
+      "CTV Drama",
+      "CTV Sci-Fi",
+      "OMNI",
+      "YTV",
+      "BNN Bloomberg",
+      "TVO",
+      "Télé-Québec"
+    ],
+    "usa": [
+      "NBC",
+      "CBS",
+      "ABC",
+      "FOX",
+      "Fox News",
+      "ESPN",
+      "MSNBC",
+      "Univision",
+      "Telemundo",
+      "TNT",
+      "ION",
+      "TBS",
+      "HGTV",
+      "Hallmark",
+      "CNN",
+      "USA Network",
+      "MeTV",
+      "History",
+      "TLC",
+      "INSP",
+      "Discovery",
+      "Food Network",
+      "Bravo",
+      "The CW",
+      "Grit",
+      "A&E",
+      "FX",
+      "ID",
+      "TV Land",
+      "Paramount Network"
+    ],
+    "deportes-chile": [
+      "TNT Sports Premium Chile",
+      "TNT Sports Chile",
+      "ESPN Premium Chile",
+      "ESPN Chile",
+      "ESPN 2 Chile",
+      "CHV Deportes",
+      "DSports",
+      "ESPN 4 Chile",
+      "ESPN 5 Chile",
+      "ESPN 7 Chile"
+    ],
+    "deportes-argentina": [
+      "TyC Sports",
+      "ESPN Premium",
+      "TNT Sports Premium",
+      "ESPN",
+      "ESPN 2",
+      "Fox Sports",
+      "Fox Sports 2",
+      "ESPN 3",
+      "ESPN 4",
+      "ESPN 5"
+    ]
+  }
 }

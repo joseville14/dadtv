@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T06:26:40-03:00",
+  "builtAt": "2026-09-12T07:08:16-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -29,7 +29,11 @@
       "kickoffMs": 1789214400000,
       "time": "09:00",
       "status": "pre",
-      "tvgId": "DAZNLaLiga.es"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401874991",
@@ -41,7 +45,8 @@
       "kickoffMs": 1789218000000,
       "time": "10:00",
       "status": "pre",
-      "tvgId": "ESPNExtra.ar"
+      "tvgId": "ESPNExtra.ar",
+      "bind": "epg"
     },
     {
       "id": "401884799",
@@ -53,7 +58,8 @@
       "kickoffMs": 1789219800000,
       "time": "10:30",
       "status": "pre",
-      "tvgId": "ESPN2.ar"
+      "tvgId": "ESPN2.ar",
+      "bind": "epg"
     },
     {
       "id": "401884795",
@@ -109,7 +115,8 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "SkySportsPremierLeague.uk"
+      "tvgId": "SkySportsPremierLeague.uk",
+      "bind": "epg"
     },
     {
       "id": "401879284",
@@ -121,7 +128,10 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "SkySportsPremierLeague.uk"
+      "maybe": [
+        "SkySportsPremierLeague.uk"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879283",
@@ -133,7 +143,8 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "ESPN2.ar"
+      "tvgId": "ESPN2.ar",
+      "bind": "epg"
     },
     {
       "id": "401879281",
@@ -145,7 +156,10 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "SkySportsPremierLeague.uk"
+      "maybe": [
+        "SkySportsPremierLeague.uk"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879279",
@@ -157,7 +171,8 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "SkySportsPremierLeague.uk"
+      "tvgId": "SkySportsPremierLeague.uk",
+      "bind": "epg"
     },
     {
       "id": "401882882",
@@ -169,7 +184,8 @@
       "kickoffMs": 1789222500000,
       "time": "11:15",
       "status": "pre",
-      "tvgId": "ESPNDeportes.us"
+      "tvgId": "ESPNDeportes.us",
+      "bind": "epg"
     },
     {
       "id": "401850659",
@@ -181,7 +197,8 @@
       "kickoffMs": 1789227000000,
       "time": "12:30",
       "status": "pre",
-      "tvgId": "TNTSports.cl"
+      "tvgId": "TNTSports.cl",
+      "bind": "epg"
     },
     {
       "id": "401874941",
@@ -193,7 +210,8 @@
       "kickoffMs": 1789228800000,
       "time": "13:00",
       "status": "pre",
-      "tvgId": "ESPN2.ar"
+      "tvgId": "ESPN2.ar",
+      "bind": "epg"
     },
     {
       "id": "401916232",
@@ -216,7 +234,8 @@
       "kickoffMs": 1789230600000,
       "time": "13:30",
       "status": "pre",
-      "tvgId": "ESPN2.cl"
+      "tvgId": "ESPN2.cl",
+      "bind": "epg"
     },
     {
       "id": "401882886",
@@ -228,7 +247,8 @@
       "kickoffMs": 1789230600000,
       "time": "13:30",
       "status": "pre",
-      "tvgId": "ESPN4.ar"
+      "tvgId": "ESPN4.ar",
+      "bind": "epg"
     },
     {
       "id": "401884792",
@@ -251,7 +271,8 @@
       "kickoffMs": 1789235100000,
       "time": "14:45",
       "status": "pre",
-      "tvgId": "TNTSports.ar"
+      "tvgId": "TNTSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401841567",
@@ -263,7 +284,8 @@
       "kickoffMs": 1789235100000,
       "time": "14:45",
       "status": "pre",
-      "tvgId": "TNTSports.ar"
+      "tvgId": "TNTSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401850658",
@@ -275,7 +297,8 @@
       "kickoffMs": 1789236000000,
       "time": "15:00",
       "status": "pre",
-      "tvgId": "TNTSports.cl"
+      "tvgId": "TNTSports.cl",
+      "bind": "epg"
     },
     {
       "id": "401874979",
@@ -287,7 +310,8 @@
       "kickoffMs": 1789238700000,
       "time": "15:45",
       "status": "pre",
-      "tvgId": "SkySportCalcio.it"
+      "tvgId": "SkySportCalcio.it",
+      "bind": "epg"
     },
     {
       "id": "401878779",
@@ -299,7 +323,10 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "pre",
-      "tvgId": "SkySportsPremierLeague.uk"
+      "maybe": [
+        "SkySportsPremierLeague.uk"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401882880",
@@ -311,7 +338,8 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "pre",
-      "tvgId": "ESPNDeportes.us"
+      "tvgId": "ESPNDeportes.us",
+      "bind": "epg"
     },
     {
       "id": "401841231",
@@ -323,7 +351,17 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "pre",
-      "tvgId": "SporTV.br"
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401841236",
@@ -335,7 +373,17 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "pre",
-      "tvgId": "SporTV2.br"
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401916233",
@@ -358,7 +406,17 @@
       "kickoffMs": 1789243200000,
       "time": "17:00",
       "status": "pre",
-      "tvgId": "SporTV3.br"
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401841559",
@@ -370,7 +428,8 @@
       "kickoffMs": 1789245000000,
       "time": "17:30",
       "status": "pre",
-      "tvgId": "TNTSports.ar"
+      "tvgId": "TNTSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401841234",
@@ -382,7 +441,17 @@
       "kickoffMs": 1789248600000,
       "time": "18:30",
       "status": "pre",
-      "tvgId": "BandSports.br"
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401850655",
@@ -394,7 +463,11 @@
       "kickoffMs": 1789254000000,
       "time": "20:00",
       "status": "pre",
-      "tvgId": "TNTSportsPremium.cl"
+      "maybe": [
+        "TNTSportsPremium.cl",
+        "TNTSports.cl"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401841563",
@@ -406,7 +479,8 @@
       "kickoffMs": 1789254000000,
       "time": "20:00",
       "status": "pre",
-      "tvgId": "ESPN5.cl"
+      "tvgId": "ESPN5.cl",
+      "bind": "epg"
     },
     {
       "id": "401916234",
@@ -429,7 +503,11 @@
       "kickoffMs": 1789254300000,
       "time": "20:05",
       "status": "pre",
-      "tvgId": "TUDN.mx"
+      "maybe": [
+        "TUDN.mx",
+        "ClaroSports.mx"
+      ],
+      "bind": "guess"
     },
     {
       "id": "761804",
@@ -496,7 +574,17 @@
       "kickoffMs": 1789255800000,
       "time": "20:30",
       "status": "pre",
-      "tvgId": "ESPN.br"
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401841233",
@@ -508,7 +596,8 @@
       "kickoffMs": 1789257600000,
       "time": "21:00",
       "status": "pre",
-      "tvgId": "SporTV.br"
+      "tvgId": "SporTV.br",
+      "bind": "epg"
     },
     {
       "id": "761805",
@@ -553,7 +642,11 @@
       "kickoffMs": 1789261800000,
       "time": "22:10",
       "status": "pre",
-      "tvgId": "ClaroSports.mx"
+      "maybe": [
+        "TUDN.mx",
+        "ClaroSports.mx"
+      ],
+      "bind": "guess"
     },
     {
       "id": "761808",
