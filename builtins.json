@@ -38,7 +38,8 @@
         "http://45.185.163.75:8000/play/a03q/index.m3u8",
         "http://205.235.6.29:8000/play/a0xa/index.m3u8",
         "http://186.148.163.17:8000/play/a0ai/index.m3u8",
-        "http://190.119.176.186:8000/play/a05i/index.m3u8"
+        "http://190.119.176.186:8000/play/a05i/index.m3u8",
+        "http://177.53.152.117:8000/play/a03v/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -128,7 +129,10 @@
       "urls": [
         "http://186.148.196.250:81/play/a0o4/index.m3u8",
         "http://38.187.7.252:8000/play/a03d/index.m3u8",
-        "http://190.117.20.37:8000/play/a08d/index.m3u8"
+        "http://190.117.20.37:8000/play/a08d/index.m3u8",
+        "http://38.210.3.64:8090/play/a0p6/index.m3u8",
+        "http://190.119.176.186:8000/play/a098/index.m3u8",
+        "http://187.102.208.209:8000/play/a09n/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -139,7 +143,9 @@
       "name": "DirecTV Sports 2",
       "tvgId": "DIRECTVSports2.cl",
       "urls": [
-        "http://187.102.208.209:8000/play/a0bq/index.m3u8"
+        "http://38.252.215.33:8000/play/a00r/index.m3u8",
+        "http://187.102.208.209:8000/play/a0bq/index.m3u8",
+        "http://190.117.20.37:8000/play/a0hx/index.m3u8"
       ],
       "group": "Chile",
       "country": "cl",
@@ -274,6 +280,7 @@
       "name": "TNT Sports Premium",
       "tvgId": "TNTSports.ar",
       "urls": [
+        "http://38.252.215.33:8000/play/a00i/index.m3u8",
         "http://138.59.227.20:8000/play/a06z/index.m3u8"
       ],
       "group": "Argentina",
@@ -427,7 +434,7 @@
       "name": "Movistar Deportes",
       "tvgId": "MovistarDeportes.pe",
       "urls": [
-        "http://45.4.1.201:8000/play/a13e/index.m3u8"
+        "http://38.226.49.253:8000/play/a0gf/index.m3u8"
       ],
       "group": "Deportes",
       "country": "pe",
@@ -449,7 +456,8 @@
       "name": "Caracol HD",
       "tvgId": "CaracolHD.co",
       "urls": [
-        "http://190.61.42.218:9000/play/a0a1/index.m3u8"
+        "http://190.61.43.117:45000/play/a02v/index.m3u8",
+        "http://186.148.163.17:8000/play/a09o/index.m3u8"
       ],
       "group": "Deportes",
       "country": "co",
@@ -549,7 +557,7 @@
       "name": "Claro Sports",
       "tvgId": "ClaroSports.mx",
       "urls": [
-        "http://181.119.108.43:9001/play/a050/index.m3u8"
+        "http://181.119.177.253:8000/play/a00t/index.m3u8"
       ],
       "group": "Deportes",
       "country": "mx",
