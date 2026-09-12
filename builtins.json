@@ -448,6 +448,7 @@
       "name": "Win Sports+",
       "tvgId": "WinSportsPlus.co",
       "urls": [
+        "http://190.61.43.117:45000/play/a09v/index.m3u8",
         "http://190.61.42.218:9000/play/a01s/index.m3u8"
       ],
       "group": "Deportes",
@@ -471,7 +472,9 @@
       "name": "Azteca Deportes",
       "tvgId": "AztecaDeportes.mx",
       "urls": [
-        "http://138.59.227.20:8000/play/a0h0/index.m3u8"
+        "http://209.14.115.253:8081/azteca-deportes/index.m3u8",
+        "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8",
+        "http://190.61.101.11:7050/play/a08l/index.m3u8"
       ],
       "group": "Deportes",
       "country": "mx",
@@ -493,6 +496,8 @@
       "name": "TUDN",
       "tvgId": "TUDN.mx",
       "urls": [
+        "http://181.119.177.253:8000/play/a0ds/index.m3u8",
+        "http://190.61.101.11:7050/play/a04m/index.m3u8",
         "http://10k.lucastv.pro:80/live/bMzUj4zG/eR7gYGT/284484.m3u8"
       ],
       "group": "Deportes",
@@ -538,6 +543,7 @@
       "name": "Liga 1 Max",
       "tvgId": "L1Max.pe",
       "urls": [
+        "http://190.117.20.37:8000/play/a08c/index.m3u8",
         "http://190.93.224.42/LIGA-1-MAX/index.m3u8"
       ],
       "group": "Deportes",
@@ -549,7 +555,6 @@
       "name": "CDO",
       "tvgId": "CDO.cl",
       "urls": [
-        "http://45.4.3.177:9999/play/a0fw",
         "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8"
       ],
       "group": "Deportes",
@@ -561,7 +566,8 @@
       "name": "Claro Sports",
       "tvgId": "ClaroSports.mx",
       "urls": [
-        "http://181.119.177.253:8000/play/a00t/index.m3u8"
+        "http://181.119.177.253:8000/play/a00t/index.m3u8",
+        "http://45.185.163.75:8000/play/a0cc/index.m3u8"
       ],
       "group": "Deportes",
       "country": "mx",
@@ -1100,7 +1106,7 @@
     },
     {
       "name": "Teletrak TV",
-      "tvgId": "Teletrak.cl",
+      "tvgId": "TeletrakTV.cl",
       "urls": [
         "https://teletraktv.janus.cl/playlist/stream.m3u8",
         "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"

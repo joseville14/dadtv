@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-12T18:06:00-03:00",
+  "builtAt": "2026-09-12T19:21:57-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -45,8 +45,11 @@
       "kickoffMs": 1789218000000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPNExtra.ar",
-      "bind": "epg"
+      "maybe": [
+        "SkySportCalcio.it",
+        "DAZN1.it"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401884799",
@@ -58,7 +61,7 @@
       "kickoffMs": 1789219800000,
       "time": "10:30",
       "status": "post",
-      "tvgId": "ESPN2.ar",
+      "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
     {
@@ -187,7 +190,7 @@
       "kickoffMs": 1789221600000,
       "time": "11:00",
       "status": "post",
-      "tvgId": "SkySportsPremierLeague.uk",
+      "tvgId": "ESPN.br",
       "bind": "epg"
     },
     {
@@ -250,7 +253,7 @@
       "kickoffMs": 1789230600000,
       "time": "13:30",
       "status": "post",
-      "tvgId": "ESPN2.cl",
+      "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
     {
@@ -343,10 +346,8 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "post",
-      "maybe": [
-        "SkySportsPremierLeague.uk"
-      ],
-      "bind": "guess"
+      "tvgId": "ESPN.br",
+      "bind": "epg"
     },
     {
       "id": "401882880",
@@ -393,17 +394,8 @@
       "kickoffMs": 1789239600000,
       "time": "16:00",
       "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "tvgId": "WinSportsPlus.co",
+      "bind": "epg"
     },
     {
       "id": "401916233",
@@ -414,7 +406,7 @@
       "kickoff": "2026-09-12T16:30:00-03:00",
       "kickoffMs": 1789241400000,
       "time": "16:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841228",
@@ -425,7 +417,7 @@
       "kickoff": "2026-09-12T17:00:00-03:00",
       "kickoffMs": 1789243200000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -460,18 +452,9 @@
       "kickoff": "2026-09-12T18:30:00-03:00",
       "kickoffMs": 1789248600000,
       "time": "18:30",
-      "status": "pre",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "status": "in",
+      "tvgId": "WinSportsPlus.co",
+      "bind": "epg"
     },
     {
       "id": "401850655",
