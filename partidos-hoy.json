@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-13T18:06:38-03:00",
+  "builtAt": "2026-09-13T20:06:49-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 5",
@@ -29,8 +29,11 @@
       "kickoffMs": 1789300800000,
       "time": "09:00",
       "status": "post",
-      "tvgId": "ESPNExtra.ar",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879282",
@@ -42,7 +45,7 @@
       "kickoffMs": 1789304400000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPN2.ar",
+      "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
     {
@@ -82,7 +85,7 @@
       "kickoffMs": 1789306200000,
       "time": "10:30",
       "status": "post",
-      "tvgId": "ESPN3.ar",
+      "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
     {
@@ -273,7 +276,7 @@
       "kickoff": "2026-09-13T17:00:00-03:00",
       "kickoffMs": 1789329600000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -286,7 +289,7 @@
       "kickoff": "2026-09-13T17:30:00-03:00",
       "kickoffMs": 1789331400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -299,7 +302,7 @@
       "kickoff": "2026-09-13T17:30:00-03:00",
       "kickoffMs": 1789331400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -321,7 +324,7 @@
       "kickoff": "2026-09-13T18:30:00-03:00",
       "kickoffMs": 1789335000000,
       "time": "18:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841568",
@@ -332,7 +335,7 @@
       "kickoff": "2026-09-13T19:15:00-03:00",
       "kickoffMs": 1789337700000,
       "time": "19:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -345,7 +348,7 @@
       "kickoff": "2026-09-13T19:30:00-03:00",
       "kickoffMs": 1789338600000,
       "time": "19:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401916231",
@@ -356,7 +359,7 @@
       "kickoff": "2026-09-13T19:30:00-03:00",
       "kickoffMs": 1789338600000,
       "time": "19:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401850652",
@@ -367,7 +370,7 @@
       "kickoff": "2026-09-13T20:00:00-03:00",
       "kickoffMs": 1789340400000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
