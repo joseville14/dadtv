@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-13T06:06:29-03:00",
+  "builtAt": "2026-09-13T08:06:22-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 5",
@@ -173,11 +173,8 @@
       "kickoffMs": 1789321500000,
       "time": "14:45",
       "status": "pre",
-      "maybe": [
-        "TyCSports.ar",
-        "TNTSports.ar"
-      ],
-      "bind": "guess"
+      "tvgId": "TyCSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401841562",
@@ -189,7 +186,7 @@
       "kickoffMs": 1789321500000,
       "time": "14:45",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
@@ -277,7 +274,7 @@
       "kickoffMs": 1789329600000,
       "time": "17:00",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
@@ -290,11 +287,8 @@
       "kickoffMs": 1789331400000,
       "time": "17:30",
       "status": "pre",
-      "maybe": [
-        "TNTSportsPremium.cl",
-        "TNTSports.cl"
-      ],
-      "bind": "guess"
+      "tvgId": "TNTSportsPremium.cl",
+      "bind": "epg"
     },
     {
       "id": "401841237",
@@ -374,11 +368,8 @@
       "kickoffMs": 1789340400000,
       "time": "20:00",
       "status": "pre",
-      "maybe": [
-        "TNTSportsPremium.cl",
-        "TNTSports.cl"
-      ],
-      "bind": "guess"
+      "tvgId": "TNTSportsPremium.cl",
+      "bind": "epg"
     },
     {
       "id": "401841561",
