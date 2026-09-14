@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-13T20:06:49-03:00",
+  "builtAt": "2026-09-13T22:06:39-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 5",
@@ -324,7 +324,7 @@
       "kickoff": "2026-09-13T18:30:00-03:00",
       "kickoffMs": 1789335000000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841568",
@@ -335,7 +335,7 @@
       "kickoff": "2026-09-13T19:15:00-03:00",
       "kickoffMs": 1789337700000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -348,7 +348,7 @@
       "kickoff": "2026-09-13T19:30:00-03:00",
       "kickoffMs": 1789338600000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401916231",
@@ -359,7 +359,7 @@
       "kickoff": "2026-09-13T19:30:00-03:00",
       "kickoffMs": 1789338600000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401850652",
@@ -370,7 +370,7 @@
       "kickoff": "2026-09-13T20:00:00-03:00",
       "kickoffMs": 1789340400000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -383,7 +383,7 @@
       "kickoff": "2026-09-13T21:30:00-03:00",
       "kickoffMs": 1789345800000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar"
@@ -399,7 +399,7 @@
       "kickoff": "2026-09-13T22:00:00-03:00",
       "kickoffMs": 1789347600000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
