@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-15T18:05:58-03:00",
+  "builtAt": "2026-09-15T20:05:50-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -54,7 +54,7 @@
       "kickoff": "2026-09-15T16:30:00-03:00",
       "kickoffMs": 1789500600000,
       "time": "16:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-09-15T19:00:00-03:00",
       "kickoffMs": 1789509600000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports.ar",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-09-15T19:00:00-03:00",
       "kickoffMs": 1789509600000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DIRECTVSports2.cl",
       "bind": "epg"
     },
