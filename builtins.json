@@ -227,8 +227,8 @@
       "name": "ESPN 4",
       "tvgId": "ESPN4.ar",
       "urls": [
-        "http://138.59.227.20:8000/play/a084/index.m3u8",
         "http://181.78.197.59:8000/play/a07n/index.m3u8",
+        "http://138.59.227.20:8000/play/a084/index.m3u8",
         "http://209.61.12.77:9000/play/a09t/index.m3u8",
         "http://190.61.101.11:7050/play/a08p/index.m3u8"
       ],
@@ -319,9 +319,9 @@
       "name": "TyC Sports",
       "tvgId": "TyCSports.ar",
       "urls": [
-        "http://38.44.109.41:8003/play/a02l/index.m3u8",
         "http://177.53.153.207:8000/play/a005/index.m3u8",
         "http://181.115.239.66:8000/play/a011/index.m3u8",
+        "http://38.44.109.41:8003/play/a02l/index.m3u8",
         "http://138.59.227.20:8000/play/a06x/index.m3u8"
       ],
       "group": "Argentina",
@@ -402,9 +402,9 @@
       "name": "Fox Sports 3",
       "tvgId": "FoxSports3.mx",
       "urls": [
-        "http://138.59.227.20:8000/play/a06y/index.m3u8",
         "http://177.53.153.207:8000/play/a001/index.m3u8",
-        "http://181.115.239.66:8000/play/a012/index.m3u8"
+        "http://181.115.239.66:8000/play/a012/index.m3u8",
+        "http://138.59.227.20:8000/play/a06y/index.m3u8"
       ],
       "group": "Deportes",
       "country": "mx",
