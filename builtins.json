@@ -280,8 +280,8 @@
       "name": "TNT Sports Premium",
       "tvgId": "TNTSports.ar",
       "urls": [
-        "http://38.252.215.33:8000/play/a00i/index.m3u8",
-        "http://138.59.227.20:8000/play/a06z/index.m3u8"
+        "http://138.59.227.20:8000/play/a06z/index.m3u8",
+        "http://38.252.215.33:8000/play/a00i/index.m3u8"
       ],
       "group": "Argentina",
       "country": "ar",
