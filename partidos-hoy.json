@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-18T16:06:01-03:00",
+  "builtAt": "2026-09-18T18:06:20-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -28,7 +28,7 @@
       "kickoff": "2026-09-18T15:30:00-03:00",
       "kickoffMs": 1789756200000,
       "time": "15:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-09-18T15:45:00-03:00",
       "kickoffMs": 1789757100000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-09-18T16:00:00-03:00",
       "kickoffMs": 1789758000000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.br",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-09-18T16:00:00-03:00",
       "kickoffMs": 1789758000000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-09-18T18:00:00-03:00",
       "kickoffMs": 1789765200000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
