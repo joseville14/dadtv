@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-18T20:06:49-03:00",
+  "builtAt": "2026-09-18T22:05:51-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -80,7 +80,7 @@
       "kickoff": "2026-09-18T18:00:00-03:00",
       "kickoffMs": 1789765200000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -97,7 +97,7 @@
       "kickoff": "2026-09-18T20:30:00-03:00",
       "kickoffMs": 1789774200000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841580",
@@ -108,7 +108,7 @@
       "kickoff": "2026-09-18T21:15:00-03:00",
       "kickoffMs": 1789776900000,
       "time": "21:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -121,7 +121,7 @@
       "kickoff": "2026-09-18T22:00:00-03:00",
       "kickoffMs": 1789779600000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
