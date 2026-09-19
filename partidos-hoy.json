@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-19T14:06:35-03:00",
+  "builtAt": "2026-09-19T16:05:50-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -219,7 +219,7 @@
       "kickoff": "2026-09-19T13:00:00-03:00",
       "kickoffMs": 1789833600000,
       "time": "13:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.br",
       "bind": "epg"
     },
@@ -232,7 +232,7 @@
       "kickoff": "2026-09-19T13:30:00-03:00",
       "kickoffMs": 1789835400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -245,7 +245,7 @@
       "kickoff": "2026-09-19T13:30:00-03:00",
       "kickoffMs": 1789835400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "DAZNLaLiga.es",
         "GolPlay.es"
@@ -261,7 +261,7 @@
       "kickoff": "2026-09-19T13:30:00-03:00",
       "kickoffMs": 1789835400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -280,7 +280,7 @@
       "kickoff": "2026-09-19T14:30:00-03:00",
       "kickoffMs": 1789839000000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -293,7 +293,7 @@
       "kickoff": "2026-09-19T14:30:00-03:00",
       "kickoffMs": 1789839000000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -306,7 +306,7 @@
       "kickoff": "2026-09-19T15:30:00-03:00",
       "kickoffMs": 1789842600000,
       "time": "15:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401874956",
@@ -317,7 +317,7 @@
       "kickoff": "2026-09-19T15:45:00-03:00",
       "kickoffMs": 1789843500000,
       "time": "15:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -330,7 +330,7 @@
       "kickoff": "2026-09-19T16:00:00-03:00",
       "kickoffMs": 1789844400000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -343,7 +343,7 @@
       "kickoff": "2026-09-19T16:00:00-03:00",
       "kickoffMs": 1789844400000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
