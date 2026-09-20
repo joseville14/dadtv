@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-20T16:20:05-03:00",
+  "builtAt": "2026-09-20T16:23:16-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -55,7 +55,7 @@
       "kickoffMs": 1789909200000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPN.br",
+      "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
     {
@@ -139,7 +139,7 @@
       "kickoffMs": 1789911000000,
       "time": "10:30",
       "status": "post",
-      "tvgId": "ESPN2.ar",
+      "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
     {
@@ -178,7 +178,7 @@
       "kickoffMs": 1789918200000,
       "time": "12:30",
       "status": "post",
-      "tvgId": "ESPN.br",
+      "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
     {
@@ -259,7 +259,7 @@
       "kickoff": "2026-09-20T14:30:00-03:00",
       "kickoffMs": 1789925400000,
       "time": "14:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -279,7 +279,7 @@
       "kickoffMs": 1789926300000,
       "time": "14:45",
       "status": "in",
-      "tvgId": "FoxSports.ar",
+      "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
     {
