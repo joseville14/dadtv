@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-19T20:05:53-03:00",
+  "builtAt": "2026-09-19T22:06:45-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -42,8 +42,11 @@
       "kickoffMs": 1789819200000,
       "time": "09:00",
       "status": "post",
-      "tvgId": "ESPN2.ar",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401874767",
@@ -157,7 +160,7 @@
       "kickoffMs": 1789826400000,
       "time": "11:00",
       "status": "post",
-      "tvgId": "ESPN2.cl",
+      "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
     {
@@ -196,8 +199,11 @@
       "kickoffMs": 1789827300000,
       "time": "11:15",
       "status": "post",
-      "tvgId": "ESPNDeportes.us",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401921405",
@@ -220,8 +226,11 @@
       "kickoffMs": 1789833600000,
       "time": "13:00",
       "status": "post",
-      "tvgId": "ESPN.br",
-      "bind": "epg"
+      "maybe": [
+        "SkySportCalcio.it",
+        "DAZN1.it"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879270",
@@ -233,8 +242,13 @@
       "kickoffMs": 1789835400000,
       "time": "13:30",
       "status": "post",
-      "tvgId": "ESPN2.ar",
-      "bind": "epg"
+      "maybe": [
+        "SkySportsPremierLeague.uk",
+        "ESPN.cl",
+        "ESPN2.cl",
+        "ESPN.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401882864",
@@ -400,7 +414,7 @@
       "kickoff": "2026-09-19T18:30:00-03:00",
       "kickoffMs": 1789853400000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841244",
@@ -411,7 +425,7 @@
       "kickoff": "2026-09-19T18:30:00-03:00",
       "kickoffMs": 1789853400000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -433,7 +447,7 @@
       "kickoff": "2026-09-19T19:00:00-03:00",
       "kickoffMs": 1789855200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar",
       "bind": "epg"
     },
@@ -446,7 +460,7 @@
       "kickoff": "2026-09-19T20:00:00-03:00",
       "kickoffMs": 1789858800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -462,7 +476,7 @@
       "kickoff": "2026-09-19T20:00:00-03:00",
       "kickoffMs": 1789858800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -478,7 +492,7 @@
       "kickoff": "2026-09-19T20:30:00-03:00",
       "kickoffMs": 1789860600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761819",
@@ -489,7 +503,7 @@
       "kickoff": "2026-09-19T20:30:00-03:00",
       "kickoffMs": 1789860600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761816",
@@ -500,7 +514,7 @@
       "kickoff": "2026-09-19T20:30:00-03:00",
       "kickoffMs": 1789860600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761817",
@@ -511,7 +525,7 @@
       "kickoff": "2026-09-19T20:30:00-03:00",
       "kickoffMs": 1789860600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841247",
@@ -522,7 +536,7 @@
       "kickoff": "2026-09-19T20:30:00-03:00",
       "kickoffMs": 1789860600000,
       "time": "20:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -544,7 +558,7 @@
       "kickoff": "2026-09-19T21:00:00-03:00",
       "kickoffMs": 1789862400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -557,7 +571,7 @@
       "kickoff": "2026-09-19T21:15:00-03:00",
       "kickoffMs": 1789863300000,
       "time": "21:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -570,7 +584,7 @@
       "kickoff": "2026-09-19T21:30:00-03:00",
       "kickoffMs": 1789864200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761820",
@@ -581,7 +595,7 @@
       "kickoff": "2026-09-19T21:30:00-03:00",
       "kickoffMs": 1789864200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761821",
@@ -592,7 +606,7 @@
       "kickoff": "2026-09-19T21:30:00-03:00",
       "kickoffMs": 1789864200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761823",
@@ -603,7 +617,7 @@
       "kickoff": "2026-09-19T21:30:00-03:00",
       "kickoffMs": 1789864200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761824",
@@ -614,7 +628,7 @@
       "kickoff": "2026-09-19T21:30:00-03:00",
       "kickoffMs": 1789864200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876969",
