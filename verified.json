@@ -9,17 +9,18 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
   "tvgId": "TVN.cl",
   "urls": [
-   "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
    "http://15.204.246.24:8080/TVNHD/index.m3u8",
-   "http://45.162.193.35/TVN/index.m3u8"
+   "http://38.226.49.253:8000/play/a06c/index.m3u8",
+   "http://45.162.193.35/TVN/index.m3u8",
+   "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
   ],
-  "w": 640,
-  "h": 360,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
+  "acodec": "mp2",
+  "nstreams": 4,
   "geo": "global",
-  "cdn": "mdstrm.com",
+  "cdn": "15.204.246.24",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -7027,15 +7028,15 @@
   "tvgId": "Telefe.ar",
   "urls": [
    "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-   "http://201.190.41.246:8822/play/a036/index.m3u8"
+   "http://181.78.197.59:8000/play/a070/index.m3u8"
   ],
-  "w": 544,
-  "h": 480,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "likely",
-  "cdn": "41.246",
+  "cdn": "141.161",
   "srcs": [
    "dearbulut-ar",
    "musthave"
