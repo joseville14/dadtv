@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-21T00:05:37-03:00",
+  "builtAt": "2026-09-21T02:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 3",
@@ -66,12 +66,8 @@
       "kickoffMs": 1790036100000,
       "time": "21:15",
       "status": "pre",
-      "maybe": [
-        "TyCSports.ar",
-        "TNTSports.ar",
-        "ESPNPremium.ar"
-      ],
-      "bind": "guess"
+      "tvgId": "ESPN5.cl",
+      "bind": "epg"
     }
   ]
 }
