@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-21T22:06:14-03:00",
+  "builtAt": "2026-09-22T00:05:33-03:00",
   "leagues": {
     "chi.1": "ok 0",
-    "arg.1": "ok 3",
+    "arg.1": "ok 0",
     "conmebol.libertadores": "ok 0",
     "conmebol.sudamericana": "ok 0",
     "eng.1": "ok 0",
@@ -15,59 +15,8 @@
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
     "usa.1": "ok 0",
-    "uru.1": "ok 1",
+    "uru.1": "ok 0",
     "bra.1": "ok 0"
   },
-  "matches": [
-    {
-      "id": "401841569",
-      "slug": "arg.1",
-      "league": "Liga Profesional",
-      "home": "Aldosivi",
-      "away": "Atlético Tucumán",
-      "kickoff": "2026-09-21T14:30:00-03:00",
-      "kickoffMs": 1790011800000,
-      "time": "14:30",
-      "status": "post",
-      "tvgId": "TNTSports.ar",
-      "bind": "epg"
-    },
-    {
-      "id": "401841583",
-      "slug": "arg.1",
-      "league": "Liga Profesional",
-      "home": "Barracas Central",
-      "away": "Independiente Rivadavia",
-      "kickoff": "2026-09-21T19:00:00-03:00",
-      "kickoffMs": 1790028000000,
-      "time": "19:00",
-      "status": "post",
-      "tvgId": "TNTSports.ar",
-      "bind": "epg"
-    },
-    {
-      "id": "401921401",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Central Español Fútbol Club",
-      "away": "Montevideo City Torque",
-      "kickoff": "2026-09-21T19:30:00-03:00",
-      "kickoffMs": 1790029800000,
-      "time": "19:30",
-      "status": "post"
-    },
-    {
-      "id": "401841582",
-      "slug": "arg.1",
-      "league": "Liga Profesional",
-      "home": "Lanús",
-      "away": "Estudiantes de La Plata",
-      "kickoff": "2026-09-21T21:15:00-03:00",
-      "kickoffMs": 1790036100000,
-      "time": "21:15",
-      "status": "in",
-      "tvgId": "ESPN5.cl",
-      "bind": "epg"
-    }
-  ]
+  "matches": []
 }
