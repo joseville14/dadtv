@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-22T22:06:21-03:00",
+  "builtAt": "2026-09-23T00:05:50-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -14,9 +14,21 @@
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
-    "usa.1": "ok 0",
+    "usa.1": "ok 1",
     "uru.1": "ok 0",
     "bra.1": "ok 0"
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "761543",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Seattle Sounders FC",
+      "away": "Real Salt Lake",
+      "kickoff": "2026-09-23T22:30:00-03:00",
+      "kickoffMs": 1790213400000,
+      "time": "22:30",
+      "status": "pre"
+    }
+  ]
 }
