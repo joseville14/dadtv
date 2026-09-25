@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-24T22:06:34-03:00",
+  "builtAt": "2026-09-25T00:06:23-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -13,10 +13,27 @@
     "ger.1": "ok 0",
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
-    "mex.1": "ok 0",
+    "mex.1": "ok 1",
     "usa.1": "ok 0",
     "uru.1": "ok 0",
     "bra.1": "ok 0"
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "401876964",
+      "slug": "mex.1",
+      "league": "Liga MX",
+      "home": "Atlante",
+      "away": "Monterrey",
+      "kickoff": "2026-09-25T22:00:00-03:00",
+      "kickoffMs": 1790384400000,
+      "time": "22:00",
+      "status": "pre",
+      "maybe": [
+        "TUDN.mx",
+        "ClaroSports.mx"
+      ],
+      "bind": "guess"
+    }
+  ]
 }
