@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-25T22:05:55-03:00",
+  "builtAt": "2026-09-26T00:05:45-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -13,27 +13,238 @@
     "ger.1": "ok 0",
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
-    "mex.1": "ok 1",
-    "usa.1": "ok 0",
-    "uru.1": "ok 0",
+    "mex.1": "ok 2",
+    "usa.1": "ok 14",
+    "uru.1": "ok 4",
     "bra.1": "ok 0"
   },
   "matches": [
     {
-      "id": "401876964",
+      "id": "401923664",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Progreso",
+      "away": "Racing (Montevideo)",
+      "kickoff": "2026-09-26T11:00:00-03:00",
+      "kickoffMs": 1790431200000,
+      "time": "11:00",
+      "status": "pre"
+    },
+    {
+      "id": "401923663",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Cerro Largo",
+      "away": "Nacional",
+      "kickoff": "2026-09-26T15:00:00-03:00",
+      "kickoffMs": 1790445600000,
+      "time": "15:00",
+      "status": "pre"
+    },
+    {
+      "id": "401923662",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Peñarol",
+      "away": "Boston River",
+      "kickoff": "2026-09-26T18:30:00-03:00",
+      "kickoffMs": 1790458200000,
+      "time": "18:30",
+      "status": "pre"
+    },
+    {
+      "id": "401876959",
       "slug": "mex.1",
       "league": "Liga MX",
-      "home": "Atlante",
-      "away": "Monterrey",
-      "kickoff": "2026-09-25T22:00:00-03:00",
-      "kickoffMs": 1790384400000,
-      "time": "22:00",
-      "status": "in",
+      "home": "Cruz Azul",
+      "away": "Toluca",
+      "kickoff": "2026-09-26T19:50:00-03:00",
+      "kickoffMs": 1790463000000,
+      "time": "19:50",
+      "status": "pre",
+      "tvgId": "TUDN.mx",
+      "bind": "epg"
+    },
+    {
+      "id": "401876962",
+      "slug": "mex.1",
+      "league": "Liga MX",
+      "home": "Guadalajara",
+      "away": "Querétaro",
+      "kickoff": "2026-09-26T20:07:00-03:00",
+      "kickoffMs": 1790464020000,
+      "time": "20:07",
+      "status": "pre",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
       ],
       "bind": "guess"
+    },
+    {
+      "id": "761830",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Atlanta United FC",
+      "away": "New York City FC",
+      "kickoff": "2026-09-26T20:30:00-03:00",
+      "kickoffMs": 1790465400000,
+      "time": "20:30",
+      "status": "pre"
+    },
+    {
+      "id": "761831",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "CF Montréal",
+      "away": "FC Cincinnati",
+      "kickoff": "2026-09-26T20:30:00-03:00",
+      "kickoffMs": 1790465400000,
+      "time": "20:30",
+      "status": "pre"
+    },
+    {
+      "id": "761832",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Charlotte FC",
+      "away": "Chicago Fire FC",
+      "kickoff": "2026-09-26T20:30:00-03:00",
+      "kickoffMs": 1790465400000,
+      "time": "20:30",
+      "status": "pre"
+    },
+    {
+      "id": "761834",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Philadelphia Union",
+      "away": "Orlando City SC",
+      "kickoff": "2026-09-26T20:30:00-03:00",
+      "kickoffMs": 1790465400000,
+      "time": "20:30",
+      "status": "pre"
+    },
+    {
+      "id": "761833",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Red Bull New York",
+      "away": "St. Louis CITY SC",
+      "kickoff": "2026-09-26T20:30:00-03:00",
+      "kickoffMs": 1790465400000,
+      "time": "20:30",
+      "status": "pre"
+    },
+    {
+      "id": "761839",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Austin FC",
+      "away": "San Diego FC",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "761835",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "FC Dallas",
+      "away": "LAFC",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "761836",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Houston Dynamo FC",
+      "away": "Sporting Kansas City",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "761838",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Nashville SC",
+      "away": "Toronto FC",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "761837",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Seattle Sounders FC",
+      "away": "Minnesota United FC",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "401923632",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Montevideo City Torque",
+      "away": "Deportivo Maldonado",
+      "kickoff": "2026-09-26T21:30:00-03:00",
+      "kickoffMs": 1790469000000,
+      "time": "21:30",
+      "status": "pre"
+    },
+    {
+      "id": "761840",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Real Salt Lake",
+      "away": "New England Revolution",
+      "kickoff": "2026-09-26T22:30:00-03:00",
+      "kickoffMs": 1790472600000,
+      "time": "22:30",
+      "status": "pre"
+    },
+    {
+      "id": "761841",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "LA Galaxy",
+      "away": "Colorado Rapids",
+      "kickoff": "2026-09-26T23:30:00-03:00",
+      "kickoffMs": 1790476200000,
+      "time": "23:30",
+      "status": "pre"
+    },
+    {
+      "id": "761843",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "San Jose Earthquakes",
+      "away": "Portland Timbers",
+      "kickoff": "2026-09-26T23:30:00-03:00",
+      "kickoffMs": 1790476200000,
+      "time": "23:30",
+      "status": "pre"
+    },
+    {
+      "id": "761842",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Vancouver Whitecaps",
+      "away": "D.C. United",
+      "kickoff": "2026-09-26T23:30:00-03:00",
+      "kickoffMs": 1790476200000,
+      "time": "23:30",
+      "status": "pre"
     }
   ]
 }
