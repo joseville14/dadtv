@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-27T22:06:35-03:00",
+  "builtAt": "2026-09-28T00:06:34-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -13,87 +13,22 @@
     "ger.1": "ok 0",
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
-    "mex.1": "ok 2",
-    "usa.1": "ok 1",
-    "uru.1": "ok 3",
+    "mex.1": "ok 0",
+    "usa.1": "ok 0",
+    "uru.1": "ok 1",
     "bra.1": "ok 0"
   },
   "matches": [
     {
-      "id": "401923631",
+      "id": "401923659",
       "slug": "uru.1",
       "league": "Liga AUF Uruguaya",
-      "home": "Central Español Fútbol Club",
-      "away": "Liverpool",
-      "kickoff": "2026-09-27T11:00:00-03:00",
-      "kickoffMs": 1790517600000,
-      "time": "11:00",
-      "status": "post"
-    },
-    {
-      "id": "401876958",
-      "slug": "mex.1",
-      "league": "Liga MX",
-      "home": "Pumas UNAM",
-      "away": "Atlético de San Luis",
-      "kickoff": "2026-09-27T15:00:00-03:00",
-      "kickoffMs": 1790532000000,
-      "time": "15:00",
-      "status": "post",
-      "maybe": [
-        "TUDN.mx",
-        "ClaroSports.mx"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401923661",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Juventud",
-      "away": "Cerro",
-      "kickoff": "2026-09-27T15:00:00-03:00",
-      "kickoffMs": 1790532000000,
-      "time": "15:00",
-      "status": "post"
-    },
-    {
-      "id": "401923660",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Defensor Sporting",
-      "away": "Danubio",
-      "kickoff": "2026-09-27T18:00:00-03:00",
-      "kickoffMs": 1790542800000,
-      "time": "18:00",
-      "status": "post"
-    },
-    {
-      "id": "761844",
-      "slug": "usa.1",
-      "league": "MLS",
-      "home": "Columbus Crew",
-      "away": "Inter Miami CF",
-      "kickoff": "2026-09-27T20:00:00-03:00",
-      "kickoffMs": 1790550000000,
+      "home": "Montevideo Wanderers",
+      "away": "Albion FC",
+      "kickoff": "2026-09-28T20:00:00-03:00",
+      "kickoffMs": 1790636400000,
       "time": "20:00",
-      "status": "in"
-    },
-    {
-      "id": "401876957",
-      "slug": "mex.1",
-      "league": "Liga MX",
-      "home": "León",
-      "away": "FC Juarez",
-      "kickoff": "2026-09-27T22:00:00-03:00",
-      "kickoffMs": 1790557200000,
-      "time": "22:00",
-      "status": "in",
-      "maybe": [
-        "TUDN.mx",
-        "ClaroSports.mx"
-      ],
-      "bind": "guess"
+      "status": "pre"
     }
   ]
 }
