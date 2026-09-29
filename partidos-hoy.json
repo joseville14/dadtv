@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-28T22:06:23-03:00",
+  "builtAt": "2026-09-29T00:06:32-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -15,20 +15,8 @@
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
     "usa.1": "ok 0",
-    "uru.1": "ok 1",
+    "uru.1": "ok 0",
     "bra.1": "ok 0"
   },
-  "matches": [
-    {
-      "id": "401923659",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Montevideo Wanderers",
-      "away": "Albion FC",
-      "kickoff": "2026-09-28T20:00:00-03:00",
-      "kickoffMs": 1790636400000,
-      "time": "20:00",
-      "status": "post"
-    }
-  ]
+  "matches": []
 }
