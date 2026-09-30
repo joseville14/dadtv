@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "tz": "America/Santiago",
-  "builtAt": "2026-09-29T22:06:30-03:00",
+  "builtAt": "2026-09-30T00:06:29-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -14,9 +14,32 @@
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
-    "usa.1": "ok 0",
-    "uru.1": "ok 0",
+    "usa.1": "ok 1",
+    "uru.1": "ok 1",
     "bra.1": "ok 0"
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "401905187",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Montevideo City Torque",
+      "away": "Peñarol",
+      "kickoff": "2026-09-30T20:00:00-03:00",
+      "kickoffMs": 1790809200000,
+      "time": "20:00",
+      "status": "post"
+    },
+    {
+      "id": "761833",
+      "slug": "usa.1",
+      "league": "MLS",
+      "home": "Red Bull New York",
+      "away": "St. Louis CITY SC",
+      "kickoff": "2026-09-30T20:30:00-03:00",
+      "kickoffMs": 1790811000000,
+      "time": "20:30",
+      "status": "pre"
+    }
+  ]
 }
