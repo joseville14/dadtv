@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-01T22:07:06-03:00",
+  "builtAt": "2026-10-02T00:06:08-03:00",
   "leagues": {
-    "chi.1": "ok 0",
-    "arg.1": "ok 0",
+    "chi.1": "ok 1",
+    "arg.1": "ok 3",
     "conmebol.libertadores": "ok 0",
     "conmebol.sudamericana": "ok 0",
     "eng.1": "ok 0",
@@ -14,21 +14,82 @@
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
-    "usa.1": "ok 1",
+    "usa.1": "ok 0",
     "uru.1": "ok 0",
-    "bra.1": "ok 0"
+    "bra.1": "ok 1"
   },
   "matches": [
     {
-      "id": "761798",
-      "slug": "usa.1",
-      "league": "MLS",
-      "home": "Seattle Sounders FC",
-      "away": "Sporting Kansas City",
-      "kickoff": "2026-10-01T22:30:00-03:00",
-      "kickoffMs": 1790904600000,
-      "time": "22:30",
-      "status": "pre"
+      "id": "401841588",
+      "slug": "arg.1",
+      "league": "Liga Profesional",
+      "home": "Independiente",
+      "away": "Instituto (Córdoba)",
+      "kickoff": "2026-10-02T19:15:00-03:00",
+      "kickoffMs": 1790979300000,
+      "time": "19:15",
+      "status": "pre",
+      "tvgId": "TyCSports.ar",
+      "bind": "epg"
+    },
+    {
+      "id": "401850654",
+      "slug": "chi.1",
+      "league": "Campeonato Nacional",
+      "home": "Universidad de Concepción",
+      "away": "Huachipato",
+      "kickoff": "2026-10-02T20:00:00-03:00",
+      "kickoffMs": 1790982000000,
+      "time": "20:00",
+      "status": "pre",
+      "maybe": [
+        "TNTSportsPremium.cl",
+        "TNTSports.cl"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401841169",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "São Paulo",
+      "away": "Santos",
+      "kickoff": "2026-10-02T20:00:00-03:00",
+      "kickoffMs": 1790982000000,
+      "time": "20:00",
+      "status": "pre",
+      "tvgId": "SporTV.br",
+      "bind": "epg"
+    },
+    {
+      "id": "401841594",
+      "slug": "arg.1",
+      "league": "Liga Profesional",
+      "home": "Boca Juniors",
+      "away": "Unión (Santa Fe)",
+      "kickoff": "2026-10-02T21:30:00-03:00",
+      "kickoffMs": 1790987400000,
+      "time": "21:30",
+      "status": "pre",
+      "tvgId": "FoxDeportes.us",
+      "bind": "epg"
+    },
+    {
+      "id": "401841587",
+      "slug": "arg.1",
+      "league": "Liga Profesional",
+      "home": "Independiente Rivadavia",
+      "away": "Gimnasia La Plata",
+      "kickoff": "2026-10-02T21:30:00-03:00",
+      "kickoffMs": 1790987400000,
+      "time": "21:30",
+      "status": "pre",
+      "maybe": [
+        "TyCSports.ar",
+        "TNTSports.ar",
+        "ESPNPremium.ar"
+      ],
+      "bind": "guess"
     }
   ]
 }
