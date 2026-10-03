@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-02T22:05:44-03:00",
+  "builtAt": "2026-10-03T00:06:04-03:00",
   "leagues": {
-    "chi.1": "ok 1",
+    "chi.1": "ok 0",
     "arg.1": "ok 3",
     "conmebol.libertadores": "ok 0",
     "conmebol.sudamericana": "ok 0",
@@ -15,79 +15,113 @@
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
     "usa.1": "ok 0",
-    "uru.1": "ok 0",
+    "uru.1": "ok 3",
     "bra.1": "ok 1"
   },
   "matches": [
     {
-      "id": "401841588",
+      "id": "401923679",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Liverpool",
+      "away": "Progreso",
+      "kickoff": "2026-10-03T11:00:00-03:00",
+      "kickoffMs": 1791036000000,
+      "time": "11:00",
+      "status": "pre"
+    },
+    {
+      "id": "401841593",
       "slug": "arg.1",
       "league": "Liga Profesional",
-      "home": "Independiente",
-      "away": "Instituto (Córdoba)",
-      "kickoff": "2026-10-02T19:15:00-03:00",
-      "kickoffMs": 1790979300000,
-      "time": "19:15",
-      "status": "post",
-      "tvgId": "TyCSports.ar",
-      "bind": "epg"
-    },
-    {
-      "id": "401850654",
-      "slug": "chi.1",
-      "league": "Campeonato Nacional",
-      "home": "Universidad de Concepción",
-      "away": "Huachipato",
-      "kickoff": "2026-10-02T20:00:00-03:00",
-      "kickoffMs": 1790982000000,
-      "time": "20:00",
-      "status": "post",
-      "maybe": [
-        "TNTSportsPremium.cl",
-        "TNTSports.cl"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841169",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "São Paulo",
-      "away": "Santos",
-      "kickoff": "2026-10-02T20:00:00-03:00",
-      "kickoffMs": 1790982000000,
-      "time": "20:00",
-      "status": "in",
-      "tvgId": "SporTV.br",
-      "bind": "epg"
-    },
-    {
-      "id": "401841594",
-      "slug": "arg.1",
-      "league": "Liga Profesional",
-      "home": "Boca Juniors",
-      "away": "Unión (Santa Fe)",
-      "kickoff": "2026-10-02T21:30:00-03:00",
-      "kickoffMs": 1790987400000,
-      "time": "21:30",
-      "status": "in",
-      "tvgId": "FoxDeportes.us",
-      "bind": "epg"
-    },
-    {
-      "id": "401841587",
-      "slug": "arg.1",
-      "league": "Liga Profesional",
-      "home": "Independiente Rivadavia",
-      "away": "Gimnasia La Plata",
-      "kickoff": "2026-10-02T21:30:00-03:00",
-      "kickoffMs": 1790987400000,
-      "time": "21:30",
-      "status": "in",
+      "home": "Defensa y Justicia",
+      "away": "San Lorenzo",
+      "kickoff": "2026-10-03T14:45:00-03:00",
+      "kickoffMs": 1791049500000,
+      "time": "14:45",
+      "status": "pre",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
         "ESPNPremium.ar"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401923678",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Albion FC",
+      "away": "Defensor Sporting",
+      "kickoff": "2026-10-03T15:00:00-03:00",
+      "kickoffMs": 1791050400000,
+      "time": "15:00",
+      "status": "pre"
+    },
+    {
+      "id": "401841596",
+      "slug": "arg.1",
+      "league": "Liga Profesional",
+      "home": "Atlético Tucumán",
+      "away": "Barracas Central",
+      "kickoff": "2026-10-03T17:00:00-03:00",
+      "kickoffMs": 1791057600000,
+      "time": "17:00",
+      "status": "pre",
+      "maybe": [
+        "TyCSports.ar",
+        "TNTSports.ar",
+        "ESPNPremium.ar"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401841586",
+      "slug": "arg.1",
+      "league": "Liga Profesional",
+      "home": "Newell's Old Boys",
+      "away": "Lanús",
+      "kickoff": "2026-10-03T17:00:00-03:00",
+      "kickoffMs": 1791057600000,
+      "time": "17:00",
+      "status": "pre",
+      "maybe": [
+        "TyCSports.ar",
+        "TNTSports.ar",
+        "ESPNPremium.ar"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401923692",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Deportivo Maldonado",
+      "away": "Central Español Fútbol Club",
+      "kickoff": "2026-10-03T18:00:00-03:00",
+      "kickoffMs": 1791061200000,
+      "time": "18:00",
+      "status": "pre"
+    },
+    {
+      "id": "401841168",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "Atlético-MG",
+      "away": "Red Bull Bragantino",
+      "kickoff": "2026-10-03T18:30:00-03:00",
+      "kickoffMs": 1791063000000,
+      "time": "18:30",
+      "status": "pre",
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
       ],
       "bind": "guess"
     }
