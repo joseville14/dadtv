@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-04T14:05:43-03:00",
+  "builtAt": "2026-10-04T16:06:08-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 4",
@@ -39,7 +39,7 @@
       "kickoff": "2026-10-04T13:00:00-03:00",
       "kickoffMs": 1791129600000,
       "time": "13:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841589",
@@ -50,7 +50,7 @@
       "kickoff": "2026-10-04T14:45:00-03:00",
       "kickoffMs": 1791135900000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -63,7 +63,7 @@
       "kickoff": "2026-10-04T16:00:00-03:00",
       "kickoffMs": 1791140400000,
       "time": "16:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841584",
