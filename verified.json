@@ -9,9 +9,9 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
   "tvgId": "TVN.cl",
   "urls": [
-   "http://15.204.246.24:8080/TVNHD/index.m3u8",
    "http://38.226.49.253:8000/play/a06c/index.m3u8",
-   "http://45.162.193.35/TVN/index.m3u8",
+   "http://177.53.152.117:8000/play/a08l/index.m3u8",
+   "http://15.204.246.24:8080/TVNHD/index.m3u8",
    "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
   ],
   "w": 1920,
@@ -20,7 +20,7 @@
   "acodec": "mp2",
   "nstreams": 4,
   "geo": "global",
-  "cdn": "15.204.246.24",
+  "cdn": "38.226.49.253",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -1211,16 +1211,18 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
   "tvgId": "ChileVision.cl",
   "urls": [
-   "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
-   "http://15.204.246.24:8080/CHVHD/index.m3u8"
+   "http://186.148.196.250:81/play/a0co/index.m3u8",
+   "http://187.102.208.209:8000/play/a04m/index.m3u8",
+   "http://205.235.6.29:8000/play/a10w/index.m3u8",
+   "http://177.53.152.117:8000/play/a08m/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "mp2",
-  "nstreams": 1,
+  "nstreams": 4,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "186.148.196.250",
   "srcs": [
    "dearbulut-cl",
    "musthave"
@@ -6273,8 +6275,8 @@
   "logo": "https://i.imgur.com/cJHP7bU.png",
   "tvgId": "ElNueve.ar",
   "urls": [
-   "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-   "http://15.204.246.24:8080/elnueveHD/index.m3u8"
+   "http://181.115.239.66:8000/play/a00k/index.m3u8",
+   "http://138.59.227.20:8000/play/a08k/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -7027,16 +7029,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
   "tvgId": "Telefe.ar",
   "urls": [
-   "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-   "http://181.78.197.59:8000/play/a070/index.m3u8"
+   "http://181.78.197.59:8000/play/a070/index.m3u8",
+   "http://192.168.100.53:8178/telefe-noticias.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 544,
+  "h": 480,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
   "geo": "likely",
-  "cdn": "141.161",
+  "cdn": "181.78.197.59",
   "srcs": [
    "dearbulut-ar",
    "musthave"
@@ -7636,10 +7638,11 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
   "tvgId": "ESPN2.ar",
   "urls": [
+   "http://181.78.197.59:8000/play/a080/index.m3u8",
    "http://191.97.49.82:8001/play/a00m/index.m3u8",
-   "https://stream1.freetv.fun/329b6afa11b080deaf88429b5872ccc899dd1f76b1917696c23e70e5ca1a9ff1.m3u8",
-   "http://190.61.43.117:45000/play/a053",
-   "http://181.205.130.194:4000/play/a07i"
+   "http://209.61.12.77:9000/play/a08p/index.m3u8",
+   "http://181.115.239.66:8000/play/a00m/index.m3u8",
+   "http://190.61.101.11:7050/play/a05c/index.m3u8"
   ],
   "w": 1280,
   "h": 720,
@@ -7690,10 +7693,9 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
   "tvgId": "ESPN3.ar",
   "urls": [
-   "http://209.61.12.77:9000/play/a08x/index.m3u8",
-   "http://138.59.227.20:8000/play/a09a/index.m3u8",
-   "http://190.61.43.117:45000/play/a051",
-   "https://stream1.freetv.fun/49953f9f3a3fe8aeebf6a2a608392a0f82b22fb8a56a759ceef45f69d3911059.m3u8"
+   "http://181.115.239.66:8000/play/a00o/index.m3u8",
+   "http://190.61.101.11:7050/play/a05d/index.m3u8",
+   "http://138.59.227.20:8000/play/a09a/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -7852,18 +7854,18 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021.svg/960px-TNT_Sports_2021.svg.png",
   "tvgId": "TNTSports.ar",
   "urls": [
-   "https://stream1.freetv.fun/08bc500e42ac671fa06696abd4dc1d1936e63cc57051ede99e14660fe7417deb.ctv"
+   "http://38.252.215.33:8000/play/a00i/index.m3u8",
+   "http://138.59.227.20:8000/play/a06z/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1088,
-  "vcodec": "hevc",
+  "w": 1280,
+  "h": 1080,
+  "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "likely",
-  "cdn": "freetv.fun",
+  "cdn": "138.59.227.20:8000",
   "srcs": [
-   "herberthe-all",
-   "musthave"
+   "builtins"
   ]
  },
  {
@@ -7901,7 +7903,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
   "tvgId": "FoxNewsChannel.us",
   "urls": [
-   "http://45.190.28.50/FOX_NEWS/index.m3u8"
+   "http://168.228.44.241:9999/play/a022/index.m3u8"
   ],
   "w": 1280,
   "h": 720,
@@ -7915,7 +7917,8 @@
    "iptvorg-index",
    "iptvorg-news",
    "iptvorg-us"
-  ]
+  ],
+  "url": "http://168.228.44.241:9999/play/a022/index.m3u8"
  },
  {
   "name": "CTV 2 Atlantic",
@@ -8169,8 +8172,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
   "tvgId": "NBC.us",
   "urls": [
-   "http://stream.cammonitorplus.net/1785/index.m3u8",
-   "http://stream.cammonitorplus.net/1800/index.m3u8"
+   "http://168.228.44.241:9999/play/a04x/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -8183,7 +8185,8 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
+  ],
+  "url": "http://168.228.44.241:9999/play/a04x/index.m3u8"
  },
  {
   "name": "USA Network",
@@ -8300,7 +8303,7 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",
   "tvgId": "GolfChannel.us",
   "urls": [
-   "https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8"
+   "http://168.228.44.241:9997/play/a03q/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -8315,7 +8318,8 @@
    "iptvorg-index",
    "iptvorg-sports",
    "iptvorg-us"
-  ]
+  ],
+  "url": "http://168.228.44.241:9997/play/a03q/index.m3u8"
  },
  {
   "name": "Hallmark Channel",
@@ -8427,7 +8431,8 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
   "tvgId": "Telemundo.us",
   "urls": [
-   "http://45.190.13.8/TelemundoHD/index.m3u8"
+   "http://168.228.44.241:9999/play/a02g/index.m3u8",
+   "http://168.228.44.241:9997/play/a07g/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -8440,7 +8445,8 @@
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-us"
-  ]
+  ],
+  "url": "http://168.228.44.241:9999/play/a02g/index.m3u8"
  },
  {
   "name": "TV Land",
@@ -8502,19 +8508,19 @@
   "logo": "https://i.imgur.com/Jt7dOQm.png",
   "tvgId": "AmericaTV.ar",
   "urls": [
-   "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+   "http://181.115.239.66:8000/play/a00i/index.m3u8",
+   "http://138.59.227.20:8000/play/a094/index.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
   "geo": "likely",
-  "cdn": "",
+  "cdn": "138.59.227.20",
   "srcs": [
    "musthave"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "TV Publica",
@@ -8553,18 +8559,17 @@
   "urls": [
    "http://192.168.100.53:8178/a24.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
   "cdn": "",
   "srcs": [
    "musthave",
    "youtube-refresh"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "TyC Sports",
@@ -8577,10 +8582,9 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",
   "tvgId": "TyCSports.ar",
   "urls": [
-   "http://38.44.109.41:8003/play/a02l/index.m3u8",
-   "http://177.53.153.207:8000/play/a005/index.m3u8",
-   "http://138.59.227.20:8000/play/a06x/index.m3u8",
-   "http://181.115.239.66:8000/play/a011/index.m3u8"
+   "http://181.115.239.66:8000/play/a011/index.m3u8",
+   "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+   "http://138.59.227.20:8000/play/a06x/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -8751,18 +8755,17 @@
   "urls": [
    "http://192.168.100.53:8178/cronica.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
   "cdn": "",
   "srcs": [
    "musthave",
    "youtube-refresh"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "ESPN Extra",
