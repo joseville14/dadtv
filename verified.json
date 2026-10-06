@@ -355,33 +355,6 @@
   ]
  },
  {
-  "name": "13 Kids",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/m6y9AMe.png",
-  "tvgId": "13Kids.cl",
-  "urls": [
-   "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "dpsgo.com",
-  "srcs": [
-   "dearbulut-cl",
-   "freetv-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "13 Realities",
   "cats": [
    "chile"
@@ -588,56 +561,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "logicahost.com.br",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Arica TV [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_de_Arica_TV.png/240px-Logo_de_Arica_TV.png",
-  "tvgId": "AricaTV.cl",
-  "urls": [
-   "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arica.tv",
-  "srcs": [
-   "dearbulut-cl",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "ARTV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/rKP1ihL.png",
-  "tvgId": "ARTV.cl",
-  "urls": [
-   "http://45.162.193.35/ARTV/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "193.35",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -869,15 +792,18 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png",
   "tvgId": "Canal13.cl",
   "urls": [
-   "http://15.204.246.24:8080/Canal13HD/index.m3u8"
+   "http://177.53.152.117:8000/play/a042/index.m3u8",
+   "http://181.115.239.66:8000/play/a06n/index.m3u8",
+   "http://179.51.136.19:8000/play/a1l2/index.m3u8",
+   "http://187.102.208.209:8000/play/a04m/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "mp2",
-  "nstreams": 1,
+  "nstreams": 4,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "177.53.152.117",
   "srcs": [
    "dearbulut-cl"
   ]
@@ -989,34 +915,6 @@
   ]
  },
  {
-  "name": "Canal Claro",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png",
-  "tvgId": "68224482c5d53e1351aaf2f2",
-  "urls": [
-   "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8"
-  ],
-  "w": 1216,
-  "h": 684,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "pluto-ar",
-   "pluto-mx"
-  ]
- },
- {
   "name": "Canal del Sur",
   "cats": [
    "chile"
@@ -1093,59 +991,6 @@
    "iptvorg-cl",
    "iptvorg-index",
    "jsonteles-cl"
-  ]
- },
- {
-  "name": "Canal Survision Alerce",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://cronicasdelsur.cl/wp-content/uploads/2023/07/cropped-LOGO-TV-transparente-180x180.png",
-  "tvgId": "CanalSurvisionAlerce.cl",
-  "urls": [
-   "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tvdatta.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "Caracola TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/QGvfqug.png",
-  "tvgId": "CaracolaTV.cl",
-  "urls": [
-   "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "trapemn.tv",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
   ]
  },
  {
@@ -1226,33 +1071,6 @@
   "srcs": [
    "dearbulut-cl",
    "musthave"
-  ]
- },
- {
-  "name": "Chiloe Red 25",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://graph.facebook.com/chiloered25/picture?width=800&height=800",
-  "tvgId": "ChiloeRed25.cl",
-  "urls": [
-   "https://v2.tustreaming.cl/chiloered/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tustreaming.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
   ]
  },
  {
@@ -1345,15 +1163,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
   "tvgId": "CNNChile.cl",
   "urls": [
-   "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"
+   "http://38.226.49.253:8000/play/a04y/index.m3u8",
+   "http://190.108.83.69:8000/play/a0cs/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 720,
+  "h": 480,
   "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
+  "acodec": "mp2",
+  "nstreams": 2,
   "geo": "global",
-  "cdn": "rudo.video",
+  "cdn": "38.226.49.253",
   "srcs": [
    "jsonteles-cl",
    "verified-manual",
@@ -1541,32 +1360,6 @@
   "nstreams": 1,
   "geo": "global",
   "cdn": "bozztv.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Docu.",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/7xvQ7jR.png",
-  "tvgId": "Docu.cl",
-  "urls": [
-   "http://45.162.193.35/DOCU/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "193.35",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -2345,15 +2138,18 @@
   "logo": "https://i.imgur.com/nJOVM6e.png",
   "tvgId": "LaRed.cl",
   "urls": [
-   "http://45.162.193.35/LA_RED/index.m3u8"
+   "http://177.53.152.117:8000/play/a08v/index.m3u8",
+   "http://187.102.208.209:8000/play/a0a0/index.m3u8",
+   "http://38.226.49.253:8000/play/a08f/index.m3u8",
+   "http://38.210.3.64:8090/play/a0li/index.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 720,
+  "h": 480,
   "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
+  "acodec": "mp2",
+  "nstreams": 4,
   "geo": "global",
-  "cdn": "193.35",
+  "cdn": "177.53.152.117",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -7854,8 +7650,8 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021.svg/960px-TNT_Sports_2021.svg.png",
   "tvgId": "TNTSports.ar",
   "urls": [
-   "http://38.252.215.33:8000/play/a00i/index.m3u8",
-   "http://138.59.227.20:8000/play/a06z/index.m3u8"
+   "http://138.59.227.20:8000/play/a06z/index.m3u8",
+   "http://38.252.215.33:8000/play/a00i/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -8303,15 +8099,17 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",
   "tvgId": "GolfChannel.us",
   "urls": [
-   "http://168.228.44.241:9997/play/a03q/index.m3u8"
+   "http://181.119.177.253:8000/play/a0do/index.m3u8",
+   "http://177.53.152.117:8000/play/a06w/index.m3u8",
+   "http://186.148.196.250:81/play/a0ma/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 3,
   "geo": "global",
-  "cdn": "tier1streams.com",
+  "cdn": "181.119.177.253",
   "srcs": [
    "dearbulut-sports",
    "iptvorg-ca",
@@ -8472,31 +8270,6 @@
    "iptvorg-index",
    "iptvorg-us"
   ]
- },
- {
-  "name": "CHV Noticias",
-  "cats": [
-   "chile",
-   "news"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
-  "tvgId": "CHVNoticias.cl",
-  "urls": [
-   "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
  },
  {
   "name": "America TV",
@@ -8944,5 +8717,98 @@
    "musthave"
   ],
   "probe": "reachability-only"
+ },
+ {
+  "name": "Agricultura TV",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://i.imgur.com/sxrYc3Q.png",
+  "tvgId": "AgriculturaTV.cl",
+  "urls": [
+   "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "rudo.video",
+  "srcs": [
+   "verified-manual"
+  ]
+ },
+ {
+  "name": "ADN TV",
+  "cats": [
+   "chile",
+   "news"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://i.imgur.com/AVfTwNw.png",
+  "tvgId": "ADNTV.cl",
+  "urls": [
+   "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "rudo.video",
+  "srcs": [
+   "verified-manual"
+  ]
+ },
+ {
+  "name": "13T",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://i.imgur.com/csBNi2L.png",
+  "tvgId": "13T.cl",
+  "urls": [
+   "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "dpsgo.com",
+  "srcs": [
+   "verified-manual"
+  ]
+ },
+ {
+  "name": "Canal 2 Quellon",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://i.imgur.com/MOwLCwT.png",
+  "tvgId": "Canal2Quellon.cl",
+  "urls": [
+   "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "dps.live",
+  "srcs": [
+   "verified-manual"
+  ]
  }
 ]
