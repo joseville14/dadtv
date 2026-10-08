@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-07T22:05:47-03:00",
+  "builtAt": "2026-10-08T00:06:32-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -16,131 +16,87 @@
     "mex.1": "ok 0",
     "usa.1": "ok 0",
     "uru.1": "ok 0",
-    "bra.1": "ok 6"
+    "bra.1": "ok 4"
   },
   "matches": [
     {
-      "id": "401841255",
+      "id": "401841251",
       "slug": "bra.1",
       "league": "Brasileirão",
-      "home": "Internacional",
-      "away": "Corinthians",
-      "kickoff": "2026-10-07T19:30:00-03:00",
-      "kickoffMs": 1791412200000,
+      "home": "Santos",
+      "away": "Flamengo",
+      "kickoff": "2026-10-08T19:30:00-03:00",
+      "kickoffMs": 1791498600000,
       "time": "19:30",
-      "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841253",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Red Bull Bragantino",
-      "away": "Mirassol",
-      "kickoff": "2026-10-07T19:30:00-03:00",
-      "kickoffMs": 1791412200000,
-      "time": "19:30",
-      "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841252",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Remo",
-      "away": "Grêmio",
-      "kickoff": "2026-10-07T19:30:00-03:00",
-      "kickoffMs": 1791412200000,
-      "time": "19:30",
-      "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841250",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Vitória",
-      "away": "Chapecoense",
-      "kickoff": "2026-10-07T20:00:00-03:00",
-      "kickoffMs": 1791414000000,
-      "time": "20:00",
-      "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841257",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Botafogo",
-      "away": "Vasco da Gama",
-      "kickoff": "2026-10-07T20:30:00-03:00",
-      "kickoffMs": 1791415800000,
-      "time": "20:30",
-      "status": "in",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401841249",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Cruzeiro",
-      "away": "São Paulo",
-      "kickoff": "2026-10-07T21:30:00-03:00",
-      "kickoffMs": 1791419400000,
-      "time": "21:30",
-      "status": "in",
+      "status": "pre",
       "tvgId": "SporTV.br",
       "bind": "epg"
+    },
+    {
+      "id": "401841256",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "Athletico-PR",
+      "away": "Atlético-MG",
+      "kickoff": "2026-10-08T20:00:00-03:00",
+      "kickoffMs": 1791500400000,
+      "time": "20:00",
+      "status": "pre",
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401841248",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "Fluminense",
+      "away": "Coritiba",
+      "kickoff": "2026-10-08T21:30:00-03:00",
+      "kickoffMs": 1791505800000,
+      "time": "21:30",
+      "status": "pre",
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
+    },
+    {
+      "id": "401841254",
+      "slug": "bra.1",
+      "league": "Brasileirão",
+      "home": "Palmeiras",
+      "away": "Bahia",
+      "kickoff": "2026-10-08T21:30:00-03:00",
+      "kickoffMs": 1791505800000,
+      "time": "21:30",
+      "status": "pre",
+      "maybe": [
+        "SporTV.br",
+        "SporTV2.br",
+        "SporTV3.br",
+        "BandSports.br",
+        "ESPN.br",
+        "ESPN2.br",
+        "ESPN3.br",
+        "ESPN4.br"
+      ],
+      "bind": "guess"
     }
   ]
 }
