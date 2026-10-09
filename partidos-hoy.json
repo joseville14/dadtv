@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-09T16:06:29-03:00",
+  "builtAt": "2026-10-09T18:05:53-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-09T14:30:00-03:00",
       "kickoffMs": 1791567000000,
       "time": "14:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-09T15:30:00-03:00",
       "kickoffMs": 1791570600000,
       "time": "15:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-09T16:00:00-03:00",
       "kickoffMs": 1791572400000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-09T17:00:00-03:00",
       "kickoffMs": 1791576000000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841609",
@@ -78,7 +78,7 @@
       "kickoff": "2026-10-09T18:00:00-03:00",
       "kickoffMs": 1791579600000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
