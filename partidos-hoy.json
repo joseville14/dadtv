@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-10T18:06:20-03:00",
+  "builtAt": "2026-10-10T20:06:28-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -369,7 +369,7 @@
       "kickoff": "2026-10-10T17:00:00-03:00",
       "kickoffMs": 1791662400000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -386,7 +386,7 @@
       "kickoff": "2026-10-10T17:30:00-03:00",
       "kickoffMs": 1791664200000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -399,7 +399,7 @@
       "kickoff": "2026-10-10T18:00:00-03:00",
       "kickoffMs": 1791666000000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -421,7 +421,7 @@
       "kickoff": "2026-10-10T18:30:00-03:00",
       "kickoffMs": 1791667800000,
       "time": "18:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841599",
@@ -432,7 +432,7 @@
       "kickoff": "2026-10-10T19:15:00-03:00",
       "kickoffMs": 1791670500000,
       "time": "19:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -461,7 +461,7 @@
       "kickoff": "2026-10-10T20:00:00-03:00",
       "kickoffMs": 1791673200000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -474,7 +474,7 @@
       "kickoff": "2026-10-10T20:00:00-03:00",
       "kickoffMs": 1791673200000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
