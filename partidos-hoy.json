@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-10T10:06:03-03:00",
+  "builtAt": "2026-10-10T12:06:37-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-10T08:30:00-03:00",
       "kickoffMs": 1791631800000,
       "time": "08:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-10T10:00:00-03:00",
       "kickoffMs": 1791637200000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -70,7 +70,7 @@
       "kickoff": "2026-10-10T10:30:00-03:00",
       "kickoffMs": 1791639000000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -89,7 +89,7 @@
       "kickoff": "2026-10-10T10:30:00-03:00",
       "kickoffMs": 1791639000000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -102,7 +102,7 @@
       "kickoff": "2026-10-10T10:30:00-03:00",
       "kickoffMs": 1791639000000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
@@ -115,7 +115,7 @@
       "kickoff": "2026-10-10T10:30:00-03:00",
       "kickoffMs": 1791639000000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -134,7 +134,7 @@
       "kickoff": "2026-10-10T10:30:00-03:00",
       "kickoffMs": 1791639000000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -153,7 +153,7 @@
       "kickoff": "2026-10-10T11:00:00-03:00",
       "kickoffMs": 1791640800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -166,7 +166,7 @@
       "kickoff": "2026-10-10T11:00:00-03:00",
       "kickoffMs": 1791640800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -179,7 +179,7 @@
       "kickoff": "2026-10-10T11:00:00-03:00",
       "kickoffMs": 1791640800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -192,7 +192,7 @@
       "kickoff": "2026-10-10T11:00:00-03:00",
       "kickoffMs": 1791640800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -205,7 +205,7 @@
       "kickoff": "2026-10-10T11:00:00-03:00",
       "kickoffMs": 1791640800000,
       "time": "11:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401882856",
@@ -216,7 +216,7 @@
       "kickoff": "2026-10-10T11:15:00-03:00",
       "kickoffMs": 1791641700000,
       "time": "11:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
