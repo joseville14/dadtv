@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-10T16:05:57-03:00",
+  "builtAt": "2026-10-10T18:06:20-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -281,7 +281,7 @@
       "kickoff": "2026-10-10T14:00:00-03:00",
       "kickoffMs": 1791651600000,
       "time": "14:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401850660",
@@ -292,7 +292,7 @@
       "kickoff": "2026-10-10T15:00:00-03:00",
       "kickoffMs": 1791655200000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -308,7 +308,7 @@
       "kickoff": "2026-10-10T15:00:00-03:00",
       "kickoffMs": 1791655200000,
       "time": "15:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761846",
@@ -319,7 +319,7 @@
       "kickoff": "2026-10-10T15:30:00-03:00",
       "kickoffMs": 1791657000000,
       "time": "15:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841611",
@@ -330,7 +330,7 @@
       "kickoff": "2026-10-10T15:45:00-03:00",
       "kickoffMs": 1791657900000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -343,7 +343,7 @@
       "kickoff": "2026-10-10T15:45:00-03:00",
       "kickoffMs": 1791657900000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -356,7 +356,7 @@
       "kickoff": "2026-10-10T16:00:00-03:00",
       "kickoffMs": 1791658800000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -369,7 +369,7 @@
       "kickoff": "2026-10-10T17:00:00-03:00",
       "kickoffMs": 1791662400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -386,7 +386,7 @@
       "kickoff": "2026-10-10T17:30:00-03:00",
       "kickoffMs": 1791664200000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -399,7 +399,7 @@
       "kickoff": "2026-10-10T18:00:00-03:00",
       "kickoffMs": 1791666000000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
