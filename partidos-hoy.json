@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-11T10:05:46-03:00",
+  "builtAt": "2026-10-11T12:06:34-03:00",
   "leagues": {
     "chi.1": "ok 4",
     "arg.1": "ok 5",
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-11T09:00:00-03:00",
       "kickoffMs": 1791720000000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-11T10:00:00-03:00",
       "kickoffMs": 1791723600000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-11T10:00:00-03:00",
       "kickoffMs": 1791723600000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-10-11T10:00:00-03:00",
       "kickoffMs": 1791723600000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN4.br",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-10-11T10:00:00-03:00",
       "kickoffMs": 1791723600000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -109,7 +109,7 @@
       "kickoff": "2026-10-11T10:30:00-03:00",
       "kickoffMs": 1791725400000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -128,7 +128,7 @@
       "kickoff": "2026-10-11T11:00:00-03:00",
       "kickoffMs": 1791727200000,
       "time": "11:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401882847",
@@ -139,7 +139,7 @@
       "kickoff": "2026-10-11T11:15:00-03:00",
       "kickoffMs": 1791728100000,
       "time": "11:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
