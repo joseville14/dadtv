@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-10T20:06:28-03:00",
+  "builtAt": "2026-10-10T22:06:27-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -421,7 +421,7 @@
       "kickoff": "2026-10-10T18:30:00-03:00",
       "kickoffMs": 1791667800000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841599",
@@ -432,7 +432,7 @@
       "kickoff": "2026-10-10T19:15:00-03:00",
       "kickoffMs": 1791670500000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -461,7 +461,7 @@
       "kickoff": "2026-10-10T20:00:00-03:00",
       "kickoffMs": 1791673200000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -474,7 +474,7 @@
       "kickoff": "2026-10-10T20:00:00-03:00",
       "kickoffMs": 1791673200000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -490,7 +490,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761852",
@@ -501,7 +501,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761847",
@@ -512,7 +512,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761851",
@@ -523,7 +523,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761848",
@@ -534,7 +534,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761849",
@@ -545,7 +545,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761853",
@@ -556,7 +556,7 @@
       "kickoff": "2026-10-10T20:30:00-03:00",
       "kickoffMs": 1791675000000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841259",
@@ -567,7 +567,7 @@
       "kickoff": "2026-10-10T21:00:00-03:00",
       "kickoffMs": 1791676800000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -580,7 +580,7 @@
       "kickoff": "2026-10-10T21:30:00-03:00",
       "kickoffMs": 1791678600000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     },
@@ -593,7 +593,7 @@
       "kickoff": "2026-10-10T21:30:00-03:00",
       "kickoffMs": 1791678600000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761854",
@@ -604,7 +604,7 @@
       "kickoff": "2026-10-10T21:30:00-03:00",
       "kickoffMs": 1791678600000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761855",
@@ -615,7 +615,7 @@
       "kickoff": "2026-10-10T21:30:00-03:00",
       "kickoffMs": 1791678600000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876951",
@@ -626,7 +626,7 @@
       "kickoff": "2026-10-10T22:00:00-03:00",
       "kickoffMs": 1791680400000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
