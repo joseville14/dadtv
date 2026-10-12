@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-11T20:06:28-03:00",
+  "builtAt": "2026-10-11T22:06:35-03:00",
   "leagues": {
     "chi.1": "ok 4",
     "arg.1": "ok 5",
@@ -396,7 +396,7 @@
       "kickoff": "2026-10-11T18:30:00-03:00",
       "kickoffMs": 1791754200000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841604",
@@ -407,7 +407,7 @@
       "kickoff": "2026-10-11T19:15:00-03:00",
       "kickoffMs": 1791756900000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -420,7 +420,7 @@
       "kickoff": "2026-10-11T19:30:00-03:00",
       "kickoffMs": 1791757800000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -442,7 +442,7 @@
       "kickoff": "2026-10-11T20:00:00-03:00",
       "kickoffMs": 1791759600000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -458,7 +458,7 @@
       "kickoff": "2026-10-11T20:00:00-03:00",
       "kickoffMs": 1791759600000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -471,7 +471,7 @@
       "kickoff": "2026-10-11T20:00:00-03:00",
       "kickoffMs": 1791759600000,
       "time": "20:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876949",
@@ -482,7 +482,7 @@
       "kickoff": "2026-10-11T20:10:00-03:00",
       "kickoffMs": 1791760200000,
       "time": "20:10",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -498,7 +498,7 @@
       "kickoff": "2026-10-11T21:30:00-03:00",
       "kickoffMs": 1791765000000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
