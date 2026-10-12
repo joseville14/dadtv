@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-12T16:05:51-03:00",
+  "builtAt": "2026-10-12T18:07:12-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 2",
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-12T15:45:00-03:00",
       "kickoffMs": 1791830700000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-12T16:00:00-03:00",
       "kickoffMs": 1791831600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-12T16:00:00-03:00",
       "kickoffMs": 1791831600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-10-12T16:00:00-03:00",
       "kickoffMs": 1791831600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-10-12T16:00:00-03:00",
       "kickoffMs": 1791831600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -115,7 +115,7 @@
       "kickoff": "2026-10-12T17:00:00-03:00",
       "kickoffMs": 1791835200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
