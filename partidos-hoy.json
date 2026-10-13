@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-12T20:05:41-03:00",
+  "builtAt": "2026-10-12T22:06:06-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 2",
@@ -131,7 +131,7 @@
       "kickoff": "2026-10-12T18:30:00-03:00",
       "kickoffMs": 1791840600000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -144,7 +144,7 @@
       "kickoff": "2026-10-12T19:30:00-03:00",
       "kickoffMs": 1791844200000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -166,7 +166,7 @@
       "kickoff": "2026-10-12T21:00:00-03:00",
       "kickoffMs": 1791849600000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     }
