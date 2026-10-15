@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-15T18:05:38-03:00",
+  "builtAt": "2026-10-15T20:05:53-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -244,7 +244,7 @@
       "kickoff": "2026-10-15T20:00:00-03:00",
       "kickoffMs": 1792105200000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
