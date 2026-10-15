@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-15T12:05:42-03:00",
+  "builtAt": "2026-10-15T14:06:31-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915568",
@@ -78,7 +78,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -91,7 +91,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915575",
@@ -102,7 +102,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915574",
@@ -113,7 +113,7 @@
       "kickoff": "2026-10-15T13:45:00-03:00",
       "kickoffMs": 1792082700000,
       "time": "13:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915571",
@@ -258,7 +258,7 @@
       "kickoffMs": 1792110600000,
       "time": "21:30",
       "status": "pre",
-      "tvgId": "ESPN5.cl",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     }
   ]
