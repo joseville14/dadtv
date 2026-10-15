@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-14T20:06:18-03:00",
+  "builtAt": "2026-10-14T22:05:53-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -143,7 +143,7 @@
       "kickoff": "2026-10-14T19:00:00-03:00",
       "kickoffMs": 1792015200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -156,7 +156,7 @@
       "kickoff": "2026-10-14T19:00:00-03:00",
       "kickoffMs": 1792015200000,
       "time": "19:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
@@ -169,7 +169,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761865",
@@ -180,7 +180,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761863",
@@ -191,7 +191,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761862",
@@ -202,7 +202,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761861",
@@ -213,7 +213,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761860",
@@ -224,7 +224,7 @@
       "kickoff": "2026-10-14T20:30:00-03:00",
       "kickoffMs": 1792020600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401912522",
@@ -235,7 +235,7 @@
       "kickoff": "2026-10-14T21:30:00-03:00",
       "kickoffMs": 1792024200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "CHVDeportes.cl",
         "ESPN.ar",
@@ -253,7 +253,7 @@
       "kickoff": "2026-10-14T21:30:00-03:00",
       "kickoffMs": 1792024200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761867",
@@ -264,7 +264,7 @@
       "kickoff": "2026-10-14T21:30:00-03:00",
       "kickoffMs": 1792024200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761866",
@@ -275,7 +275,7 @@
       "kickoff": "2026-10-14T21:30:00-03:00",
       "kickoffMs": 1792024200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761868",
@@ -286,7 +286,7 @@
       "kickoff": "2026-10-14T21:30:00-03:00",
       "kickoffMs": 1792024200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761871",
