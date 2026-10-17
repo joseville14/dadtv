@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-17T10:05:50-03:00",
+  "builtAt": "2026-10-17T12:06:09-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-17T08:30:00-03:00",
       "kickoffMs": 1792236600000,
       "time": "08:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-17T09:00:00-03:00",
       "kickoffMs": 1792238400000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-17T10:00:00-03:00",
       "kickoffMs": 1792242000000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-17T10:00:00-03:00",
       "kickoffMs": 1792242000000,
       "time": "10:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401884769",
@@ -78,7 +78,7 @@
       "kickoff": "2026-10-17T10:30:00-03:00",
       "kickoffMs": 1792243800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -97,7 +97,7 @@
       "kickoff": "2026-10-17T10:30:00-03:00",
       "kickoffMs": 1792243800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -116,7 +116,7 @@
       "kickoff": "2026-10-17T10:30:00-03:00",
       "kickoffMs": 1792243800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -129,7 +129,7 @@
       "kickoff": "2026-10-17T10:30:00-03:00",
       "kickoffMs": 1792243800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -148,7 +148,7 @@
       "kickoff": "2026-10-17T10:30:00-03:00",
       "kickoffMs": 1792243800000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -167,7 +167,7 @@
       "kickoff": "2026-10-17T11:00:00-03:00",
       "kickoffMs": 1792245600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -180,7 +180,7 @@
       "kickoff": "2026-10-17T11:00:00-03:00",
       "kickoffMs": 1792245600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -193,7 +193,7 @@
       "kickoff": "2026-10-17T11:00:00-03:00",
       "kickoffMs": 1792245600000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -206,7 +206,7 @@
       "kickoff": "2026-10-17T11:15:00-03:00",
       "kickoffMs": 1792246500000,
       "time": "11:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
