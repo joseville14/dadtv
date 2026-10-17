@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-17T18:06:09-03:00",
+  "builtAt": "2026-10-17T20:06:23-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -345,7 +345,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -358,7 +358,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN4.br",
       "bind": "epg"
     },
@@ -371,7 +371,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841268",
@@ -382,7 +382,7 @@
       "kickoff": "2026-10-17T18:00:00-03:00",
       "kickoffMs": 1792270800000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -404,7 +404,7 @@
       "kickoff": "2026-10-17T18:30:00-03:00",
       "kickoffMs": 1792272600000,
       "time": "18:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -426,7 +426,7 @@
       "kickoff": "2026-10-17T19:30:00-03:00",
       "kickoffMs": 1792276200000,
       "time": "19:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -448,7 +448,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -461,7 +461,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -474,7 +474,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
