@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-17T16:06:19-03:00",
+  "builtAt": "2026-10-17T18:06:09-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -284,7 +284,7 @@
       "kickoff": "2026-10-17T15:00:00-03:00",
       "kickoffMs": 1792260000000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -297,7 +297,7 @@
       "kickoff": "2026-10-17T15:30:00-03:00",
       "kickoffMs": 1792261800000,
       "time": "15:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401874935",
@@ -308,7 +308,7 @@
       "kickoff": "2026-10-17T15:45:00-03:00",
       "kickoffMs": 1792262700000,
       "time": "15:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -321,7 +321,7 @@
       "kickoff": "2026-10-17T16:00:00-03:00",
       "kickoffMs": 1792263600000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -334,7 +334,7 @@
       "kickoff": "2026-10-17T16:00:00-03:00",
       "kickoffMs": 1792263600000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841621",
@@ -345,7 +345,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -358,7 +358,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.br",
       "bind": "epg"
     },
@@ -371,7 +371,7 @@
       "kickoff": "2026-10-17T17:30:00-03:00",
       "kickoffMs": 1792269000000,
       "time": "17:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841268",
@@ -382,7 +382,7 @@
       "kickoff": "2026-10-17T18:00:00-03:00",
       "kickoffMs": 1792270800000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
