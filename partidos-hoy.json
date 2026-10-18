@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-18T08:06:10-03:00",
+  "builtAt": "2026-10-18T10:06:23-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-18T07:30:00-03:00",
       "kickoffMs": 1792319400000,
       "time": "07:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-18T09:00:00-03:00",
       "kickoffMs": 1792324800000,
       "time": "09:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -106,7 +106,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884771",
@@ -202,7 +202,7 @@
       "kickoffMs": 1792345500000,
       "time": "14:45",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
@@ -296,7 +296,7 @@
       "kickoffMs": 1792357200000,
       "time": "18:00",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
@@ -370,17 +370,8 @@
       "kickoffMs": 1792362600000,
       "time": "19:30",
       "status": "pre",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "tvgId": "SporTV.br",
+      "bind": "epg"
     },
     {
       "id": "401841628",
