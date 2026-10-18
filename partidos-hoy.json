@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-17T20:06:23-03:00",
+  "builtAt": "2026-10-17T22:06:01-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 5",
@@ -29,8 +29,13 @@
       "kickoffMs": 1792236600000,
       "time": "08:30",
       "status": "post",
-      "tvgId": "ESPN2.cl",
-      "bind": "epg"
+      "maybe": [
+        "SkySportsPremierLeague.uk",
+        "ESPN.cl",
+        "ESPN2.cl",
+        "ESPN.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401882843",
@@ -55,8 +60,11 @@
       "kickoffMs": 1792242000000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPN3.ar",
-      "bind": "epg"
+      "maybe": [
+        "SkySportCalcio.it",
+        "DAZN1.it"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401929260",
@@ -194,7 +202,7 @@
       "kickoffMs": 1792245600000,
       "time": "11:00",
       "status": "post",
-      "tvgId": "ESPN2.cl",
+      "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
     {
@@ -220,8 +228,11 @@
       "kickoffMs": 1792252800000,
       "time": "13:00",
       "status": "post",
-      "tvgId": "ESPN4.br",
-      "bind": "epg"
+      "maybe": [
+        "SkySportCalcio.it",
+        "DAZN1.it"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401929243",
@@ -232,9 +243,7 @@
       "kickoff": "2026-10-17T13:00:00-03:00",
       "kickoffMs": 1792252800000,
       "time": "13:00",
-      "status": "post",
-      "tvgId": "DIRECTVSports2.cl",
-      "bind": "epg"
+      "status": "post"
     },
     {
       "id": "401879258",
@@ -404,7 +413,7 @@
       "kickoff": "2026-10-17T18:30:00-03:00",
       "kickoffMs": 1792272600000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -426,7 +435,7 @@
       "kickoff": "2026-10-17T19:30:00-03:00",
       "kickoffMs": 1792276200000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -448,7 +457,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -461,7 +470,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -474,7 +483,7 @@
       "kickoff": "2026-10-17T20:00:00-03:00",
       "kickoffMs": 1792278000000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -490,7 +499,7 @@
       "kickoff": "2026-10-17T20:07:00-03:00",
       "kickoffMs": 1792278420000,
       "time": "20:07",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -506,7 +515,7 @@
       "kickoff": "2026-10-17T20:30:00-03:00",
       "kickoffMs": 1792279800000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761879",
@@ -517,7 +526,7 @@
       "kickoff": "2026-10-17T20:30:00-03:00",
       "kickoffMs": 1792279800000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761877",
@@ -528,7 +537,7 @@
       "kickoff": "2026-10-17T20:30:00-03:00",
       "kickoffMs": 1792279800000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761881",
@@ -539,7 +548,7 @@
       "kickoff": "2026-10-17T20:30:00-03:00",
       "kickoffMs": 1792279800000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761878",
@@ -550,7 +559,7 @@
       "kickoff": "2026-10-17T20:30:00-03:00",
       "kickoffMs": 1792279800000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841273",
@@ -561,7 +570,7 @@
       "kickoff": "2026-10-17T21:00:00-03:00",
       "kickoffMs": 1792281600000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -583,7 +592,7 @@
       "kickoff": "2026-10-17T21:30:00-03:00",
       "kickoffMs": 1792283400000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761883",
@@ -594,7 +603,7 @@
       "kickoff": "2026-10-17T21:30:00-03:00",
       "kickoffMs": 1792283400000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761884",
@@ -605,7 +614,7 @@
       "kickoff": "2026-10-17T21:30:00-03:00",
       "kickoffMs": 1792283400000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876941",
@@ -632,7 +641,7 @@
       "kickoff": "2026-10-17T22:00:00-03:00",
       "kickoffMs": 1792285200000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
