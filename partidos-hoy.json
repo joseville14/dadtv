@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-18T10:06:23-03:00",
+  "builtAt": "2026-10-18T12:06:16-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 4",
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-18T09:00:00-03:00",
       "kickoffMs": 1792324800000,
       "time": "09:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -106,7 +106,7 @@
       "kickoff": "2026-10-18T10:00:00-03:00",
       "kickoffMs": 1792328400000,
       "time": "10:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401884771",
@@ -117,7 +117,7 @@
       "kickoff": "2026-10-18T10:30:00-03:00",
       "kickoffMs": 1792330200000,
       "time": "10:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -130,7 +130,7 @@
       "kickoff": "2026-10-18T11:15:00-03:00",
       "kickoffMs": 1792332900000,
       "time": "11:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
