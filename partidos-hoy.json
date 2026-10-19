@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-19T12:06:48-03:00",
+  "builtAt": "2026-10-19T14:08:21-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 3",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-19T13:30:00-03:00",
       "kickoffMs": 1792427400000,
       "time": "13:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
