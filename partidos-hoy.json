@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-20T14:07:55-03:00",
+  "builtAt": "2026-10-20T16:06:04-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-20T13:45:00-03:00",
       "kickoffMs": 1792514700000,
       "time": "13:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-20T13:45:00-03:00",
       "kickoffMs": 1792514700000,
       "time": "13:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915397",
@@ -78,7 +78,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -91,7 +91,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915400",
@@ -102,7 +102,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNExtra.ar",
       "bind": "epg"
     },
@@ -115,7 +115,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -128,7 +128,7 @@
       "kickoff": "2026-10-20T16:00:00-03:00",
       "kickoffMs": 1792522800000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports2.ar",
       "bind": "epg"
     },
