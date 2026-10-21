@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-21T18:06:21-03:00",
+  "builtAt": "2026-10-21T20:06:29-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -152,7 +152,7 @@
       "kickoff": "2026-10-21T19:00:00-03:00",
       "kickoffMs": 1792620000000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
