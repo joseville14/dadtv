@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-21T16:06:27-03:00",
+  "builtAt": "2026-10-21T18:06:21-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-21T15:00:00-03:00",
       "kickoffMs": 1792605600000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915390",
@@ -104,7 +104,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915389",
@@ -115,8 +115,8 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in",
-      "tvgId": "ESPN4.ar",
+      "status": "post",
+      "tvgId": "ESPNExtra.ar",
       "bind": "epg"
     },
     {
@@ -128,7 +128,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -141,7 +141,7 @@
       "kickoff": "2026-10-21T16:00:00-03:00",
       "kickoffMs": 1792609200000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401913956",
