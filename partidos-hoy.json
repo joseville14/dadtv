@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-23T10:06:25-03:00",
+  "builtAt": "2026-10-23T12:06:00-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 3",
@@ -94,12 +94,8 @@
       "kickoffMs": 1792791000000,
       "time": "18:30",
       "status": "pre",
-      "maybe": [
-        "TyCSports.ar",
-        "TNTSports.ar",
-        "ESPNPremium.ar"
-      ],
-      "bind": "guess"
+      "tvgId": "TyCSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401850668",
