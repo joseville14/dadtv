@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-24T08:05:59-03:00",
+  "builtAt": "2026-10-24T10:06:33-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 4",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-24T08:30:00-03:00",
       "kickoffMs": 1792841400000,
       "time": "08:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-24T09:00:00-03:00",
       "kickoffMs": 1792843200000,
       "time": "09:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-24T10:00:00-03:00",
       "kickoffMs": 1792846800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -70,7 +70,7 @@
       "kickoff": "2026-10-24T10:00:00-03:00",
       "kickoffMs": 1792846800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -83,7 +83,7 @@
       "kickoff": "2026-10-24T10:00:00-03:00",
       "kickoffMs": 1792846800000,
       "time": "10:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401884758",
