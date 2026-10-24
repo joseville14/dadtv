@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-24T02:06:12-03:00",
+  "builtAt": "2026-10-24T04:06:03-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 4",
@@ -514,6 +514,17 @@
       "bind": "guess"
     },
     {
+      "id": "401930316",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Deportivo Maldonado",
+      "away": "Danubio",
+      "kickoff": "2026-10-24T19:00:00-03:00",
+      "kickoffMs": 1792879200000,
+      "time": "19:00",
+      "status": "pre"
+    },
+    {
       "id": "401841632",
       "slug": "arg.1",
       "league": "Liga Profesional",
@@ -529,17 +540,6 @@
         "ESPNPremium.ar"
       ],
       "bind": "guess"
-    },
-    {
-      "id": "401930316",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Deportivo Maldonado",
-      "away": "Danubio",
-      "kickoff": "2026-10-24T19:30:00-03:00",
-      "kickoffMs": 1792881000000,
-      "time": "19:30",
-      "status": "pre"
     },
     {
       "id": "401841278",
