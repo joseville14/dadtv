@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-24T14:06:36-03:00",
+  "builtAt": "2026-10-24T16:05:58-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 4",
@@ -228,7 +228,7 @@
       "kickoff": "2026-10-24T12:30:00-03:00",
       "kickoffMs": 1792855800000,
       "time": "12:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -244,7 +244,7 @@
       "kickoff": "2026-10-24T13:00:00-03:00",
       "kickoffMs": 1792857600000,
       "time": "13:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -257,7 +257,7 @@
       "kickoff": "2026-10-24T13:30:00-03:00",
       "kickoffMs": 1792859400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -270,7 +270,7 @@
       "kickoff": "2026-10-24T13:30:00-03:00",
       "kickoffMs": 1792859400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -283,7 +283,7 @@
       "kickoff": "2026-10-24T13:30:00-03:00",
       "kickoffMs": 1792859400000,
       "time": "13:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -302,7 +302,7 @@
       "kickoff": "2026-10-24T14:30:00-03:00",
       "kickoffMs": 1792863000000,
       "time": "14:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841641",
@@ -313,7 +313,7 @@
       "kickoff": "2026-10-24T14:45:00-03:00",
       "kickoffMs": 1792863900000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -326,7 +326,7 @@
       "kickoff": "2026-10-24T15:45:00-03:00",
       "kickoffMs": 1792867500000,
       "time": "15:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -339,7 +339,7 @@
       "kickoff": "2026-10-24T16:00:00-03:00",
       "kickoffMs": 1792868400000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -352,7 +352,7 @@
       "kickoff": "2026-10-24T16:00:00-03:00",
       "kickoffMs": 1792868400000,
       "time": "16:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761890",
