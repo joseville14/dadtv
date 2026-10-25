@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-25T10:06:12-03:00",
+  "builtAt": "2026-10-25T12:05:45-03:00",
   "leagues": {
     "chi.1": "ok 4",
     "arg.1": "ok 5",
@@ -28,7 +28,7 @@
       "kickoff": "2026-10-25T08:30:00-03:00",
       "kickoffMs": 1792927800000,
       "time": "08:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -44,7 +44,7 @@
       "kickoff": "2026-10-25T10:00:00-03:00",
       "kickoffMs": 1792933200000,
       "time": "10:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
@@ -57,7 +57,7 @@
       "kickoff": "2026-10-25T10:00:00-03:00",
       "kickoffMs": 1792933200000,
       "time": "10:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401879254",
@@ -68,7 +68,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SkySportsPremierLeague.uk",
         "ESPN.cl",
@@ -86,7 +86,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -99,7 +99,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -112,7 +112,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -125,7 +125,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.br",
       "bind": "epg"
     },
@@ -138,7 +138,7 @@
       "kickoff": "2026-10-25T11:00:00-03:00",
       "kickoffMs": 1792936800000,
       "time": "11:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -154,7 +154,7 @@
       "kickoff": "2026-10-25T11:30:00-03:00",
       "kickoffMs": 1792938600000,
       "time": "11:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
