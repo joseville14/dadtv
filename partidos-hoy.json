@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-24T20:06:31-03:00",
+  "builtAt": "2026-10-24T22:05:39-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 4",
@@ -457,7 +457,7 @@
       "kickoff": "2026-10-24T18:30:00-03:00",
       "kickoffMs": 1792877400000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841283",
@@ -468,7 +468,7 @@
       "kickoff": "2026-10-24T18:30:00-03:00",
       "kickoffMs": 1792877400000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -490,7 +490,7 @@
       "kickoff": "2026-10-24T18:30:00-03:00",
       "kickoffMs": 1792877400000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -512,7 +512,7 @@
       "kickoff": "2026-10-24T19:00:00-03:00",
       "kickoffMs": 1792879200000,
       "time": "19:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841632",
@@ -523,7 +523,7 @@
       "kickoff": "2026-10-24T19:15:00-03:00",
       "kickoffMs": 1792880100000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -536,7 +536,7 @@
       "kickoff": "2026-10-24T19:30:00-03:00",
       "kickoffMs": 1792881000000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -558,7 +558,7 @@
       "kickoff": "2026-10-24T20:00:00-03:00",
       "kickoffMs": 1792882800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -574,7 +574,7 @@
       "kickoff": "2026-10-24T20:00:00-03:00",
       "kickoffMs": 1792882800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -590,7 +590,7 @@
       "kickoff": "2026-10-24T20:30:00-03:00",
       "kickoffMs": 1792884600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761895",
@@ -601,7 +601,7 @@
       "kickoff": "2026-10-24T20:30:00-03:00",
       "kickoffMs": 1792884600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761892",
@@ -612,7 +612,7 @@
       "kickoff": "2026-10-24T20:30:00-03:00",
       "kickoffMs": 1792884600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761894",
@@ -623,7 +623,7 @@
       "kickoff": "2026-10-24T20:30:00-03:00",
       "kickoffMs": 1792884600000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841282",
@@ -634,7 +634,7 @@
       "kickoff": "2026-10-24T21:00:00-03:00",
       "kickoffMs": 1792886400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -647,7 +647,7 @@
       "kickoff": "2026-10-24T21:30:00-03:00",
       "kickoffMs": 1792888200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -664,7 +664,7 @@
       "kickoff": "2026-10-24T21:30:00-03:00",
       "kickoffMs": 1792888200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761896",
@@ -675,7 +675,7 @@
       "kickoff": "2026-10-24T21:30:00-03:00",
       "kickoffMs": 1792888200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761899",
@@ -686,7 +686,7 @@
       "kickoff": "2026-10-24T21:30:00-03:00",
       "kickoffMs": 1792888200000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876925",
