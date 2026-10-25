@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-25T02:06:23-03:00",
+  "builtAt": "2026-10-25T04:06:05-03:00",
   "leagues": {
     "chi.1": "ok 4",
     "arg.1": "ok 5",
@@ -113,7 +113,7 @@
       "kickoffMs": 1792936800000,
       "time": "11:00",
       "status": "pre",
-      "tvgId": "ESPN.ar",
+      "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
     {
@@ -159,22 +159,6 @@
       "bind": "epg"
     },
     {
-      "id": "401850675",
-      "slug": "chi.1",
-      "league": "Campeonato Nacional",
-      "home": "Ñublense",
-      "away": "Coquimbo Unido",
-      "kickoff": "2026-10-25T12:00:00-03:00",
-      "kickoffMs": 1792940400000,
-      "time": "12:00",
-      "status": "pre",
-      "maybe": [
-        "TNTSportsPremium.cl",
-        "TNTSports.cl"
-      ],
-      "bind": "guess"
-    },
-    {
       "id": "401882833",
       "slug": "esp.1",
       "league": "La Liga",
@@ -186,6 +170,22 @@
       "status": "pre",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
+    },
+    {
+      "id": "401850675",
+      "slug": "chi.1",
+      "league": "Campeonato Nacional",
+      "home": "Ñublense",
+      "away": "Coquimbo Unido",
+      "kickoff": "2026-10-25T12:30:00-03:00",
+      "kickoffMs": 1792942200000,
+      "time": "12:30",
+      "status": "pre",
+      "maybe": [
+        "TNTSportsPremium.cl",
+        "TNTSports.cl"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401930337",
