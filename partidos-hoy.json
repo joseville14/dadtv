@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-25T16:05:50-03:00",
+  "builtAt": "2026-10-25T18:06:17-03:00",
   "leagues": {
     "chi.1": "ok 4",
     "arg.1": "ok 5",
@@ -246,7 +246,7 @@
       "kickoff": "2026-10-25T14:30:00-03:00",
       "kickoffMs": 1792949400000,
       "time": "14:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -259,7 +259,7 @@
       "kickoff": "2026-10-25T14:45:00-03:00",
       "kickoffMs": 1792950300000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -276,7 +276,7 @@
       "kickoff": "2026-10-25T15:00:00-03:00",
       "kickoffMs": 1792951200000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -292,7 +292,7 @@
       "kickoff": "2026-10-25T16:00:00-03:00",
       "kickoffMs": 1792954800000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401874779",
@@ -303,7 +303,7 @@
       "kickoff": "2026-10-25T16:45:00-03:00",
       "kickoffMs": 1792957500000,
       "time": "16:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -316,7 +316,7 @@
       "kickoff": "2026-10-25T17:00:00-03:00",
       "kickoffMs": 1792958400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports2.ar",
       "bind": "epg"
     },
@@ -329,7 +329,7 @@
       "kickoff": "2026-10-25T17:00:00-03:00",
       "kickoffMs": 1792958400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -342,7 +342,7 @@
       "kickoff": "2026-10-25T17:30:00-03:00",
       "kickoffMs": 1792960200000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
