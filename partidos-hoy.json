@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-27T18:06:16-03:00",
+  "builtAt": "2026-10-27T20:06:17-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -41,7 +41,7 @@
       "kickoff": "2026-10-27T16:45:00-03:00",
       "kickoffMs": 1793130300000,
       "time": "16:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-27T16:45:00-03:00",
       "kickoffMs": 1793130300000,
       "time": "16:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-10-27T19:00:00-03:00",
       "kickoffMs": 1793138400000,
       "time": "19:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     }
