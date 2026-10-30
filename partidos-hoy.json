@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-29T20:06:22-03:00",
+  "builtAt": "2026-10-29T22:06:25-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -54,7 +54,7 @@
       "kickoff": "2026-10-29T19:30:00-03:00",
       "kickoffMs": 1793313000000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -76,7 +76,7 @@
       "kickoff": "2026-10-29T20:00:00-03:00",
       "kickoffMs": 1793314800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "WinSportsPlus.co",
       "bind": "epg"
     },
@@ -89,7 +89,7 @@
       "kickoff": "2026-10-29T21:30:00-03:00",
       "kickoffMs": 1793320200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     }
