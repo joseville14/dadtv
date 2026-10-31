@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-31T18:07:21-03:00",
+  "builtAt": "2026-10-31T20:06:21-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 3",
@@ -367,7 +367,7 @@
       "kickoff": "2026-10-31T16:00:00-03:00",
       "kickoffMs": 1793473200000,
       "time": "16:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761926",
@@ -411,7 +411,7 @@
       "kickoff": "2026-10-31T16:30:00-03:00",
       "kickoffMs": 1793475000000,
       "time": "16:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401874795",
@@ -422,7 +422,7 @@
       "kickoff": "2026-10-31T16:45:00-03:00",
       "kickoffMs": 1793475900000,
       "time": "16:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.br",
       "bind": "epg"
     },
@@ -435,7 +435,7 @@
       "kickoff": "2026-10-31T17:00:00-03:00",
       "kickoffMs": 1793476800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -452,7 +452,7 @@
       "kickoff": "2026-10-31T17:00:00-03:00",
       "kickoffMs": 1793476800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -465,7 +465,7 @@
       "kickoff": "2026-10-31T17:00:00-03:00",
       "kickoffMs": 1793476800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -478,7 +478,7 @@
       "kickoff": "2026-10-31T18:00:00-03:00",
       "kickoffMs": 1793480400000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -491,7 +491,7 @@
       "kickoff": "2026-10-31T18:00:00-03:00",
       "kickoffMs": 1793480400000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761929",
@@ -502,7 +502,7 @@
       "kickoff": "2026-10-31T18:00:00-03:00",
       "kickoffMs": 1793480400000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841646",
@@ -513,7 +513,7 @@
       "kickoff": "2026-10-31T19:15:00-03:00",
       "kickoffMs": 1793484900000,
       "time": "19:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -526,7 +526,7 @@
       "kickoff": "2026-10-31T20:00:00-03:00",
       "kickoffMs": 1793487600000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
