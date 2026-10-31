@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-31T14:06:21-03:00",
+  "builtAt": "2026-10-31T16:06:22-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 3",
@@ -247,7 +247,7 @@
       "kickoff": "2026-10-31T12:15:00-03:00",
       "kickoffMs": 1793459700000,
       "time": "12:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -260,7 +260,7 @@
       "kickoff": "2026-10-31T13:00:00-03:00",
       "kickoffMs": 1793462400000,
       "time": "13:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401874990",
@@ -271,7 +271,7 @@
       "kickoff": "2026-10-31T14:00:00-03:00",
       "kickoffMs": 1793466000000,
       "time": "14:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -284,7 +284,7 @@
       "kickoff": "2026-10-31T14:00:00-03:00",
       "kickoffMs": 1793466000000,
       "time": "14:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401878761",
@@ -295,7 +295,7 @@
       "kickoff": "2026-10-31T14:30:00-03:00",
       "kickoffMs": 1793467800000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -308,7 +308,7 @@
       "kickoff": "2026-10-31T14:30:00-03:00",
       "kickoffMs": 1793467800000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -321,7 +321,7 @@
       "kickoff": "2026-10-31T14:30:00-03:00",
       "kickoffMs": 1793467800000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -334,7 +334,7 @@
       "kickoff": "2026-10-31T15:00:00-03:00",
       "kickoffMs": 1793469600000,
       "time": "15:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761919",
@@ -345,7 +345,7 @@
       "kickoff": "2026-10-31T15:00:00-03:00",
       "kickoffMs": 1793469600000,
       "time": "15:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761930",
@@ -356,7 +356,7 @@
       "kickoff": "2026-10-31T15:00:00-03:00",
       "kickoffMs": 1793469600000,
       "time": "15:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761928",
@@ -389,7 +389,7 @@
       "kickoff": "2026-10-31T16:00:00-03:00",
       "kickoffMs": 1793473200000,
       "time": "16:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
