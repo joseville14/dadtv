@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "tz": "America/Santiago",
-  "builtAt": "2026-10-31T20:06:21-03:00",
+  "builtAt": "2026-10-31T22:06:22-03:00",
   "leagues": {
     "chi.1": "ok 1",
     "arg.1": "ok 3",
@@ -491,7 +491,7 @@
       "kickoff": "2026-10-31T18:00:00-03:00",
       "kickoffMs": 1793480400000,
       "time": "18:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761929",
@@ -502,7 +502,7 @@
       "kickoff": "2026-10-31T18:00:00-03:00",
       "kickoffMs": 1793480400000,
       "time": "18:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841646",
@@ -513,7 +513,7 @@
       "kickoff": "2026-10-31T19:15:00-03:00",
       "kickoffMs": 1793484900000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -526,7 +526,7 @@
       "kickoff": "2026-10-31T20:00:00-03:00",
       "kickoffMs": 1793487600000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -542,7 +542,7 @@
       "kickoff": "2026-10-31T21:30:00-03:00",
       "kickoffMs": 1793493000000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
