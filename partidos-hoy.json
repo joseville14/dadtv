@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-01T12:06:21-03:00",
+  "builtAt": "2026-11-01T14:06:42-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -65,7 +65,7 @@
       "kickoff": "2026-11-01T11:00:00-03:00",
       "kickoffMs": 1793541600000,
       "time": "11:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -81,7 +81,7 @@
       "kickoff": "2026-11-01T11:00:00-03:00",
       "kickoffMs": 1793541600000,
       "time": "11:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -97,7 +97,7 @@
       "kickoff": "2026-11-01T11:30:00-03:00",
       "kickoffMs": 1793543400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -116,7 +116,7 @@
       "kickoff": "2026-11-01T12:00:00-03:00",
       "kickoffMs": 1793545200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -129,7 +129,7 @@
       "kickoff": "2026-11-01T12:15:00-03:00",
       "kickoffMs": 1793546100000,
       "time": "12:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "GolPlay.es",
       "bind": "epg"
     },
@@ -142,7 +142,7 @@
       "kickoff": "2026-11-01T12:30:00-03:00",
       "kickoffMs": 1793547000000,
       "time": "12:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -158,7 +158,7 @@
       "kickoff": "2026-11-01T13:00:00-03:00",
       "kickoffMs": 1793548800000,
       "time": "13:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401879246",
@@ -169,7 +169,7 @@
       "kickoff": "2026-11-01T13:30:00-03:00",
       "kickoffMs": 1793550600000,
       "time": "13:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -182,7 +182,7 @@
       "kickoff": "2026-11-01T13:30:00-03:00",
       "kickoffMs": 1793550600000,
       "time": "13:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -201,7 +201,7 @@
       "kickoff": "2026-11-01T14:00:00-03:00",
       "kickoffMs": 1793552400000,
       "time": "14:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -302,7 +302,7 @@
       "kickoffMs": 1793568600000,
       "time": "18:30",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
@@ -381,7 +381,7 @@
       "kickoffMs": 1793576700000,
       "time": "20:45",
       "status": "pre",
-      "tvgId": "TNTSports.ar",
+      "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
     {
