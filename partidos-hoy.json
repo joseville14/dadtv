@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-01T20:06:20-03:00",
+  "builtAt": "2026-11-01T22:06:25-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 4",
@@ -301,7 +301,7 @@
       "kickoff": "2026-11-01T18:30:00-03:00",
       "kickoffMs": 1793568600000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -314,7 +314,7 @@
       "kickoff": "2026-11-01T18:30:00-03:00",
       "kickoffMs": 1793568600000,
       "time": "18:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -331,7 +331,7 @@
       "kickoff": "2026-11-01T18:30:00-03:00",
       "kickoffMs": 1793568600000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "761920",
@@ -342,7 +342,7 @@
       "kickoff": "2026-11-01T18:30:00-03:00",
       "kickoffMs": 1793568600000,
       "time": "18:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401876912",
@@ -353,7 +353,7 @@
       "kickoff": "2026-11-01T20:00:00-03:00",
       "kickoffMs": 1793574000000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
@@ -369,7 +369,7 @@
       "kickoff": "2026-11-01T20:00:00-03:00",
       "kickoffMs": 1793574000000,
       "time": "20:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841651",
@@ -380,7 +380,7 @@
       "kickoff": "2026-11-01T20:45:00-03:00",
       "kickoffMs": 1793576700000,
       "time": "20:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -393,7 +393,7 @@
       "kickoff": "2026-11-01T21:00:00-03:00",
       "kickoffMs": 1793577600000,
       "time": "21:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401876911",
