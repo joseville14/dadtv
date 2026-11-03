@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-03T18:06:28-03:00",
+  "builtAt": "2026-11-03T20:07:47-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -54,7 +54,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNExtra.ar",
       "bind": "epg"
     },
@@ -93,7 +93,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915385",
@@ -104,7 +104,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915308",
@@ -115,7 +115,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -128,7 +128,7 @@
       "kickoff": "2026-11-03T17:00:00-03:00",
       "kickoffMs": 1793736000000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -141,7 +141,7 @@
       "kickoff": "2026-11-03T19:30:00-03:00",
       "kickoffMs": 1793745000000,
       "time": "19:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
