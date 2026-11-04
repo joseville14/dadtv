@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-03T20:07:47-03:00",
+  "builtAt": "2026-11-03T22:06:23-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -141,7 +141,7 @@
       "kickoff": "2026-11-03T19:30:00-03:00",
       "kickoffMs": 1793745000000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -163,7 +163,7 @@
       "kickoff": "2026-11-03T21:30:00-03:00",
       "kickoffMs": 1793752200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
