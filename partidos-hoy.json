@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-05T18:07:19-03:00",
+  "builtAt": "2026-11-05T20:07:20-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -137,7 +137,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915533",
@@ -148,7 +148,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915525",
@@ -159,7 +159,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -172,7 +172,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915522",
@@ -183,7 +183,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -196,7 +196,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915524",
@@ -207,7 +207,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915523",
@@ -218,7 +218,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -231,7 +231,7 @@
       "kickoff": "2026-11-05T17:00:00-03:00",
       "kickoffMs": 1793908800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841667",
@@ -242,7 +242,7 @@
       "kickoff": "2026-11-05T19:15:00-03:00",
       "kickoffMs": 1793916900000,
       "time": "19:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -255,7 +255,7 @@
       "kickoff": "2026-11-05T19:30:00-03:00",
       "kickoffMs": 1793917800000,
       "time": "19:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "WinSportsPlus.co",
       "bind": "epg"
     },
