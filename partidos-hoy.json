@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-05T14:06:20-03:00",
+  "builtAt": "2026-11-05T16:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -28,7 +28,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915526",
@@ -52,7 +52,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -65,7 +65,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915527",
@@ -76,7 +76,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915535",
@@ -87,7 +87,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915537",
@@ -98,7 +98,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -111,7 +111,7 @@
       "kickoff": "2026-11-05T14:45:00-03:00",
       "kickoffMs": 1793900700000,
       "time": "14:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -124,7 +124,7 @@
       "kickoff": "2026-11-05T15:00:00-03:00",
       "kickoffMs": 1793901600000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
