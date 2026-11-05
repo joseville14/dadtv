@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-05T10:07:19-03:00",
+  "builtAt": "2026-11-05T12:07:46-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -125,12 +125,8 @@
       "kickoffMs": 1793901600000,
       "time": "15:00",
       "status": "pre",
-      "maybe": [
-        "TyCSports.ar",
-        "TNTSports.ar",
-        "ESPNPremium.ar"
-      ],
-      "bind": "guess"
+      "tvgId": "TNTSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401915529",
@@ -247,12 +243,8 @@
       "kickoffMs": 1793916900000,
       "time": "19:15",
       "status": "pre",
-      "maybe": [
-        "TyCSports.ar",
-        "TNTSports.ar",
-        "ESPNPremium.ar"
-      ],
-      "bind": "guess"
+      "tvgId": "TNTSports.ar",
+      "bind": "epg"
     },
     {
       "id": "401841300",
@@ -264,17 +256,8 @@
       "kickoffMs": 1793917800000,
       "time": "19:30",
       "status": "pre",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "tvgId": "WinSportsPlus.co",
+      "bind": "epg"
     },
     {
       "id": "401841303",
