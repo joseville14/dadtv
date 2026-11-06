@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-06T16:06:37-03:00",
+  "builtAt": "2026-11-06T18:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 6",
@@ -28,7 +28,7 @@
       "kickoff": "2026-11-06T15:00:00-03:00",
       "kickoffMs": 1793988000000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-11-06T16:30:00-03:00",
       "kickoffMs": 1793993400000,
       "time": "16:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar",
       "bind": "epg"
     },
@@ -54,7 +54,7 @@
       "kickoff": "2026-11-06T16:45:00-03:00",
       "kickoffMs": 1793994300000,
       "time": "16:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -67,7 +67,7 @@
       "kickoff": "2026-11-06T17:00:00-03:00",
       "kickoffMs": 1793995200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -80,7 +80,7 @@
       "kickoff": "2026-11-06T17:00:00-03:00",
       "kickoffMs": 1793995200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
