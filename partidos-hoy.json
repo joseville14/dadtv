@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-05T20:07:20-03:00",
+  "builtAt": "2026-11-05T22:07:25-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 2",
@@ -242,7 +242,7 @@
       "kickoff": "2026-11-05T19:15:00-03:00",
       "kickoffMs": 1793916900000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -255,7 +255,7 @@
       "kickoff": "2026-11-05T19:30:00-03:00",
       "kickoffMs": 1793917800000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "WinSportsPlus.co",
       "bind": "epg"
     },
@@ -268,7 +268,7 @@
       "kickoff": "2026-11-05T21:30:00-03:00",
       "kickoffMs": 1793925000000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
