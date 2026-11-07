@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-07T18:07:41-03:00",
+  "builtAt": "2026-11-07T20:06:20-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 6",
@@ -294,7 +294,7 @@
       "kickoff": "2026-11-07T16:45:00-03:00",
       "kickoffMs": 1794080700000,
       "time": "16:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -307,7 +307,7 @@
       "kickoff": "2026-11-07T17:00:00-03:00",
       "kickoffMs": 1794081600000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -320,7 +320,7 @@
       "kickoff": "2026-11-07T17:30:00-03:00",
       "kickoffMs": 1794083400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -333,7 +333,7 @@
       "kickoff": "2026-11-07T17:30:00-03:00",
       "kickoffMs": 1794083400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -346,7 +346,7 @@
       "kickoff": "2026-11-07T17:30:00-03:00",
       "kickoffMs": 1794083400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -359,7 +359,7 @@
       "kickoff": "2026-11-07T17:30:00-03:00",
       "kickoffMs": 1794083400000,
       "time": "17:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -372,7 +372,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "post"
     },
     {
       "id": "761935",
@@ -383,7 +383,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761936",
@@ -394,7 +394,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre",
+      "status": "post",
       "tvgId": "CBLTDT.ca",
       "bind": "epg"
     },
@@ -407,7 +407,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761938",
@@ -418,7 +418,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761940",
@@ -429,7 +429,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "post"
     },
     {
       "id": "761941",
@@ -440,7 +440,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "761939",
@@ -451,7 +451,7 @@
       "kickoff": "2026-11-07T18:00:00-03:00",
       "kickoffMs": 1794085200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "post"
     },
     {
       "id": "401876907",
@@ -462,7 +462,7 @@
       "kickoff": "2026-11-07T20:00:00-03:00",
       "kickoffMs": 1794092400000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
