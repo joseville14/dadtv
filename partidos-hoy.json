@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-06T20:06:17-03:00",
+  "builtAt": "2026-11-06T22:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 6",
@@ -93,7 +93,7 @@
       "kickoff": "2026-11-06T19:15:00-03:00",
       "kickoffMs": 1794003300000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -106,7 +106,7 @@
       "kickoff": "2026-11-06T19:15:00-03:00",
       "kickoffMs": 1794003300000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "TyCSports.ar",
       "bind": "epg"
     },
@@ -119,7 +119,7 @@
       "kickoff": "2026-11-06T19:15:00-03:00",
       "kickoffMs": 1794003300000,
       "time": "19:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -132,7 +132,7 @@
       "kickoff": "2026-11-06T20:00:00-03:00",
       "kickoffMs": 1794006000000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -145,7 +145,7 @@
       "kickoff": "2026-11-06T22:00:00-03:00",
       "kickoffMs": 1794013200000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -162,7 +162,7 @@
       "kickoff": "2026-11-06T22:00:00-03:00",
       "kickoffMs": 1794013200000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -175,7 +175,7 @@
       "kickoff": "2026-11-06T22:00:00-03:00",
       "kickoffMs": 1794013200000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -188,7 +188,7 @@
       "kickoff": "2026-11-06T22:00:00-03:00",
       "kickoffMs": 1794013200000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxDeportes.us",
       "bind": "epg"
     }
