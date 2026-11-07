@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-07T14:06:21-03:00",
+  "builtAt": "2026-11-07T16:06:21-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 6",
@@ -176,7 +176,7 @@
       "kickoff": "2026-11-07T12:15:00-03:00",
       "kickoffMs": 1794064500000,
       "time": "12:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -189,7 +189,7 @@
       "kickoff": "2026-11-07T14:00:00-03:00",
       "kickoffMs": 1794070800000,
       "time": "14:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -202,7 +202,7 @@
       "kickoff": "2026-11-07T14:30:00-03:00",
       "kickoffMs": 1794072600000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -215,7 +215,7 @@
       "kickoff": "2026-11-07T14:30:00-03:00",
       "kickoffMs": 1794072600000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar",
       "bind": "epg"
     },
@@ -228,7 +228,7 @@
       "kickoff": "2026-11-07T14:30:00-03:00",
       "kickoffMs": 1794072600000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -247,7 +247,7 @@
       "kickoff": "2026-11-07T15:00:00-03:00",
       "kickoffMs": 1794074400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -260,7 +260,7 @@
       "kickoff": "2026-11-07T15:00:00-03:00",
       "kickoffMs": 1794074400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -273,7 +273,7 @@
       "kickoff": "2026-11-07T15:00:00-03:00",
       "kickoffMs": 1794074400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
