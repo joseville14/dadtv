@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-08T16:06:21-03:00",
+  "builtAt": "2026-11-08T18:06:19-03:00",
   "leagues": {
     "chi.1": "ok 6",
     "arg.1": "ok 1",
@@ -249,7 +249,7 @@
       "kickoff": "2026-11-08T14:30:00-03:00",
       "kickoffMs": 1794159000000,
       "time": "14:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -262,7 +262,7 @@
       "kickoff": "2026-11-08T14:30:00-03:00",
       "kickoffMs": 1794159000000,
       "time": "14:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "DSports.us",
       "bind": "epg"
     },
@@ -275,7 +275,7 @@
       "kickoff": "2026-11-08T15:00:00-03:00",
       "kickoffMs": 1794160800000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -288,7 +288,7 @@
       "kickoff": "2026-11-08T15:00:00-03:00",
       "kickoffMs": 1794160800000,
       "time": "15:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -304,7 +304,7 @@
       "kickoff": "2026-11-08T15:30:00-03:00",
       "kickoffMs": 1794162600000,
       "time": "15:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -317,7 +317,7 @@
       "kickoff": "2026-11-08T16:45:00-03:00",
       "kickoffMs": 1794167100000,
       "time": "16:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -330,7 +330,7 @@
       "kickoff": "2026-11-08T17:00:00-03:00",
       "kickoffMs": 1794168000000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -343,7 +343,7 @@
       "kickoff": "2026-11-08T17:30:00-03:00",
       "kickoffMs": 1794169800000,
       "time": "17:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
