@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-08T08:06:48-03:00",
+  "builtAt": "2026-11-08T10:06:18-03:00",
   "leagues": {
     "chi.1": "ok 6",
     "arg.1": "ok 1",
@@ -28,7 +28,7 @@
       "kickoff": "2026-11-08T08:30:00-03:00",
       "kickoffMs": 1794137400000,
       "time": "08:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN.br",
       "bind": "epg"
     },
@@ -41,7 +41,7 @@
       "kickoff": "2026-11-08T10:00:00-03:00",
       "kickoffMs": 1794142800000,
       "time": "10:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
