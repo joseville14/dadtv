@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-08T20:06:20-03:00",
+  "builtAt": "2026-11-08T22:08:02-03:00",
   "leagues": {
     "chi.1": "ok 6",
     "arg.1": "ok 1",
@@ -29,8 +29,11 @@
       "kickoffMs": 1794137400000,
       "time": "08:30",
       "status": "post",
-      "tvgId": "ESPN.br",
-      "bind": "epg"
+      "maybe": [
+        "SkySportCalcio.it",
+        "DAZN1.it"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401882814",
@@ -42,8 +45,11 @@
       "kickoffMs": 1794142800000,
       "time": "10:00",
       "status": "post",
-      "tvgId": "ESPN3.ar",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401879244",
@@ -163,8 +169,11 @@
       "kickoffMs": 1794150900000,
       "time": "12:15",
       "status": "post",
-      "tvgId": "ESPN3.ar",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401850690",
@@ -208,8 +217,13 @@
       "kickoffMs": 1794155400000,
       "time": "13:30",
       "status": "post",
-      "tvgId": "ESPN2.cl",
-      "bind": "epg"
+      "maybe": [
+        "SkySportsPremierLeague.uk",
+        "ESPN.cl",
+        "ESPN2.cl",
+        "ESPN.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401884741",
@@ -221,8 +235,14 @@
       "kickoffMs": 1794155400000,
       "time": "13:30",
       "status": "post",
-      "tvgId": "SporTV.br",
-      "bind": "epg"
+      "maybe": [
+        "ESPNPremium.cl",
+        "ESPN.cl",
+        "ESPN2.cl",
+        "ESPN.ar",
+        "ESPN2.ar"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401874808",
@@ -356,7 +376,7 @@
       "kickoff": "2026-11-08T19:30:00-03:00",
       "kickoffMs": 1794177000000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TyCSports.ar",
         "TNTSports.ar",
@@ -373,7 +393,7 @@
       "kickoff": "2026-11-08T20:00:00-03:00",
       "kickoffMs": 1794178800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "TNTSportsPremium.cl",
         "TNTSports.cl"
@@ -389,7 +409,7 @@
       "kickoff": "2026-11-08T21:00:00-03:00",
       "kickoffMs": 1794182400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
