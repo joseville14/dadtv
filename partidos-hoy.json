@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-14T22:06:17-03:00",
+  "builtAt": "2026-11-15T00:07:15-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -13,95 +13,33 @@
     "ger.1": "ok 0",
     "uefa.champions": "ok 0",
     "uefa.europa": "ok 0",
-    "mex.1": "ok 1",
+    "mex.1": "ok 0",
     "usa.1": "ok 0",
-    "uru.1": "ok 3",
-    "bra.1": "ok 2"
+    "uru.1": "ok 2",
+    "bra.1": "ok 0"
   },
   "matches": [
     {
-      "id": "401933236",
+      "id": "401933255",
       "slug": "uru.1",
       "league": "Liga AUF Uruguaya",
-      "home": "Central Español Fútbol Club",
-      "away": "Boston River",
-      "kickoff": "2026-11-14T10:00:00-03:00",
-      "kickoffMs": 1794661200000,
-      "time": "10:00",
-      "status": "post"
-    },
-    {
-      "id": "401933257",
-      "slug": "uru.1",
-      "league": "Liga AUF Uruguaya",
-      "home": "Deportivo Maldonado",
-      "away": "Cerro",
-      "kickoff": "2026-11-14T16:30:00-03:00",
-      "kickoffMs": 1794684600000,
+      "home": "Danubio",
+      "away": "Liverpool",
+      "kickoff": "2026-11-15T16:30:00-03:00",
+      "kickoffMs": 1794771000000,
       "time": "16:30",
-      "status": "post"
+      "status": "pre"
     },
     {
-      "id": "401841311",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Mirassol",
-      "away": "Atlético-MG",
-      "kickoff": "2026-11-14T18:30:00-03:00",
-      "kickoffMs": 1794691800000,
-      "time": "18:30",
-      "status": "post",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401876988",
-      "slug": "mex.1",
-      "league": "Liga MX",
-      "home": "Querétaro",
-      "away": "Monterrey",
-      "kickoff": "2026-11-14T20:00:00-03:00",
-      "kickoffMs": 1794697200000,
-      "time": "20:00",
-      "status": "post",
-      "maybe": [
-        "TUDN.mx",
-        "ClaroSports.mx"
-      ],
-      "bind": "guess"
-    },
-    {
-      "id": "401933256",
+      "id": "401933376",
       "slug": "uru.1",
       "league": "Liga AUF Uruguaya",
-      "home": "Nacional",
-      "away": "Albion FC",
-      "kickoff": "2026-11-14T20:00:00-03:00",
-      "kickoffMs": 1794697200000,
+      "home": "Defensor Sporting",
+      "away": "Peñarol",
+      "kickoff": "2026-11-15T20:00:00-03:00",
+      "kickoffMs": 1794783600000,
       "time": "20:00",
-      "status": "post"
-    },
-    {
-      "id": "401841175",
-      "slug": "bra.1",
-      "league": "Brasileirão",
-      "home": "Chapecoense",
-      "away": "Vasco da Gama",
-      "kickoff": "2026-11-14T20:30:00-03:00",
-      "kickoffMs": 1794699000000,
-      "time": "20:30",
-      "status": "in",
-      "tvgId": "SporTV.br",
-      "bind": "epg"
+      "status": "pre"
     }
   ]
 }
