@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-18T16:06:15-03:00",
+  "builtAt": "2026-11-18T18:07:38-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -73,17 +73,8 @@
       "kickoffMs": 1795044600000,
       "time": "20:30",
       "status": "pre",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN3.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "tvgId": "WinSportsPlus.co",
+      "bind": "epg"
     },
     {
       "id": "401841313",
