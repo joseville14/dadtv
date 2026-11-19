@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-19T00:06:14-03:00",
+  "builtAt": "2026-11-19T02:06:14-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -15,10 +15,43 @@
     "uefa.europa": "ok 0",
     "mex.1": "ok 0",
     "usa.1": "ok 1",
-    "uru.1": "ok 0",
+    "uru.1": "ok 3",
     "bra.1": "ok 3"
   },
   "matches": [
+    {
+      "id": "401934704",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Boston River",
+      "away": "Deportivo Maldonado",
+      "kickoff": "2026-11-19T16:30:00-03:00",
+      "kickoffMs": 1795116600000,
+      "time": "16:30",
+      "status": "pre"
+    },
+    {
+      "id": "401934686",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Peñarol",
+      "away": "Cerro Largo",
+      "kickoff": "2026-11-19T16:30:00-03:00",
+      "kickoffMs": 1795116600000,
+      "time": "16:30",
+      "status": "pre"
+    },
+    {
+      "id": "401934703",
+      "slug": "uru.1",
+      "league": "Liga AUF Uruguaya",
+      "home": "Progreso",
+      "away": "Montevideo City Torque",
+      "kickoff": "2026-11-19T16:30:00-03:00",
+      "kickoffMs": 1795116600000,
+      "time": "16:30",
+      "status": "pre"
+    },
     {
       "id": "401841308",
       "slug": "bra.1",
