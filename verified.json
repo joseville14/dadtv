@@ -9,18 +9,20 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
   "tvgId": "TVN.cl",
   "urls": [
-   "http://38.226.49.253:8000/play/a06c/index.m3u8",
-   "http://177.53.152.117:8000/play/a08l/index.m3u8",
-   "http://15.204.246.24:8080/TVNHD/index.m3u8",
-   "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
+   "http://8.242.201.225:30035/play/2008/index.m3u8",
+   "https://iptv.bitred.cl/tvn/index.m3u8",
+   "http://190.61.42.218:9000/play/a090/index.m3u8",
+   "http://200.59.191.177:8000/play/a0oc/index.m3u8",
+   "http://190.60.59.60:8000/play/a0t6/index.m3u8",
+   "http://38.226.49.253:8000/play/a06c/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 4,
+  "acodec": "aac",
+  "nstreams": 6,
   "geo": "global",
-  "cdn": "38.226.49.253",
+  "cdn": "8.242.201.225",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -69,13 +71,15 @@
   "tvgId": "ITVPatagonia.cl",
   "urls": [
    "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
-   "https://redirector.dps.live/hls/itv/playlist.m3u8"
+   "https://redirector.dps.live/hls/itv/playlist.m3u8",
+   "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8",
+   "https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 4,
   "geo": "unproven",
   "cdn": "dps.live",
   "srcs": [
@@ -96,14 +100,13 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg",
   "tvgId": "Mega.cl",
   "urls": [
-   "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-   "http://15.204.246.24:8080/MEGAHD/index.m3u8"
+   "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 1,
   "geo": "global",
   "cdn": "dps.live",
   "srcs": [
@@ -178,14 +181,13 @@
   "logo": "https://stream.making.cl/logo-solotv.png",
   "tvgId": "SoloTV.cl",
   "urls": [
-   "https://sproxy.solotv.cl/hls/live/fhd.m3u8",
-   "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8"
+   "https://sproxy.solotv.cl/hls/live/fhd.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 1,
   "geo": "unproven",
   "cdn": "solotv.cl",
   "srcs": [
@@ -253,31 +255,6 @@
   ]
  },
  {
-  "name": "13 Deportes",
-  "cats": [
-   "chile",
-   "futbol"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "",
-  "tvgId": "13Deportes.cl",
-  "urls": [
-   "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "dpsgo.com",
-  "srcs": [
-   "verified-manual",
-   "musthave"
-  ]
- },
- {
   "name": "13 Festival",
   "cats": [
    "chile"
@@ -301,31 +278,6 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index"
-  ]
- },
- {
-  "name": "13 FutGO",
-  "cats": [
-   "futbol",
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "",
-  "tvgId": "13FutGO.cl",
-  "urls": [
-   "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "dpsgo.com",
-  "srcs": [
-   "verified-manual",
-   "musthave"
   ]
  },
  {
@@ -476,11 +428,11 @@
   "urls": [
    "http://192.168.100.53:8178/24horas.m3u8"
   ],
-  "w": 640,
-  "h": 360,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "global",
   "cdn": "mdstrm.com",
   "srcs": [
@@ -543,32 +495,6 @@
   ]
  },
  {
-  "name": "ArabTV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/mc1DBIc.png",
-  "tvgId": "ArabTV.cl",
-  "urls": [
-   "https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8"
-  ],
-  "w": 856,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "logicahost.com.br",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Atacama Noticias",
   "cats": [
    "chile",
@@ -595,59 +521,6 @@
    "iptvorg-index",
    "iptvorg-news",
    "jsonteles-cl"
-  ]
- },
- {
-  "name": "Atacama TV (Copiapó)",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://graph.facebook.com/tucanalregional/picture?width=800&height=800",
-  "tvgId": "AtacamaTV.cl",
-  "urls": [
-   "https://v2.tustreaming.cl/atacamatv/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tustreaming.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "Autonoma TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/kD6badL.png",
-  "tvgId": "AutonomaTV.cl",
-  "urls": [
-   "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "trapemn.tv",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
   ]
  },
  {
@@ -687,13 +560,14 @@
   "logo": "https://i.imgur.com/lhglEUP.png",
   "tvgId": "BioBioTV.cl",
   "urls": [
-   "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+   "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+   "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "unproven",
   "cdn": "dps.live",
   "srcs": [
@@ -756,33 +630,6 @@
   ]
  },
  {
-  "name": "Canal 1 Nuble",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png",
-  "tvgId": "Canal1Nuble.cl",
-  "urls": [
-   "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "cdnz.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
   "name": "Canal 13",
   "cats": [
    "chile"
@@ -792,18 +639,17 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png",
   "tvgId": "Canal13.cl",
   "urls": [
-   "http://177.53.152.117:8000/play/a042/index.m3u8",
+   "http://8.242.201.225:30035/play/2011/index.m3u8",
    "http://181.115.239.66:8000/play/a06n/index.m3u8",
-   "http://179.51.136.19:8000/play/a1l2/index.m3u8",
-   "http://187.102.208.209:8000/play/a04m/index.m3u8"
+   "http://179.51.136.19:8000/play/a1l2/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 4,
+  "acodec": "aac",
+  "nstreams": 3,
   "geo": "global",
-  "cdn": "177.53.152.117",
+  "cdn": "8.242.201.225",
   "srcs": [
    "dearbulut-cl"
   ]
@@ -889,32 +735,6 @@
   ]
  },
  {
-  "name": "Canal Chilote",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/mdYIKyt.png",
-  "tvgId": "CanalChilote.cl",
-  "urls": [
-   "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "chileservidores.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Canal del Sur",
   "cats": [
    "chile"
@@ -933,32 +753,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "streaminghd.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal Latino 54",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/mKUQoX7.png",
-  "tvgId": "CanalLatino54.cl",
-  "urls": [
-   "https://videostream.chileservidores.com:8081/latina/index.m3u8"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "chileservidores.com",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -1020,33 +814,6 @@
   ]
  },
  {
-  "name": "Chile Channel TV [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/dd/0d/1fdd0d87-c7de-609a-8682-40859129708f/AppIcon-BuildServer-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200ia-75.webp",
-  "tvgId": "ChileChannel.cl",
-  "urls": [
-   "https://v2.tustreaming.cl/chilechannel/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tustreaming.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
   "name": "Chilevision",
   "cats": [
    "chile"
@@ -1056,18 +823,20 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
   "tvgId": "ChileVision.cl",
   "urls": [
-   "http://186.148.196.250:81/play/a0co/index.m3u8",
-   "http://187.102.208.209:8000/play/a04m/index.m3u8",
+   "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
+   "http://8.242.201.225:30035/play/2010/index.m3u8",
+   "http://190.60.59.60:8000/play/a0t7/index.m3u8",
    "http://205.235.6.29:8000/play/a10w/index.m3u8",
-   "http://177.53.152.117:8000/play/a08m/index.m3u8"
+   "http://186.148.196.250:81/play/a0co/index.m3u8",
+   "http://181.115.239.66:8000/play/a05z/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 4,
+  "acodec": "aac",
+  "nstreams": 6,
   "geo": "global",
-  "cdn": "186.148.196.250",
+  "cdn": "rudo.video",
   "srcs": [
    "dearbulut-cl",
    "musthave"
@@ -1085,8 +854,8 @@
   "urls": [
    "https://v2.tustreaming.cl/chinachannel/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -1153,33 +922,6 @@
   ]
  },
  {
-  "name": "CNN Chile",
-  "cats": [
-   "chile",
-   "news"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
-  "tvgId": "CNNChile.cl",
-  "urls": [
-   "http://38.226.49.253:8000/play/a04y/index.m3u8",
-   "http://190.108.83.69:8000/play/a0cs/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "38.226.49.253",
-  "srcs": [
-   "jsonteles-cl",
-   "verified-manual",
-   "musthave"
-  ]
- },
- {
   "name": "Concepcion TV",
   "cats": [
    "chile"
@@ -1203,34 +945,6 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "Contivision (2) [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://graph.facebook.com/TVContivision/picture?width=800&height=800",
-  "tvgId": "Contivision.cl",
-  "urls": [
-   "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "dps.live",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "iptvorg-news",
    "jsonteles-cl"
   ]
  },
@@ -1272,13 +986,13 @@
   "urls": [
    "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "voxtvhd.com.br",
+  "cdn": "com.br",
   "srcs": [
    "dearbulut-cl",
    "dearbulut-sports",
@@ -1290,81 +1004,27 @@
   ]
  },
  {
-  "name": "Cultura Online",
+  "name": "Mega 2",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/w8td5Lq.png",
-  "tvgId": "CulturaOnline.cl",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mega_2_logo_2022.svg/512px-Mega_2_logo_2022.svg.png",
+  "tvgId": "Mega2.cl",
   "urls": [
-   "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "bitsur.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "DCH TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/65Xk6oI.png",
-  "tvgId": "DCHTV.cl",
-  "urls": [
-   "https://v2.tustreaming.cl/dchtv/index.m3u8"
+   "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tustreaming.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Docevision",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://cdn.m3u.cl/logo/1759_Docevision.png",
-  "tvgId": "Docevision.cl",
-  "urls": [
-   "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
   "geo": "global",
-  "cdn": "bozztv.com",
+  "cdn": "15.204.196.147",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
+   "freetv-cl",
+   "verified-manual"
   ]
  },
  {
@@ -1406,8 +1066,8 @@
   "urls": [
    "https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -1460,8 +1120,8 @@
   "urls": [
    "https://video.ipstream.cl:3459/hybrid/play.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 854,
+  "h": 480,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -1524,58 +1184,6 @@
    "herberthe-o_all",
    "iptvorg-cl",
    "iptvorg-index"
-  ]
- },
- {
-  "name": "EnerGeek",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",
-  "tvgId": "EnerGeek.cl",
-  "urls": [
-   "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "energeek.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "EnerGeek Fan (1) [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png",
-  "tvgId": "EnerGeekFAN.cl",
-  "urls": [
-   "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "energeek.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "jsonteles-cl"
   ]
  },
  {
@@ -1657,32 +1265,6 @@
   ]
  },
  {
-  "name": "ETC TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.postimg.cc/RVYgh7h9/ETC-Logo.png",
-  "tvgId": "ETCTV.cl",
-  "urls": [
-   "http://181.119.93.83:8000/play/a217/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "93.83",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Fortaleza TV",
   "cats": [
    "chile"
@@ -1736,83 +1318,6 @@
   ]
  },
  {
-  "name": "FunBox",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/9MXM6jD.png",
-  "tvgId": "FunBox.cl",
-  "urls": [
-   "http://186.148.196.100:8000/play/a00d"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "196.100",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Girovisual",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/BYBMuhf.png",
-  "tvgId": "Girovisual.cl",
-  "urls": [
-   "https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "bitel.com.pe",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "GVision",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/jUPHG21.png",
-  "tvgId": "GVision.cl",
-  "urls": [
-   "https://videostream.chileservidores.com:8081/tome/index.m3u8"
-  ],
-  "w": 512,
-  "h": 288,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "chileservidores.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Holvoet TV (Copiapó)",
   "cats": [
    "chile"
@@ -1837,32 +1342,6 @@
    "iptvorg-cl",
    "iptvorg-index",
    "jsonteles-cl"
-  ]
- },
- {
-  "name": "Iquique TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/ZpXXLox.png",
-  "tvgId": "IquiqueTV.cl",
-  "urls": [
-   "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "skarnetchile.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
   ]
  },
  {
@@ -1918,29 +1397,28 @@
   ]
  },
  {
-  "name": "Juntos TV",
+  "name": "ADN TV",
   "cats": [
-   "chile"
+   "chile",
+   "news"
   ],
   "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/U62q2eM.png",
-  "tvgId": "JuntosTV.cl",
+  "group": "Chile; News",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ADN_Radio_Chile_logo.svg/512px-ADN_Radio_Chile_logo.svg.png",
+  "tvgId": "ADNTV.cl",
   "urls": [
-   "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8"
+   "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "juntostvchile.cl",
+  "geo": "global",
+  "cdn": "rudo.video",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
+   "m3u-cl",
+   "verified-manual"
   ]
  },
  {
@@ -2023,32 +1501,6 @@
   ]
  },
  {
-  "name": "La Melinkana TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/I0nzI1y.png",
-  "tvgId": "LaMelinkanaTV.cl",
-  "urls": [
-   "https://v1.tustreaming.cl/melinkana/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tustreaming.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "La Metro TV",
   "cats": [
    "chile"
@@ -2102,63 +1554,6 @@
   ]
  },
  {
-  "name": "La Popular TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://www.populartv.cl/wp-content/uploads/elementor/thumbs/Logo-en-PNG-con-tipografia-polbioybcx24gunnadhprzcqp2wqxwbpofdcvojex8.png",
-  "tvgId": "LaPopularTV.cl",
-  "urls": [
-   "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arkeo.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "La Red",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/nJOVM6e.png",
-  "tvgId": "LaRed.cl",
-  "urls": [
-   "http://177.53.152.117:8000/play/a08v/index.m3u8",
-   "http://187.102.208.209:8000/play/a0a0/index.m3u8",
-   "http://38.226.49.253:8000/play/a08f/index.m3u8",
-   "http://38.210.3.64:8090/play/a0li/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 4,
-  "geo": "global",
-  "cdn": "177.53.152.117",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "musthave"
-  ]
- },
- {
   "name": "Lila TV Pencahue",
   "cats": [
    "chile"
@@ -2177,32 +1572,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "arkeo.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Maqui TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/U849xvX.png",
-  "tvgId": "MaquiTV.cl",
-  "urls": [
-   "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "alsolnet.com",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -2290,32 +1659,6 @@
   ]
  },
  {
-  "name": "Mega 2",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/c1ME00r.png",
-  "tvgId": "Mega2.cl",
-  "urls": [
-   "http://15.204.246.24:8080/Mega2HD/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "246.24",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Meganoticias [CL]",
   "cats": [
    "chile",
@@ -2326,13 +1669,14 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png",
   "tvgId": "Meganoticias.cl",
   "urls": [
-   "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+   "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+   "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "global",
   "cdn": "dps.live",
   "srcs": [
@@ -2378,8 +1722,8 @@
   "urls": [
    "https://video.ipstream.cl:3710/hybrid/play.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -2499,26 +1843,26 @@
   ]
  },
  {
-  "name": "NTV Ⓖ",
+  "name": "NTV",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/pt2Kj1A.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NTV_Chile_logo.svg/512px-NTV_Chile_logo.svg.png",
   "tvgId": "NTV.cl",
   "urls": [
-   "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8"
+   "http://8.242.201.225:30035/play/2005/index.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "likely",
-  "cdn": "mdstrm.com",
+  "geo": "cl",
+  "cdn": "8.242.201.225",
   "srcs": [
-   "freetv-cl"
+   "verified-manual"
   ]
  },
  {
@@ -2533,8 +1877,8 @@
   "urls": [
    "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
   ],
-  "w": 426,
-  "h": 240,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -2600,60 +1944,6 @@
   ]
  },
  {
-  "name": "Opinionsur",
-  "cats": [
-   "chile",
-   "news"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/4IjhXKm.png",
-  "tvgId": "Opinionsur.cl",
-  "urls": [
-   "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "bozztv.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "iptvorg-news"
-  ]
- },
- {
-  "name": "Osorno TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/0ELjva6.png",
-  "tvgId": "OsornoTV.cl",
-  "urls": [
-   "https://videostream.chileservidores.com:8081/osornotv/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "chileservidores.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Panoramica Informativa (1) [CL]",
   "cats": [
    "chile"
@@ -2681,57 +1971,27 @@
   ]
  },
  {
-  "name": "Pauta",
+  "name": "El Pingüino TV",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://graph.facebook.com/pauta.cl/picture?width=800&height=800",
-  "tvgId": "Pauta.cl",
+  "logo": "https://cdn.m3u.cl/logo/231_El_Pinguino_TV.png",
+  "tvgId": "ElPinguinoTV.cl",
   "urls": [
-   "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8"
+   "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "global",
   "cdn": "rudo.video",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
    "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
-  ]
- },
- {
-  "name": "Pichilemu TV (1) [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://pichilemutv.org/wp-content/uploads/2020/06/cropped-Logo-Color-Blanco-Solo-32x32.png",
-  "tvgId": "PichilemuTV.cl",
-  "urls": [
-   "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
+   "verified-manual"
   ]
  },
  {
@@ -2787,57 +2047,6 @@
   ]
  },
  {
-  "name": "PRIDEtv LATAM",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://neotv.cl/img/pridetv-512.png",
-  "tvgId": "PRIDEtvLATAM.cl",
-  "urls": [
-   "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "energeek.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Primicia Vida",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/hnkVwTG.png",
-  "tvgId": "PrimiciaVida.cl",
-  "urls": [
-   "https://mc.servidor.stream:19360/8248/8248.m3u8"
-  ],
-  "w": 1920,
-  "h": 744,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "servidor.stream",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Primitivos TV",
   "cats": [
    "chile"
@@ -2849,8 +2058,8 @@
   "urls": [
    "https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8"
   ],
-  "w": 1024,
-  "h": 576,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -2918,55 +2127,29 @@
   ]
  },
  {
-  "name": "Retromusica Television",
+  "name": "Canal 2 San Antonio",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://cdn.m3u.cl/logo/1765_Retromusica_Television.png",
-  "tvgId": "RetromusicaTelevision.cl",
+  "logo": "https://cdn.m3u.cl/logo/215_Canal_2_San_Antonio.png",
+  "tvgId": "Canal2SanAntonio.cl",
   "urls": [
-   "https://vdochile.com:3864/stream/play.m3u8"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "vdochile.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Rewind TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/OG0RC2e.png",
-  "tvgId": "RewindTV.cl",
-  "urls": [
-   "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8"
+   "https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8",
+   "https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8",
+   "https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "cdnz.cl",
+  "nstreams": 3,
+  "geo": "global",
+  "cdn": "dps.live",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
+   "m3u-cl",
+   "verified-manual"
   ]
  },
  {
@@ -3033,8 +2216,8 @@
   "urls": [
    "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -3153,57 +2336,29 @@
   ]
  },
  {
-  "name": "Sextavision",
+  "name": "Contivisión",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/mwUZBU9.png",
-  "tvgId": "Sextavision.cl",
+  "logo": "https://cdn.m3u.cl/logo/223_Contivision.png",
+  "tvgId": "Contivision.cl",
   "urls": [
-   "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8"
+   "https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
+   "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
+   "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 3,
   "geo": "global",
-  "cdn": "streamlock.net",
+  "cdn": "dps.live",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Star Channel",
-  "cats": [
-   "cine",
-   "chile"
-  ],
-  "country": "ar",
-  "group": "Chile",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-  "tvgId": "StarChannel.ar",
-  "urls": [
-   "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "15.230",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "musthave"
+   "m3u-cl",
+   "verified-manual"
   ]
  },
  {
@@ -3256,31 +2411,6 @@
   ]
  },
  {
-  "name": "Suyai TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
-  "tvgId": "SuyaiTV.cl",
-  "urls": [
-   "https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "skarnetchile.com",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "T-Vinet",
   "cats": [
    "chile"
@@ -3292,8 +2422,8 @@
   "urls": [
    "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -3389,30 +2519,6 @@
   ]
  },
  {
-  "name": "Telecanal",
-  "cats": [
-   "chile",
-   "news"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/3g6SbSt.png",
-  "tvgId": "Telecanal.cl",
-  "urls": [
-   "https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
-  ],
-  "w": 512,
-  "h": 288,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "vtrplay.com",
-  "srcs": [
-   "dearbulut-cl"
-  ]
- },
- {
   "name": "Telecanal Santa Cruz",
   "cats": [
    "chile",
@@ -3450,15 +2556,16 @@
   "logo": "https://i.imgur.com/NoJvlig.png",
   "tvgId": "TeletrakTV.cl",
   "urls": [
-   "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+   "http://8.242.201.225:30035/play/1031/index.m3u8",
+   "https://teletraktv.janus.cl/playlist/stream.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "unproven",
-  "cdn": "dps.live",
+  "cdn": "8.242.201.225",
   "srcs": [
    "dearbulut-cl",
    "dearbulut-sports",
@@ -3466,33 +2573,6 @@
    "iptvorg-cl",
    "iptvorg-index",
    "iptvorg-sports"
-  ]
- },
- {
-  "name": "Temuco Television",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://temucotelevision.cl/web/wp-content/uploads/2019/01/logo-2.jpg",
-  "tvgId": "TemucoTelevision.cl",
-  "urls": [
-   "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "nnw.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
   ]
  },
  {
@@ -3528,23 +2608,21 @@
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/FnInQRd.png",
+  "logo": "https://cdn.m3u.cl/logo/1575_Tevex.png",
   "tvgId": "Tevex.cl",
   "urls": [
-   "https://v2.tustreaming.cl/tevex/index.m3u8"
+   "https://v4.tustreaming.cl/tevexinter/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
+  "geo": "global",
   "cdn": "tustreaming.cl",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
+   "m3u-cl",
+   "verified-manual"
   ]
  },
  {
@@ -3614,46 +2692,18 @@
   "urls": [
    "https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "voxtvhd.com.br",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Turno",
-  "cats": [
-   "chile",
-   "news"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/XuSeHBt.png",
-  "tvgId": "Turno.cl",
-  "urls": [
-   "https://redirector.dps.live/hls/turno/playlist.m3u8"
-  ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "dps.live",
+  "cdn": "com.br",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
    "iptvorg-cl",
-   "iptvorg-index",
-   "iptvorg-news"
+   "iptvorg-index"
   ]
  },
  {
@@ -3668,8 +2718,8 @@
   "urls": [
    "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
   ],
-  "w": 640,
-  "h": 360,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -3815,32 +2865,6 @@
   ]
  },
  {
-  "name": "TV8 Concepcion",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/cx6SWNf.png",
-  "tvgId": "TV8Concepcion.cl",
-  "urls": [
-   "https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "tvstream.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "TVN3",
   "cats": [
    "chile"
@@ -3852,8 +2876,8 @@
   "urls": [
    "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -3982,44 +3006,19 @@
   "logo": "https://i.imgur.com/2VL4Pts.png",
   "tvgId": "UCVTV.cl",
   "urls": [
-   "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+   "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+   "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "unproven",
   "cdn": "dps.live",
   "srcs": [
-   "freetv-cl"
-  ]
- },
- {
-  "name": "UMAG TV 2 (U. de Magallanes) [CL]",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
-  "tvgId": "UMAGTV2.cl",
-  "urls": [
-   "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "cdnz.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "jsonteles-cl"
+   "freetv-cl",
+   "iptvorg-cl"
   ]
  },
  {
@@ -4034,8 +3033,8 @@
   "urls": [
    "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -4049,29 +3048,28 @@
   ]
  },
  {
-  "name": "UTV",
+  "name": "Canal Sur Patagonia",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/ZJNSpfZ.png",
-  "tvgId": "UTV.cl",
+  "logo": "",
+  "tvgId": "CanalSurPatagonia.cl",
   "urls": [
-   "https://v2.tustreaming.cl/utv/index.m3u8"
+   "https://v2.tustreaming.cl/fmarcoirirs/index.m3u8",
+   "https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
+  "nstreams": 2,
+  "geo": "global",
   "cdn": "tustreaming.cl",
   "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
+   "m3u-cl",
+   "verified-manual"
   ]
  },
  {
@@ -4153,58 +3151,6 @@
   ]
  },
  {
-  "name": "Vision TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/mTesx1h.png",
-  "tvgId": "VisionTV.cl",
-  "urls": [
-   "https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arkeo.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Vivo TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/kBRbCUb.png",
-  "tvgId": "VivoTV.cl",
-  "urls": [
-   "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Wapp",
   "cats": [
    "chile"
@@ -4223,84 +3169,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "wapptv.cl",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Zona Latina",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/lMyZZtk.png",
-  "tvgId": "ZonaLatina.cl",
-  "urls": [
-   "http://45.162.193.35/ZONALATINA/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "193.35",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Zona Play TV",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/GewcpHv.png",
-  "tvgId": "ZonaPlayTV.cl",
-  "urls": [
-   "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "mediacp.eu",
-  "srcs": [
-   "dearbulut-cl",
-   "herberthe-o_all",
-   "iptvorg-cl",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Zoom Tecnologico Plus",
-  "cats": [
-   "chile"
-  ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
-  "tvgId": "ZoomTecnologicoPlus.cl",
-  "urls": [
-   "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
   "srcs": [
    "dearbulut-cl",
    "herberthe-o_all",
@@ -4345,20 +3213,17 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
   "tvgId": "DisneyJrLatinAmerica.ar",
   "urls": [
-   "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
-   "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
    "http://181.78.14.26:4000/play/a073/index.m3u8",
    "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
-   "http://45.185.163.75:8000/play/a016/index.m3u8",
    "http://190.93.224.42/DISNEY-JR/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
-  "acodec": "ac3",
-  "nstreams": 6,
+  "acodec": "mp2",
+  "nstreams": 3,
   "geo": "global",
-  "cdn": "225.124",
+  "cdn": "181.78.14.26",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -4377,19 +3242,16 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
   "tvgId": "DisneyChannelLatinAmerica.ar",
   "urls": [
-   "http://15.204.246.24:8080/DisneyHD/index.m3u8",
-   "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
-   "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
-   "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
-   "http://181.78.8.199:8000/play/a0dn/index.m3u8"
+   "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+   "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 5,
+  "acodec": "aac",
+  "nstreams": 2,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "181.78.8.199",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -4411,12 +3273,12 @@
   "urls": [
    "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
    "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+   "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
    "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
-   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
-   "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8"
+   "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 5,
@@ -4434,30 +3296,26 @@
   ]
  },
  {
-  "name": "Bravo TV",
+  "name": "Cine.AR",
   "cats": [
    "argentina"
   ],
   "country": "ar",
   "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
-  "tvgId": "BravoTV.ar",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cine.ar_logo.png/512px-Cine.ar_logo.png",
+  "tvgId": "CineAR.ar",
   "urls": [
-   "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
-   "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
+   "http://138.59.227.20:8000/play/a069/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 528,
+  "h": 480,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
-  "geo": "unproven",
-  "cdn": "rudo.video",
+  "nstreams": 1,
+  "geo": "cl",
+  "cdn": "138.59.227.20",
   "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
+   "verified-manual"
   ]
  },
  {
@@ -4470,6 +3328,7 @@
   "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
   "tvgId": "CanalE.ar",
   "urls": [
+   "https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
    "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
    "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8"
   ],
@@ -4477,7 +3336,7 @@
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 3,
   "geo": "unproven",
   "cdn": "dps.live",
   "srcs": [
@@ -4500,49 +3359,23 @@
   "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
   "tvgId": "CosmosTv.ar",
   "urls": [
-   "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-   "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+   "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 1,
   "geo": "unproven",
-  "cdn": "canaletaplus.com",
+  "cdn": "mediacp.eu",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index",
    "iptvorg-news"
-  ]
- },
- {
-  "name": "El Gourmet",
-  "cats": [
-   "argentina"
   ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png",
-  "tvgId": "ElGourmet.ar",
-  "urls": [
-   "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
-   "http://177.234.249.178:8888/EL-GOURMET/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "ac3",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "246.24",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
+  "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
  },
  {
   "name": "NG Federal",
@@ -4554,14 +3387,13 @@
   "logo": "https://i.imgur.com/lJCIqYn.png",
   "tvgId": "NGFederal.ar",
   "urls": [
-   "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
-   "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
+   "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
   ],
   "w": 1280,
   "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 1,
   "geo": "global",
   "cdn": "streamlock.net",
   "srcs": [
@@ -4600,107 +3432,51 @@
   ]
  },
  {
-  "name": "5TV Corrientes",
+  "name": "Encuentro",
   "cats": [
    "argentina"
   ],
   "country": "ar",
   "group": "Argentina",
-  "logo": "https://i.imgur.com/mSn7ACs.png",
-  "tvgId": "5tv.ar",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Canal_Encuentro_logo_2020.svg/512px-Canal_Encuentro_logo_2020.svg.png",
+  "tvgId": "Encuentro.ar",
   "urls": [
-   "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+   "http://158.172.155.130:8000/play/a00n/index.m3u8"
   ],
-  "w": 1080,
-  "h": 608,
+  "w": 528,
+  "h": 480,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "coninfo.net",
+  "geo": "cl",
+  "cdn": "158.172.155.130",
   "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
+   "verified-manual"
   ]
  },
  {
   "name": "Aire de Santa Fe",
   "cats": [
-   "argentina"
+   "argentina",
+   "news"
   ],
   "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/60vSWW0.png",
-  "tvgId": "AiredeSantaFe.ar",
+  "group": "Argentina; News",
+  "logo": "",
+  "tvgId": "AireDeSantaFe.ar",
   "urls": [
-   "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8"
+   "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "dps.live",
+  "geo": "global",
+  "cdn": "mdstrm.com",
   "srcs": [
    "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Argentinisima Satelital",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/xFgJawa.png",
-  "tvgId": "ArgentinisimaSatelital.ar",
-  "urls": [
-   "https://stream1.sersat.com/hls/argentinisima.m3u8"
-  ],
-  "w": 720,
-  "h": 576,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "sersat.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Bayres TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
-  "tvgId": "BayresTV.ar",
-  "urls": [
-   "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "mikrolive.tv",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
+   "verified-manual"
   ]
  },
  {
@@ -4715,8 +3491,8 @@
   "urls": [
    "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8"
   ],
-  "w": 854,
-  "h": 480,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -4724,32 +3500,6 @@
   "cdn": "solumedia.com",
   "srcs": [
    "dearbulut-ar"
-  ]
- },
- {
-  "name": "Cable Imagen Armstrong",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/U9NuJQC.png",
-  "tvgId": "CableImagenArmstrong.ar",
-  "urls": [
-   "https://stream.arcast.com.ar/casse/casse/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arcast.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
   ]
  },
  {
@@ -4771,32 +3521,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "solumedia.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 13 Jujuy TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/lmKLiJ3.jpg",
-  "tvgId": "Canal13Jujuy.ar",
-  "urls": [
-   "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "genexservicios.com",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -4832,32 +3556,6 @@
   ]
  },
  {
-  "name": "Canal 13 San Luis",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/NcfMC29.png",
-  "tvgId": "Canal13SanLuis.ar",
-  "urls": [
-   "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "radiosmundiales.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Canal 2 Gualeguay",
   "cats": [
    "argentina"
@@ -4869,8 +3567,8 @@
   "urls": [
    "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
@@ -4979,7 +3677,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "ixfo.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5006,7 +3704,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "likely",
-  "cdn": "telecentro.net.ar",
+  "cdn": "net.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5014,58 +3712,6 @@
    "iptvorg-index",
    "iptvorg-news",
    "musthave"
-  ]
- },
- {
-  "name": "Canal 3 Formosa",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/rVDrNIy.png",
-  "tvgId": "Canal3Formosa.ar",
-  "urls": [
-   "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "livecastv.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 3 Las Heras",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/bd2afET.png",
-  "tvgId": "Canal3LasHeras.ar",
-  "urls": [
-   "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arcast.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
   ]
  },
  {
@@ -5086,7 +3732,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "canal3tacural.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5138,111 +3784,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "arcast.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 4 San Juan",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/MsCnwRA.png",
-  "tvgId": "Canal4SanJuan.ar",
-  "urls": [
-   "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-  ],
-  "w": 852,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "alsolnet.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 4 Villa Dolores",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/ZKSnGfw.png",
-  "tvgId": "Canal4VillaDolores.ar",
-  "urls": [
-   "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "livecastv.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 5 Del Pueblo",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg",
-  "tvgId": "Canal5DelPueblo.ar",
-  "urls": [
-   "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "voxtvhd.com.br",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 5 Santa Fe",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/WX0esjQ.png",
-  "tvgId": "Canal5SantaFe.ar",
-  "urls": [
-   "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arcast.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5294,33 +3836,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "ixfo.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 6 Viento Recio",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/liyTNzK.png",
-  "tvgId": "Canal6VientoRecio.ar",
-  "urls": [
-   "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "livecastv.com",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5372,33 +3888,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "arcast.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 7 Salta",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/CudG6sl.png",
-  "tvgId": "Canal7Salta.ar",
-  "urls": [
-   "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "solumedia.com",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5424,7 +3914,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "arcast.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5589,32 +4079,6 @@
   ]
  },
  {
-  "name": "Canal 9 Litoral",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",
-  "tvgId": "Canal9Litoral.ar",
-  "urls": [
-   "https://stream.arcast.live/ahora/ahora/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "arcast.live",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Canal 9 Resistencia",
   "cats": [
    "argentina"
@@ -5638,112 +4102,6 @@
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal 99 Miramar",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/PblsZxz.jpeg",
-  "tvgId": "Canal99Miramar.ar",
-  "urls": [
-   "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "solumedia.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal Provincial",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/bXHHtcb.png",
-  "tvgId": "CanalProvincial.ar",
-  "urls": [
-   "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "telered.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal Pulpo TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
-  "tvgId": "CanalPulpoTV.ar",
-  "urls": [
-   "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "opencaster.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Canal Showsport",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/0L9tW3Z.png",
-  "tvgId": "CanalShowsport.ar",
-  "urls": [
-   "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "lumpentv.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index",
-   "iptvorg-sports"
   ]
  },
  {
@@ -5792,33 +4150,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "shockmedia.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Caras TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/7dl4yQY.jpeg",
-  "tvgId": "CarasTV.ar",
-  "urls": [
-   "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "dps.live",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -5844,169 +4176,13 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "arcast.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index",
    "iptvorg-news"
-  ]
- },
- {
-  "name": "Celta TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/rwoIF4w.png",
-  "tvgId": "CeltaTV.ar",
-  "urls": [
-   "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "solumedia.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Chaco TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/b6RerDw.png",
-  "tvgId": "ChacoTV.ar",
-  "urls": [
-   "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "gov.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Chacra TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/gy7AEfO.png",
-  "tvgId": "ChacraTV.ar",
-  "urls": [
-   "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Chamame TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/JigzJck.png",
-  "tvgId": "ChamameTV.ar",
-  "urls": [
-   "https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "zcast.com.br",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Ciudad Magica",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/HJkSz2U.png",
-  "tvgId": "CiudadMagica.ar",
-  "urls": [
-   "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "bozztv.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Corrientes TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/7PBkvRp.png",
-  "tvgId": "CorrientesTV.ar",
-  "urls": [
-   "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 704,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
   ]
  },
  {
@@ -6047,13 +4223,13 @@
   "urls": [
    "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "arcast.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6078,9 +4254,9 @@
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "181.115.239.66",
   "srcs": [
    "dearbulut-ar",
    "musthave"
@@ -6096,70 +4272,19 @@
   "logo": "https://i.imgur.com/TrgBAdA.png",
   "tvgId": "ElTrece.ar",
   "urls": [
-   "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-   "http://15.204.246.24:8080/eltreceHD/index.m3u8"
+   "http://138.59.227.20:8000/play/a07b/index.m3u8",
+   "http://45.170.130.224:8000/play/a050/index.m3u8"
   ],
   "w": 1280,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 2,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "138.59.227.20",
   "srcs": [
    "dearbulut-ar",
    "musthave"
-  ]
- },
- {
-  "name": "Europa Europa",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/w5SOfyJ.png",
-  "tvgId": "EuropaEuropa.ar",
-  "urls": [
-   "http://181.119.93.83:8000/play/a1sr/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "93.83",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Film & Arts",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/ukdmEKD.png",
-  "tvgId": "FilmArts.ar",
-  "urls": [
-   "http://15.204.246.24:8080/FilmArtsHD/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "246.24",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-index"
   ]
  },
  {
@@ -6184,32 +4309,6 @@
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Itel TV Canal 2",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/OxmpRDx.png",
-  "tvgId": "ItelTVCanal2.ar",
-  "urls": [
-   "https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "iteltv.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
    "iptvorg-index"
   ]
  },
@@ -6240,58 +4339,6 @@
   ]
  },
  {
-  "name": "LAMIL35 TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
-  "tvgId": "LAMIL35TV.ar",
-  "urls": [
-   "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "streaminghd.net.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Link TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.ibb.co/ncYZY6T/logo-3.png",
-  "tvgId": "LinkTV.ar",
-  "urls": [
-   "https://linktv.b-cdn.net/linktv.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "b-cdn.net",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "Mercurio Noticias",
   "cats": [
    "argentina",
@@ -6310,7 +4357,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "shockmedia.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6364,7 +4411,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "shockmedia.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar"
   ]
@@ -6387,33 +4434,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "shockmedia.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Neox TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/eIX71c9.png",
-  "tvgId": "NeoxTV.ar",
-  "urls": [
-   "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "streamcasthd.com",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6460,45 +4481,19 @@
   "urls": [
    "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
   ],
-  "w": 1280,
-  "h": 720,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "shockmedia.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index",
    "iptvorg-news"
-  ]
- },
- {
-  "name": "Quiero Musica en mi Idioma",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/RO9Dz3X.png",
-  "tvgId": "QuieroMusicaenmiIdioma.ar",
-  "urls": [
-   "http://177.234.249.178:8888/MTV/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "249.178",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
   ]
  },
  {
@@ -6519,7 +4514,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "3.2",
+  "cdn": "204.199.3.2",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6546,84 +4541,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "gov.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "San Luis +",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/bGoGiry.png",
-  "tvgId": "SanLuisPlus.ar",
-  "urls": [
-   "https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "radiosmundiales.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "San Pedro TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/UkpXogr.png",
-  "tvgId": "SanPedroTV.ar",
-  "urls": [
-   "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "ixfo.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Senillosa TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj",
-  "tvgId": "SenillosaTV.ar",
-  "urls": [
-   "https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8"
-  ],
-  "w": 856,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "videohost.click",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6675,40 +4592,12 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "voxtvhd.com.br",
+  "cdn": "com.br",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index"
-  ]
- },
- {
-  "name": "Sony Channel",
-  "cats": [
-   "cine",
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
-  "tvgId": "SonyChannel.ar",
-  "urls": [
-   "http://138.121.15.230:9002/SONY/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "15.230",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index",
-   "musthave"
   ]
  },
  {
@@ -6730,58 +4619,6 @@
   "nstreams": 1,
   "geo": "unproven",
   "cdn": "t5satelital.blog",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Tele Posadas",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/88MVgwX.png",
-  "tvgId": "TelePosadas.ar",
-  "urls": [
-   "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "bozztv.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "TeleCinco Trelew",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/ZDenyAE.png",
-  "tvgId": "Telecinco.ar",
-  "urls": [
-   "https://videohd.live:19360/8016/8016.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "videohd.live",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6825,20 +4662,23 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
   "tvgId": "Telefe.ar",
   "urls": [
-   "http://181.78.197.59:8000/play/a070/index.m3u8",
+   "http://138.59.227.20:8000/play/a08a/index.m3u8",
+   "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+   "http://158.172.155.130:8000/play/a00h/index.m3u8",
    "http://192.168.100.53:8178/telefe-noticias.m3u8"
   ],
-  "w": 544,
-  "h": 480,
+  "w": 1280,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 4,
   "geo": "likely",
-  "cdn": "181.78.197.59",
+  "cdn": "177.53.153.207",
   "srcs": [
    "dearbulut-ar",
    "musthave"
-  ]
+  ],
+  "url": "http://138.59.227.20:8000/play/a08a/index.m3u8"
  },
  {
   "name": "Telefe Buenos Aires",
@@ -6853,67 +4693,16 @@
    "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
   ],
   "w": 1280,
-  "h": 720,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "141.161",
+  "cdn": "45.134.141.161",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
    "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Telefe Interior",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-  "tvgId": "TelefeInterior.ar",
-  "urls": [
-   "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "32.158",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Telefe Internacional",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/HNcCX3h.png",
-  "tvgId": "TelefeInternacional.ar",
-  "urls": [
-   "http://190.108.83.69:8000/play/a08l/index.m3u8"
-  ],
-  "w": 720,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "83.69",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
    "iptvorg-index"
   ]
  },
@@ -6935,7 +4724,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "likely",
-  "cdn": "telecentro.net.ar",
+  "cdn": "net.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -6962,33 +4751,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "telpin.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "TIV Television",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/gsgXGEj.png",
-  "tvgId": "TIVTelevision.ar",
-  "urls": [
-   "https://videohd.live:19360/8008/8008.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "videohd.live",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -7009,69 +4772,17 @@
   "urls": [
    "http://192.168.100.53:8178/tn.m3u8"
   ],
-  "w": 1280,
+  "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
-  "cdn": "246.24",
+  "cdn": "lan",
   "srcs": [
    "dearbulut-ar",
    "musthave",
    "youtube-refresh"
-  ]
- },
- {
-  "name": "TV Canal 72",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png",
-  "tvgId": "TVCanal72.ar",
-  "urls": [
-   "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "voxtvhd.com.br",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "TV Maná Argentina",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/jars0mP.png",
-  "tvgId": "TVManaArgentina.ar",
-  "urls": [
-   "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
-  ],
-  "w": 720,
-  "h": 576,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "manasat.com",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
   ]
  },
  {
@@ -7095,60 +4806,6 @@
   "cdn": "republicaservers.com",
   "srcs": [
    "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "TV Publica Marcos Paz",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/CRmY4Oi.png",
-  "tvgId": "TVPublicaMarcosPaz.ar",
-  "urls": [
-   "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "radiomelody.com.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index",
-   "verified-manual"
-  ]
- },
- {
-  "name": "TV Universidad",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/tvLHiAT.png",
-  "tvgId": "TVUniversidad.ar",
-  "urls": [
-   "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "edu.ar",
-  "srcs": [
-   "dearbulut-ar",
-   "freetv-ar",
    "herberthe-o_all",
    "iptvorg-ar",
    "iptvorg-index"
@@ -7207,58 +4864,6 @@
   ]
  },
  {
-  "name": "VerTV (VTV)",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/TLaausJ.png",
-  "tvgId": "VTV.ar",
-  "urls": [
-   "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "streamlock.net",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "Villa Mantero TV",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/mmEenTm.png",
-  "tvgId": "VillaManteroTV.ar",
-  "urls": [
-   "https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8"
-  ],
-  "w": 960,
-  "h": 540,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "micanal.ovh",
-  "srcs": [
-   "dearbulut-ar",
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index"
-  ]
- },
- {
   "name": "X Level Media",
   "cats": [
    "argentina"
@@ -7276,7 +4881,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "tuvideoonline.com.ar",
+  "cdn": "com.ar",
   "srcs": [
    "dearbulut-ar",
    "herberthe-o_all",
@@ -7294,9 +4899,9 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
   "tvgId": "FoxSports.ar",
   "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8",
    "http://177.53.153.207:8000/play/a008/index.m3u8",
-   "http://138.59.227.20:8000/play/a085/index.m3u8",
-   "http://190.61.101.11:7050/play/a08t/index.m3u8"
+   "http://138.59.227.20:8000/play/a085/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
@@ -7304,7 +4909,7 @@
   "acodec": "aac",
   "nstreams": 3,
   "geo": "global",
-  "cdn": "jmp2.uk",
+  "cdn": "45.184.109.10",
   "srcs": [
    "herberthe-o_all",
    "iptvorg-index",
@@ -7325,16 +4930,15 @@
   "tvgId": "beINSportsXtra.us",
   "urls": [
    "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-   "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
    "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
   ],
-  "w": 1024,
-  "h": 576,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 2,
   "geo": "global",
-  "cdn": "tubi.video",
+  "cdn": "amagi.tv",
   "srcs": [
    "dearbulut-sports",
    "herberthe-o_all",
@@ -7355,16 +4959,18 @@
   "logo": "https://i.imgur.com/V562tpO.png",
   "tvgId": "beINSPORTSXTRAenEspanol.us",
   "urls": [
-   "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
-   "http://201.190.41.246:9060/play/a03y/index.m3u8"
+   "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+   "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+   "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+   "http://168.228.44.241:9997/play/a06q/index.m3u8"
   ],
-  "w": 1024,
-  "h": 576,
+  "w": 1920,
+  "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 4,
   "geo": "global",
-  "cdn": "tubi.video",
+  "cdn": "amagi.tv",
   "srcs": [
    "dearbulut-sports",
    "herberthe-o_all",
@@ -7383,44 +4989,20 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
   "tvgId": "ESPN.br",
   "urls": [
-   "http://190.83.2.182:8090/ESPN/index.m3u8",
    "http://181.78.197.59:8000/play/a07z/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 2,
+  "nstreams": 1,
   "geo": "unproven",
-  "cdn": "2.182",
+  "cdn": "181.78.197.59",
   "srcs": [
    "dearbulut-sports",
    "herberthe-o_all",
    "iptvorg-index",
    "iptvorg-sports"
-  ]
- },
- {
-  "name": "beIN Sports XTRA ñ",
-  "cats": [
-   "futbol"
-  ],
-  "country": "",
-  "group": "Futbol",
-  "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20260421T142008SQUARE.png",
-  "tvgId": "US2700004DX",
-  "urls": [
-   "https://jmp2.uk/stvp-US2700004DX"
-  ],
-  "w": 640,
-  "h": 360,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "samsung-us"
   ]
  },
  {
@@ -7434,48 +5016,19 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
   "tvgId": "ESPN2.ar",
   "urls": [
-   "http://181.78.197.59:8000/play/a080/index.m3u8",
-   "http://191.97.49.82:8001/play/a00m/index.m3u8",
-   "http://209.61.12.77:9000/play/a08p/index.m3u8",
    "http://181.115.239.66:8000/play/a00m/index.m3u8",
-   "http://190.61.101.11:7050/play/a05c/index.m3u8"
+   "http://138.59.227.20:8000/play/a098/index.m3u8"
   ],
   "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "mp2",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "freetv.fun",
-  "srcs": [
-   "herberthe-all",
-   "musthave"
-  ]
- },
- {
-  "name": "ESPN 3",
-  "cats": [
-   "futbol"
-  ],
-  "country": "br",
-  "group": "Futbol",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
-  "tvgId": "ESPN3.br",
-  "urls": [
-   "http://190.83.2.182:8090/ESPN3/index.m3u8"
-  ],
-  "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
-  "geo": "unproven",
-  "cdn": "2.182",
+  "nstreams": 2,
+  "geo": "likely",
+  "cdn": "181.115.239.66",
   "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports"
+   "herberthe-all",
+   "musthave"
   ]
  },
  {
@@ -7493,13 +5046,13 @@
    "http://190.61.101.11:7050/play/a05d/index.m3u8",
    "http://138.59.227.20:8000/play/a09a/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 3,
   "geo": "likely",
-  "cdn": "freetv.fun",
+  "cdn": "181.115.239.66",
   "srcs": [
    "herberthe-all",
    "musthave"
@@ -7523,7 +5076,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "197.59",
+  "cdn": "181.78.197.59",
   "srcs": [
    "dearbulut-sports",
    "herberthe-o_all",
@@ -7542,101 +5095,23 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
   "tvgId": "ESPN4.ar",
   "urls": [
-   "http://179.51.136.19:8000/play/a1a5/index.m3u8",
-   "http://181.78.197.59:8000/play/a07n/index.m3u8",
-   "https://stream1.freetv.fun/90d1fe53600ece931ce2337a88dbaf88b8531872069196c3009b05302956a29b.m3u8",
-   "http://190.60.37.118:4000/play/a09j"
+   "http://138.59.227.20:8000/play/a084/index.m3u8",
+   "http://177.53.153.207:8000/play/a00v/index.m3u8",
+   "http://181.115.239.66:8000/play/a05x/index.m3u8",
+   "http://200.59.191.177:8000/play/a0pz/index.m3u8",
+   "http://190.108.83.69:8000/play/a04h/index.m3u8",
+   "http://38.226.49.253:8000/play/a065/index.m3u8"
   ],
-  "w": 1920,
-  "h": 1080,
+  "w": 1280,
+  "h": 720,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 6,
   "geo": "likely",
-  "cdn": "freetv.fun",
+  "cdn": "138.59.227.20",
   "srcs": [
    "herberthe-all",
    "musthave"
-  ]
- },
- {
-  "name": "ESPN Deportes",
-  "cats": [
-   "futbol",
-   "usa"
-  ],
-  "country": "us",
-  "group": "Futbol",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
-  "tvgId": "ESPNDeportes.us",
-  "urls": [
-   "http://40.160.24.58/ESPN_DEPORTES/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.58",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "Fox Deportes",
-  "cats": [
-   "futbol",
-   "usa"
-  ],
-  "country": "us",
-  "group": "Futbol",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-  "tvgId": "FoxDeportes.us",
-  "urls": [
-   "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "104.106",
-  "srcs": [
-   "dearbulut-sports"
-  ]
- },
- {
-  "name": "Pluto TV Deportes",
-  "cats": [
-   "futbol"
-  ],
-  "country": "",
-  "group": "Futbol",
-  "logo": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png",
-  "tvgId": "5dcde07af1c85b0009b18651",
-  "urls": [
-   "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
-  ],
-  "w": 854,
-  "h": 480,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "jmp2.uk",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "pluto-ar",
-   "pluto-mx"
   ]
  },
  {
@@ -7651,7 +5126,7 @@
   "tvgId": "TNTSports.ar",
   "urls": [
    "http://138.59.227.20:8000/play/a06z/index.m3u8",
-   "http://38.252.215.33:8000/play/a00i/index.m3u8"
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8"
   ],
   "w": 1280,
   "h": 1080,
@@ -7659,87 +5134,9 @@
   "acodec": "aac",
   "nstreams": 2,
   "geo": "likely",
-  "cdn": "138.59.227.20:8000",
+  "cdn": "138.59.227.20",
   "srcs": [
    "builtins"
-  ]
- },
- {
-  "name": "CBC News Network",
-  "cats": [
-   "news",
-   "canada"
-  ],
-  "country": "ca",
-  "group": "News",
-  "logo": "https://i.imgur.com/SjTdhvJ.png",
-  "tvgId": "CBCNewsNetwork.ca",
-  "urls": [
-   "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "tubi.video",
-  "srcs": [
-   "dearbulut-ca"
-  ]
- },
- {
-  "name": "Fox News Channel",
-  "cats": [
-   "news",
-   "usa"
-  ],
-  "country": "us",
-  "group": "News",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-  "tvgId": "FoxNewsChannel.us",
-  "urls": [
-   "http://168.228.44.241:9999/play/a022/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "28.50",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-news",
-   "iptvorg-us"
-  ],
-  "url": "http://168.228.44.241:9999/play/a022/index.m3u8"
- },
- {
-  "name": "CTV 2 Atlantic",
-  "cats": [
-   "canada"
-  ],
-  "country": "ca",
-  "group": "Canada",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png",
-  "tvgId": "CTV2Atlantic.ca",
-  "urls": [
-   "http://stream.cammonitorplus.net/1731/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "cammonitorplus.net",
-  "srcs": [
-   "dearbulut-ca",
-   "herberthe-o_all",
-   "iptvorg-ca",
-   "iptvorg-index"
   ]
  },
  {
@@ -7752,7 +5149,7 @@
   "logo": "https://i.imgur.com/Z1b2TJD.png",
   "tvgId": "CBFTDT.ca",
   "urls": [
-   "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+   "https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8"
   ],
   "w": 1280,
   "h": 720,
@@ -7770,326 +5167,6 @@
   ]
  },
  {
-  "name": "Slice",
-  "cats": [
-   "canada"
-  ],
-  "country": "ca",
-  "group": "Canada",
-  "logo": "https://i.imgur.com/9UzQpum.png",
-  "tvgId": "Slice.ca",
-  "urls": [
-   "http://40.160.24.55/SLICE/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "dearbulut-ca",
-   "herberthe-o_all",
-   "iptvorg-ca",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "TSN1",
-  "cats": [
-   "canada"
-  ],
-  "country": "ca",
-  "group": "Canada",
-  "logo": "https://i.imgur.com/eRFE0jZ.png",
-  "tvgId": "TSN1.ca",
-  "urls": [
-   "http://40.160.24.55/TSN_1/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "dearbulut-ca",
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-ca",
-   "iptvorg-index",
-   "iptvorg-sports"
-  ]
- },
- {
-  "name": "W Network",
-  "cats": [
-   "canada"
-  ],
-  "country": "ca",
-  "group": "Canada",
-  "logo": "https://i.imgur.com/t7XdBh8.png",
-  "tvgId": "WNetwork.ca",
-  "urls": [
-   "http://40.160.24.55/W_NETWORK/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "dearbulut-ca",
-   "herberthe-o_all",
-   "iptvorg-index"
-  ]
- },
- {
-  "name": "AMC",
-  "cats": [
-   "cine",
-   "usa"
-  ],
-  "country": "ar",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-  "tvgId": "AMCLatinAmerica.us",
-  "urls": [
-   "http://45.162.193.35/AMC/index.m3u8",
-   "http://170.83.49.66:8083/AMCHD/index.m3u8",
-   "http://45.171.108.253:8888/AMC/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 3,
-  "geo": "global",
-  "cdn": "193.35",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-index",
-   "musthave"
-  ]
- },
- {
-  "name": "Bravo",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/JmTIRLF.png",
-  "tvgId": "Bravo.us",
-  "urls": [
-   "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8",
-   "http://40.160.24.52/BRAVO_WEST/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "tier1streams.com",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "CBS",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-  "tvgId": "CBS.us",
-  "urls": [
-   "http://stream.cammonitorplus.net/1783/index.m3u8",
-   "http://stream.cammonitorplus.net/1798/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "cammonitorplus.net",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "Cinecanal",
-  "cats": [
-   "cine",
-   "usa"
-  ],
-  "country": "ar",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-  "tvgId": "Cinecanal.us",
-  "urls": [
-   "http://138.121.15.230:9002/CINECANAL/index.m3u8",
-   "http://45.162.193.35/CINECANAL/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "15.230",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-ar",
-   "iptvorg-cl",
-   "iptvorg-index",
-   "musthave"
-  ]
- },
- {
-  "name": "NBC",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
-  "tvgId": "NBC.us",
-  "urls": [
-   "http://168.228.44.241:9999/play/a04x/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "cammonitorplus.net",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ],
-  "url": "http://168.228.44.241:9999/play/a04x/index.m3u8"
- },
- {
-  "name": "USA Network",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-  "tvgId": "USANetwork.us",
-  "urls": [
-   "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8",
-   "http://40.160.24.55/USA_NETWORK/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 2,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "dearbulut-sports",
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-sports",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "A&E",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-  "tvgId": "AE.us",
-  "urls": [
-   "https://gpuserver3.tier1streams.com/AE/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "tier1streams.com",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-ca",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "DHE",
-  "cats": [
-   "cine",
-   "usa"
-  ],
-  "country": "ar",
-  "group": "USA",
-  "logo": "https://i.imgur.com/nsttoEa.png",
-  "tvgId": "DHE.ar",
-  "urls": [
-   "http://190.60.37.118:4000/play/a02d",
-   "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "ac3",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "225.124",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "musthave"
-  ]
- },
- {
-  "name": "FX",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/ZScwrpi.png",
-  "tvgId": "FX.us",
-  "urls": [
-   "http://23.237.104.106:8080/USA_FX/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "104.106",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
   "name": "Golf Channel",
   "cats": [
    "usa"
@@ -8099,15 +5176,13 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",
   "tvgId": "GolfChannel.us",
   "urls": [
-   "http://181.119.177.253:8000/play/a0do/index.m3u8",
-   "http://177.53.152.117:8000/play/a06w/index.m3u8",
-   "http://186.148.196.250:81/play/a0ma/index.m3u8"
+   "http://181.119.177.253:8000/play/a0do/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 3,
+  "nstreams": 1,
   "geo": "global",
   "cdn": "181.119.177.253",
   "srcs": [
@@ -8115,159 +5190,6 @@
    "iptvorg-ca",
    "iptvorg-index",
    "iptvorg-sports",
-   "iptvorg-us"
-  ],
-  "url": "http://168.228.44.241:9997/play/a03q/index.m3u8"
- },
- {
-  "name": "Hallmark Channel",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
-  "tvgId": "HallmarkChannel.us",
-  "urls": [
-   "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "104.106",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "History",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-  "tvgId": "History.us",
-  "urls": [
-   "http://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.53",
-  "srcs": [
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "INSP",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/YgOC51j.png",
-  "tvgId": "INSP.us",
-  "urls": [
-   "http://40.160.24.53/INSP/index.m3u8"
-  ],
-  "w": 1280,
-  "h": 720,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.53",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "Paramount Network",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-  "tvgId": "ParamountNetwork.us",
-  "urls": [
-   "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-  ],
-  "w": 1024,
-  "h": 576,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-ca",
-   "iptvorg-index",
-   "iptvorg-us"
-  ]
- },
- {
-  "name": "Telemundo",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
-  "tvgId": "Telemundo.us",
-  "urls": [
-   "http://168.228.44.241:9999/play/a02g/index.m3u8",
-   "http://168.228.44.241:9997/play/a07g/index.m3u8"
-  ],
-  "w": 1920,
-  "h": 1080,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "13.8",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
-   "iptvorg-us"
-  ],
-  "url": "http://168.228.44.241:9999/play/a02g/index.m3u8"
- },
- {
-  "name": "TV Land",
-  "cats": [
-   "usa"
-  ],
-  "country": "us",
-  "group": "USA",
-  "logo": "https://i.imgur.com/VNNS4mF.png",
-  "tvgId": "TVLand.us",
-  "urls": [
-   "http://40.160.24.55/TV_LAND/index.m3u8"
-  ],
-  "w": 1024,
-  "h": 576,
-  "vcodec": "h264",
-  "acodec": "aac",
-  "nstreams": 1,
-  "geo": "global",
-  "cdn": "24.55",
-  "srcs": [
-   "herberthe-o_all",
-   "iptvorg-index",
    "iptvorg-us"
   ]
  },
@@ -8290,34 +5212,10 @@
   "acodec": "aac",
   "nstreams": 2,
   "geo": "likely",
-  "cdn": "138.59.227.20",
+  "cdn": "181.115.239.66",
   "srcs": [
    "musthave"
   ]
- },
- {
-  "name": "TV Publica",
-  "cats": [
-   "argentina"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://i.imgur.com/4hYYpiu.png",
-  "tvgId": "TVPublica.ar",
-  "urls": [
-   "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
  },
  {
   "name": "A24",
@@ -8338,7 +5236,7 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
-  "cdn": "",
+  "cdn": "lan",
   "srcs": [
    "musthave",
    "youtube-refresh"
@@ -8355,165 +5253,21 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",
   "tvgId": "TyCSports.ar",
   "urls": [
+   "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
    "http://181.115.239.66:8000/play/a011/index.m3u8",
-   "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-   "http://138.59.227.20:8000/play/a06x/index.m3u8"
+   "http://138.59.227.20:8000/play/a06x/index.m3u8",
+   "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
-  "nstreams": 1,
+  "nstreams": 4,
   "geo": "likely",
-  "cdn": "",
+  "cdn": "vodgc.net",
   "srcs": [
    "musthave"
   ]
- },
- {
-  "name": "HBO Xtreme",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
-  "tvgId": "HBOXtreme.ar",
-  "urls": [
-   "http://190.60.37.118:4000/play/a03z"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
- },
- {
-  "name": "HBO Family",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
-  "tvgId": "HBOFamily.ar",
-  "urls": [
-   "http://181.205.130.194:4000/play/a0dr"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
- },
- {
-  "name": "Warner Channel",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "",
-  "tvgId": "WarnerChannel.ar",
-  "urls": [
-   "http://190.60.37.118:4000/play/a04g",
-   "http://181.205.130.194:4000/play/a07f"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 2,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
- },
- {
-  "name": "TNT",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "",
-  "tvgId": "TNT.ar",
-  "urls": [
-   "http://181.205.130.194:4000/play/a06n"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
- },
- {
-  "name": "Universal TV",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "",
-  "tvgId": "UniversalTV.ar",
-  "urls": [
-   "http://181.205.130.194:4000/play/a06f"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
- },
- {
-  "name": "TCM",
-  "cats": [
-   "cine"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "",
-  "tvgId": "TCM.ar",
-  "urls": [
-   "http://181.205.130.194:4000/play/a06l"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
  },
  {
   "name": "Cronica TV",
@@ -8534,36 +5288,11 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
-  "cdn": "",
+  "cdn": "lan",
   "srcs": [
    "musthave",
    "youtube-refresh"
   ]
- },
- {
-  "name": "ESPN Extra",
-  "cats": [
-   "argentina",
-   "futbol"
-  ],
-  "country": "ar",
-  "group": "Argentina",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-  "tvgId": "ESPNExtra.ar",
-  "urls": [
-   "http://190.61.43.117:45000/play/a01v"
-  ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
-  "geo": "likely",
-  "cdn": "",
-  "srcs": [
-   "musthave"
-  ],
-  "probe": "reachability-only"
  },
  {
   "name": "ESPN 7",
@@ -8576,21 +5305,20 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
   "tvgId": "ESPN7.ar",
   "urls": [
-   "http://191.97.49.82:8001/play/a00c/index.m3u8",
-   "http://209.61.12.77:9000/play/a09m/index.m3u8",
-   "http://190.60.37.118:4000/play/a09j"
+   "http://8.242.201.225:30035/play/2226/index.m3u8",
+   "http://181.78.8.199:8000/play/a0ki/index.m3u8",
+   "http://38.210.3.64:8090/play/a0e6/index.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
   "geo": "likely",
-  "cdn": "",
+  "cdn": "8.242.201.225",
   "srcs": [
    "musthave"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "Fox Sports 2",
@@ -8603,20 +5331,20 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",
   "tvgId": "FoxSports2.ar",
   "urls": [
-   "http://190.61.101.11:7050/play/a08v/index.m3u8",
-   "http://181.115.239.66:8000/play/a00p/index.m3u8"
+   "http://181.115.239.66:8000/play/a00p/index.m3u8",
+   "http://177.53.153.207:8000/play/a006/index.m3u8",
+   "http://138.59.227.20:8000/play/a09b/index.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
+  "w": 1280,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 3,
   "geo": "likely",
-  "cdn": "",
+  "cdn": "181.115.239.66",
   "srcs": [
    "musthave"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "C5N",
@@ -8631,17 +5359,16 @@
   "urls": [
    "http://192.168.100.53:8178/c5n.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
   "acodec": "",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "youtube",
+  "cdn": "lan",
   "srcs": [
    "youtube-refresh"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "Telefe Noticias",
@@ -8656,17 +5383,16 @@
   "urls": [
    "http://192.168.100.53:8178/telefe-noticias.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
   "acodec": "",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "youtube",
+  "cdn": "lan",
   "srcs": [
    "youtube-refresh"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "La Nacion+",
@@ -8681,17 +5407,16 @@
   "urls": [
    "http://192.168.100.53:8178/lnmas.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
   "acodec": "",
   "nstreams": 1,
   "geo": "unproven",
-  "cdn": "youtube",
+  "cdn": "lan",
   "srcs": [
    "youtube-refresh"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "DeporTV",
@@ -8704,19 +5429,19 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Deportv.svg",
   "tvgId": "DeporTV.ar",
   "urls": [
-   "http://138.59.227.20:8000/play/a07f/index.m3u8"
+   "http://138.59.227.20:8000/play/a07f/index.m3u8",
+   "http://177.53.153.207:8000/play/a00r/index.m3u8"
   ],
-  "w": 0,
-  "h": 0,
-  "vcodec": "",
-  "acodec": "",
-  "nstreams": 1,
+  "w": 720,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
   "geo": "likely",
-  "cdn": "",
+  "cdn": "138.59.227.20",
   "srcs": [
    "musthave"
-  ],
-  "probe": "reachability-only"
+  ]
  },
  {
   "name": "Agricultura TV",
@@ -8742,17 +5467,325 @@
   ]
  },
  {
-  "name": "ADN TV",
+  "name": "Canal 11 Aysén",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "",
+  "tvgId": "Canal11Aysen.cl",
+  "urls": [
+   "https://v2.tustreaming.cl/canal11aysen/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "tustreaming.cl",
+  "srcs": [
+   "m3u-cl",
+   "verified-manual"
+  ]
+ },
+ {
+  "name": "Canal 8 Mar del Plata",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "Canal8MarDelPlata.ar",
+  "urls": [
+   "https://canal8mdq.unpocodeawita.workers.dev"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "workers.dev",
+  "srcs": [
+   "dearbulut-ar",
+   "verified-manual"
+  ]
+ },
+ {
+  "name": "Mega Ficción",
+  "cats": [
+   "chile"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "https://i.imgur.com/aQdhJie.png",
+  "tvgId": "MegaFiccion.cl",
+  "urls": [
+   "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "15.204.196.147",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Studio Universal",
   "cats": [
    "chile",
+   "cine"
+  ],
+  "country": "cl",
+  "group": "Chile",
+  "logo": "",
+  "tvgId": "StudioUniversal.cl",
+  "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "45.184.109.10",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Space",
+  "cats": [
+   "argentina",
+   "cine"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+  "tvgId": "Space.ar",
+  "urls": [
+   "http://45.134.141.161:2200/ARG/Space_HD/index.m3u8",
+   "http://45.134.141.161:2200/ARG/Space_HD/tracks-v1a1/mono.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "45.134.141.161",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "TNT Novelas",
+  "cats": [],
+  "country": "co",
+  "group": "Colombia",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+  "tvgId": "TNTNovelas.co",
+  "urls": [
+   "http://158.172.155.130:8000/play/a0at/index.m3u8",
+   "http://190.93.224.42/TNT-NOVELAS/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "158.172.155.130",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "ESPN 2 (US)",
+  "cats": [
+   "usa",
+   "futbol"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/00tsvjE.png",
+  "tvgId": "ESPN2.us",
+  "urls": [
+   "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+   "http://4.30.180.36:8420/espn2/index.m3u8?token=test"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "85.237.89.160",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "ESPNU",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/HiBrysh.png",
+  "tvgId": "ESPNU.us",
+  "urls": [
+   "http://4.30.180.36:8420/espnu/index.m3u8?token=test",
+   "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "AMC (US)",
+  "cats": [
+   "usa",
+   "cine"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "",
+  "tvgId": "AMC.us",
+  "urls": [
+   "http://4.30.180.36:8420/amc/index.m3u8?token=test"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Lifetime",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+  "tvgId": "Lifetime.us",
+  "urls": [
+   "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Starz",
+  "cats": [
+   "usa",
+   "cine"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "",
+  "tvgId": "Starz.us",
+  "urls": [
+   "http://4.30.180.36:8420/starz/index.m3u8?token=test"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Comedy Central",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "",
+  "tvgId": "ComedyCentral.us",
+  "urls": [
+   "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "OWN",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",
+  "tvgId": "OWN.us",
+  "urls": [
+   "http://4.30.180.36:8420/own/index.m3u8?token=test"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "4.30.180.36",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "HLN",
+  "cats": [
+   "usa",
    "news"
   ],
-  "country": "cl",
-  "group": "Chile",
-  "logo": "https://i.imgur.com/AVfTwNw.png",
-  "tvgId": "ADNTV.cl",
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
+  "tvgId": "HLN.us",
   "urls": [
-   "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+   "http://4.30.180.36:8420/hln/index.m3u8?token=test"
   ],
   "w": 1920,
   "h": 1080,
@@ -8760,55 +5793,845 @@
   "acodec": "aac",
   "nstreams": 1,
   "geo": "global",
-  "cdn": "rudo.video",
+  "cdn": "4.30.180.36",
   "srcs": [
-   "verified-manual"
+   "fresh-leads-20261113"
   ]
  },
  {
-  "name": "13T",
+  "name": "VH1",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+  "tvgId": "VH1.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_VH1/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "23.237.104.106",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "VICE",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",
+  "tvgId": "VICETV.us",
+  "urls": [
+   "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
+   "https://live-manifest.production-public.tubi.io/live/3c0e97d2-21cc-49dd-a486-c268b0c2b93b/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "amagi.tv",
+  "srcs": [
+   "fresh-leads-20261120"
+  ]
+ },
+ {
+  "name": "Crime + Investigation",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+  "tvgId": "CrimePlusInvestigation.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "23.237.104.106",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "truTV",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",
+  "tvgId": "truTV.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_TRUTV/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "23.237.104.106",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "E!",
+  "cats": [
+   "usa"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/TWFDkap.png",
+  "tvgId": "E.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_E/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "23.237.104.106",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Bloomberg TV",
+  "cats": [
+   "usa",
+   "news"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://i.imgur.com/OuogLHx.png",
+  "tvgId": "BloombergTV.us",
+  "urls": [
+   "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "23.237.104.106",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Bloomberg Originals",
+  "cats": [
+   "usa",
+   "news"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "",
+  "tvgId": "BloombergOriginals.us",
+  "urls": [
+   "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "bloomberg.com",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "CNN Headlines",
+  "cats": [
+   "usa",
+   "news"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "",
+  "tvgId": "CNNHeadlines.us",
+  "urls": [
+   "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "cloudfront.net",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "CNN Originals",
+  "cats": [
+   "usa",
+   "news"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+  "tvgId": "CNNOriginals.us",
+  "urls": [
+   "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "amagi.tv",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "CNN en Español",
+  "cats": [
+   "usa",
+   "news"
+  ],
+  "country": "us",
+  "group": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+  "tvgId": "CNNenEspanol.us",
+  "urls": [
+   "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
+   "http://8.242.201.225:30035/play/cnnesp/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "amagi.tv",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Times Brasil CNBC",
+  "cats": [
+   "news"
+  ],
+  "country": "br",
+  "group": "Brasil",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
+  "tvgId": "TimesBrasil.br",
+  "urls": [
+   "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "leiniao.com",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Caracol Internacional",
+  "cats": [],
+  "country": "co",
+  "group": "Colombia",
+  "logo": "https://i.imgur.com/h7LWbt5.png",
+  "tvgId": "CaracolInternacional.co",
+  "urls": [
+   "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8",
+   "http://45.5.117.57:8200/play/a0e9/index.m3u8"
+  ],
+  "w": 720,
+  "h": 480,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "onnethn.com",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Las Estrellas",
+  "cats": [],
+  "country": "mx",
+  "group": "Mexico",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg",
+  "tvgId": "LasEstrellasLatinAmerica.mx",
+  "urls": [
+   "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "mp2",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Noovo Cinéma",
+  "cats": [
+   "canada",
+   "cine"
+  ],
+  "country": "ca",
+  "group": "Canada",
+  "logo": "",
+  "tvgId": "NoovoCinema.ca",
+  "urls": [
+   "https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "cloudfront.net",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Noovo Comédies",
+  "cats": [
+   "canada"
+  ],
+  "country": "ca",
+  "group": "Canada",
+  "logo": "",
+  "tvgId": "NoovoComedies.ca",
+  "urls": [
+   "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "cloudfront.net",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Noovo Téléréalités",
+  "cats": [
+   "canada"
+  ],
+  "country": "ca",
+  "group": "Canada",
+  "logo": "",
+  "tvgId": "NoovoTelerealites.ca",
+  "urls": [
+   "https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "cloudfront.net",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "ATV",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/eUzYZfg.png",
+  "tvgId": "ATV.pe",
+  "urls": [
+   "http://190.93.224.42/ATV/index.m3u8"
+  ],
+  "w": 1440,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "ATV Sur",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/LnyVa5H.png",
+  "tvgId": "ATVSur.pe",
+  "urls": [
+   "http://190.93.224.42/ATV-SUR/index.m3u8"
+  ],
+  "w": 1440,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "América Televisión",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+  "tvgId": "AmericaTelevision.pe",
+  "urls": [
+   "http://190.93.224.42/AMERICA-TV/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Global TV",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/yuEou9C.png",
+  "tvgId": "GlobalTV.pe",
+  "urls": [
+   "http://190.93.224.42/GLOBAL/index.m3u8",
+   "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 2,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Justicia TV",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/VOjLXJd.png",
+  "tvgId": "JusticiaTV.pe",
+  "urls": [
+   "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "La Tele",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+  "tvgId": "LaTele.pe",
+  "urls": [
+   "http://190.93.224.42/LA-TELE/index.m3u8"
+  ],
+  "w": 1440,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "PBO",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/vBpxX4S.png",
+  "tvgId": "PBO.pe",
+  "urls": [
+   "http://190.93.224.42/PBO/index.m3u8"
+  ],
+  "w": 1280,
+  "h": 720,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "RPP TV",
+  "cats": [
+   "news"
+  ],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/oBz3CgE.png",
+  "tvgId": "RPPTV.pe",
+  "urls": [
+   "http://190.93.224.42/RPP/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "TV Perú Noticias",
+  "cats": [
+   "news"
+  ],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+  "tvgId": "TVPeruNoticias.pe",
+  "urls": [
+   "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Trivu TV",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/QrUYjOS.png",
+  "tvgId": "Trivu.pe",
+  "urls": [
+   "http://190.93.224.42/TRIVU-TV/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Willax TV",
+  "cats": [],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.imgur.com/bZnDDPH.png",
+  "tvgId": "WillaxTV.pe",
+  "urls": [
+   "http://190.93.224.42/WILLAX/index.m3u8"
+  ],
+  "w": 1440,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Exitosa",
+  "cats": [
+   "news"
+  ],
+  "country": "pe",
+  "group": "Peru",
+  "logo": "https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg",
+  "tvgId": "ExitosaTV.pe",
+  "urls": [
+   "http://190.93.224.42/EXITOSA/index.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "190.93.224.42",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "5 Días TV",
+  "cats": [],
+  "country": "py",
+  "group": "Paraguay",
+  "logo": "https://i.imgur.com/AX25tmv.png",
+  "tvgId": "5DiasTV.py",
+  "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "45.184.109.10",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "ABC TV Paraguay",
+  "cats": [],
+  "country": "py",
+  "group": "Paraguay",
+  "logo": "https://i.imgur.com/OqfBMGy.png",
+  "tvgId": "ABCTVParaguay.py",
+  "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "45.184.109.10",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Trece Paraguay",
+  "cats": [],
+  "country": "py",
+  "group": "Paraguay",
+  "logo": "https://i.imgur.com/cgIv5QK.png",
+  "tvgId": "Trece.py",
+  "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "45.184.109.10",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "Unicanal",
+  "cats": [],
+  "country": "py",
+  "group": "Paraguay",
+  "logo": "https://i.imgur.com/cgTD2TW.png",
+  "tvgId": "Unicanal.py",
+  "urls": [
+   "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "global",
+  "cdn": "45.184.109.10",
+  "srcs": [
+   "fresh-leads-20261113"
+  ]
+ },
+ {
+  "name": "UTV",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/csBNi2L.png",
-  "tvgId": "13T.cl",
+  "logo": "",
+  "tvgId": "UTV.cl",
   "urls": [
-   "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+   "https://v2.tustreaming.cl/utv/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "global",
-  "cdn": "dpsgo.com",
+  "geo": "unproven",
+  "cdn": "tustreaming.cl",
   "srcs": [
-   "verified-manual"
+   "iptvorg-cl",
+   "verified-20261120"
   ]
  },
  {
-  "name": "Canal 2 Quellon",
+  "name": "Iquique TV",
   "cats": [
    "chile"
   ],
   "country": "cl",
   "group": "Chile",
-  "logo": "https://i.imgur.com/MOwLCwT.png",
-  "tvgId": "Canal2Quellon.cl",
+  "logo": "",
+  "tvgId": "IquiqueTV.cl",
   "urls": [
-   "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8"
+   "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8"
   ],
   "w": 1920,
   "h": 1080,
   "vcodec": "h264",
   "acodec": "aac",
   "nstreams": 1,
-  "geo": "global",
+  "geo": "unproven",
+  "cdn": "skarnetchile.com",
+  "srcs": [
+   "iptvorg-cl",
+   "verified-20261120"
+  ]
+ },
+ {
+  "name": "Telefe Tucumán",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "TelefeTucuman.ar",
+  "urls": [
+   "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "edge-access.net",
+  "srcs": [
+   "iptvorg-ar",
+   "verified-20261120"
+  ]
+ },
+ {
+  "name": "Caras TV",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "CarasTV.ar",
+  "urls": [
+   "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
   "cdn": "dps.live",
   "srcs": [
-   "verified-manual"
+   "iptvorg-ar",
+   "verified-20261120"
+  ]
+ },
+ {
+  "name": "Canal 3 La Pampa",
+  "cats": [
+   "argentina"
+  ],
+  "country": "ar",
+  "group": "Argentina",
+  "logo": "",
+  "tvgId": "Canal3LaPampa.ar",
+  "urls": [
+   "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+  ],
+  "w": 1920,
+  "h": 1080,
+  "vcodec": "h264",
+  "acodec": "aac",
+  "nstreams": 1,
+  "geo": "unproven",
+  "cdn": "arcast.com.ar",
+  "srcs": [
+   "iptvorg-ar",
+   "verified-20261120"
   ]
  }
 ]

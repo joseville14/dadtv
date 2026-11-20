@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-20T14:07:18-03:00",
+  "builtAt": "2026-11-20T16:06:20-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 1",
@@ -16,7 +16,8 @@
     "mex.1": "ok 1",
     "usa.1": "ok 0",
     "uru.1": "ok 3",
-    "bra.1": "ok 0"
+    "bra.1": "ok 0",
+    "nhl": "ok 0"
   },
   "matches": [
     {
