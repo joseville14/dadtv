@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-19T20:06:37-03:00",
+  "builtAt": "2026-11-19T22:06:31-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -61,7 +61,7 @@
       "kickoff": "2026-11-19T19:30:00-03:00",
       "kickoffMs": 1795127400000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -74,7 +74,7 @@
       "kickoff": "2026-11-19T19:30:00-03:00",
       "kickoffMs": 1795127400000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -96,7 +96,7 @@
       "kickoff": "2026-11-19T21:30:00-03:00",
       "kickoffMs": 1795134600000,
       "time": "21:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841309",
@@ -107,7 +107,7 @@
       "kickoff": "2026-11-19T21:30:00-03:00",
       "kickoffMs": 1795134600000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
