@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-20T20:07:18-03:00",
+  "builtAt": "2026-11-20T22:06:18-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 1",
@@ -120,7 +120,7 @@
       "kickoff": "2026-11-20T20:30:00-03:00",
       "kickoffMs": 1795217400000,
       "time": "20:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSportsPremium.cl",
       "bind": "epg"
     },
@@ -133,7 +133,7 @@
       "kickoff": "2026-11-20T22:00:00-03:00",
       "kickoffMs": 1795222800000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
