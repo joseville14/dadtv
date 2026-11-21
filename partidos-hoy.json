@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-21T12:06:22-03:00",
+  "builtAt": "2026-11-21T14:06:39-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 2",
@@ -55,7 +55,7 @@
       "kickoff": "2026-11-21T11:00:00-03:00",
       "kickoffMs": 1795269600000,
       "time": "11:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -71,7 +71,7 @@
       "kickoff": "2026-11-21T11:00:00-03:00",
       "kickoffMs": 1795269600000,
       "time": "11:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportCalcio.it",
         "DAZN1.it"
@@ -87,7 +87,7 @@
       "kickoff": "2026-11-21T11:30:00-03:00",
       "kickoffMs": 1795271400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -106,7 +106,7 @@
       "kickoff": "2026-11-21T11:30:00-03:00",
       "kickoffMs": 1795271400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -125,7 +125,7 @@
       "kickoff": "2026-11-21T11:30:00-03:00",
       "kickoffMs": 1795271400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -144,7 +144,7 @@
       "kickoff": "2026-11-21T11:30:00-03:00",
       "kickoffMs": 1795271400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -163,7 +163,7 @@
       "kickoff": "2026-11-21T11:30:00-03:00",
       "kickoffMs": 1795271400000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -182,12 +182,9 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
-      "maybe": [
-        "TNTSportsPremium.cl",
-        "TNTSports.cl"
-      ],
-      "bind": "guess"
+      "status": "post",
+      "tvgId": "TNTSportsPremium.cl",
+      "bind": "epg"
     },
     {
       "id": "401879238",
@@ -198,7 +195,7 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportsPremierLeague.uk",
         "ESPN.cl",
@@ -216,7 +213,7 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -229,7 +226,7 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -242,7 +239,7 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -255,7 +252,7 @@
       "kickoff": "2026-11-21T12:00:00-03:00",
       "kickoffMs": 1795273200000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SkySportsPremierLeague.uk",
         "ESPN.cl",
@@ -273,7 +270,7 @@
       "kickoff": "2026-11-21T12:15:00-03:00",
       "kickoffMs": 1795274100000,
       "time": "12:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DIRECTVSports2.cl",
       "bind": "epg"
     },
@@ -286,7 +283,7 @@
       "kickoff": "2026-11-21T14:00:00-03:00",
       "kickoffMs": 1795280400000,
       "time": "14:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -382,16 +379,8 @@
       "kickoffMs": 1795289400000,
       "time": "16:30",
       "status": "pre",
-      "maybe": [
-        "SporTV.br",
-        "SporTV2.br",
-        "SporTV3.br",
-        "BandSports.br",
-        "ESPN.br",
-        "ESPN2.br",
-        "ESPN4.br"
-      ],
-      "bind": "guess"
+      "tvgId": "WinSportsPlus.co",
+      "bind": "epg"
     },
     {
       "id": "401875067",
