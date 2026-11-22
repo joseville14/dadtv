@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-22T02:06:18-03:00",
+  "builtAt": "2026-11-22T04:06:35-03:00",
   "leagues": {
     "chi.1": "ok 3",
     "arg.1": "ok 3",
@@ -127,8 +127,11 @@
       "kickoffMs": 1795360500000,
       "time": "12:15",
       "status": "pre",
-      "tvgId": "ESPNDeportes.us",
-      "bind": "epg"
+      "maybe": [
+        "DAZNLaLiga.es",
+        "GolPlay.es"
+      ],
+      "bind": "guess"
     },
     {
       "id": "401878755",
@@ -296,7 +299,9 @@
       "kickoff": "2026-11-22T18:00:00-03:00",
       "kickoffMs": 1795381200000,
       "time": "18:00",
-      "status": "pre"
+      "status": "pre",
+      "tvgId": "FoxDeportes.us",
+      "bind": "epg"
     },
     {
       "id": "401841324",
