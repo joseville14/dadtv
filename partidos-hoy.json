@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-23T16:06:39-03:00",
+  "builtAt": "2026-11-23T18:07:19-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -29,7 +29,7 @@
       "kickoff": "2026-11-23T16:30:00-03:00",
       "kickoffMs": 1795462200000,
       "time": "16:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401875009",
@@ -40,7 +40,7 @@
       "kickoff": "2026-11-23T16:45:00-03:00",
       "kickoffMs": 1795463100000,
       "time": "16:45",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportCalcio.it",
       "bind": "epg"
     },
@@ -53,7 +53,7 @@
       "kickoff": "2026-11-23T17:00:00-03:00",
       "kickoffMs": 1795464000000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -66,7 +66,7 @@
       "kickoff": "2026-11-23T17:00:00-03:00",
       "kickoffMs": 1795464000000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -79,7 +79,7 @@
       "kickoff": "2026-11-23T17:00:00-03:00",
       "kickoffMs": 1795464000000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "DIRECTVSports2.cl",
       "bind": "epg"
     },
