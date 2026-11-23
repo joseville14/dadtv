@@ -133,7 +133,6 @@
       "name": "ESPN Premium Chile",
       "tvgId": "ESPNPremium.cl",
       "urls": [
-        "http://158.172.155.130:8000/play/a0ao/index.m3u8",
         "http://186.148.196.250:81/play/a0cx/index.m3u8",
         "http://190.108.83.69:8000/play/a03w/index.m3u8",
         "http://38.210.3.64:8090/play/a0ke/index.m3u8",
