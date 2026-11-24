@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-23T20:07:37-03:00",
+  "builtAt": "2026-11-23T22:06:52-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -92,7 +92,7 @@
       "kickoff": "2026-11-23T19:30:00-03:00",
       "kickoffMs": 1795473000000,
       "time": "19:30",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401841323",
@@ -103,7 +103,7 @@
       "kickoff": "2026-11-23T19:30:00-03:00",
       "kickoffMs": 1795473000000,
       "time": "19:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -124,7 +124,7 @@
       "kickoff": "2026-11-23T20:00:00-03:00",
       "kickoffMs": 1795474800000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -145,7 +145,7 @@
       "kickoff": "2026-11-23T21:00:00-03:00",
       "kickoffMs": 1795478400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -158,7 +158,7 @@
       "kickoff": "2026-11-23T21:00:00-03:00",
       "kickoffMs": 1795478400000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -177,7 +177,7 @@
       "kickoff": "2026-11-23T21:30:00-03:00",
       "kickoffMs": 1795480200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -196,7 +196,7 @@
       "kickoff": "2026-11-23T21:30:00-03:00",
       "kickoffMs": 1795480200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SportsnetWest.ca",
       "bind": "epg"
     },
@@ -209,7 +209,7 @@
       "kickoff": "2026-11-23T21:30:00-03:00",
       "kickoffMs": 1795480200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -228,7 +228,7 @@
       "kickoff": "2026-11-23T21:30:00-03:00",
       "kickoffMs": 1795480200000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -244,9 +244,9 @@
       "league": "MLS",
       "home": "St. Louis CITY SC",
       "away": "LAFC",
-      "kickoff": "2026-11-23T22:00:00-03:00",
-      "kickoffMs": 1795482000000,
-      "time": "22:00",
+      "kickoff": "2026-11-23T22:15:00-03:00",
+      "kickoffMs": 1795482900000,
+      "time": "22:15",
       "status": "pre"
     },
     {
