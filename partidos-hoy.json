@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-24T16:07:18-03:00",
+  "builtAt": "2026-11-24T18:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -29,7 +29,7 @@
       "kickoff": "2026-11-24T14:45:00-03:00",
       "kickoffMs": 1795542300000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -42,7 +42,7 @@
       "kickoff": "2026-11-24T14:45:00-03:00",
       "kickoffMs": 1795542300000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.ar",
       "bind": "epg"
     },
@@ -55,7 +55,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -68,7 +68,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915294",
@@ -79,7 +79,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports2.ar",
       "bind": "epg"
     },
@@ -92,7 +92,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -105,7 +105,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915298",
@@ -116,7 +116,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN5.cl",
       "bind": "epg"
     },
@@ -129,7 +129,7 @@
       "kickoff": "2026-11-24T17:00:00-03:00",
       "kickoffMs": 1795550400000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar",
       "bind": "epg"
     },
@@ -142,7 +142,7 @@
       "kickoff": "2026-11-24T18:00:00-03:00",
       "kickoffMs": 1795554000000,
       "time": "18:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "WinSportsPlus.co",
       "bind": "epg"
     },
