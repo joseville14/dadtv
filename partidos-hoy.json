@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-25T18:06:20-03:00",
+  "builtAt": "2026-11-25T20:07:22-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -55,7 +55,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -68,7 +68,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -81,7 +81,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915377",
@@ -92,7 +92,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -105,7 +105,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.cl",
       "bind": "epg"
     },
@@ -118,7 +118,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -131,7 +131,7 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports2.ar",
       "bind": "epg"
     },
@@ -144,7 +144,7 @@
       "kickoff": "2026-11-25T20:00:00-03:00",
       "kickoffMs": 1795647600000,
       "time": "20:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
