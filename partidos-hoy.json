@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-25T12:06:27-03:00",
+  "builtAt": "2026-11-25T14:06:39-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -68,7 +68,9 @@
       "kickoff": "2026-11-25T17:00:00-03:00",
       "kickoffMs": 1795636800000,
       "time": "17:00",
-      "status": "pre"
+      "status": "pre",
+      "tvgId": "ESPN.cl",
+      "bind": "epg"
     },
     {
       "id": "401915376",
