@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-26T16:06:36-03:00",
+  "builtAt": "2026-11-26T18:06:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -29,7 +29,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915519",
@@ -40,7 +40,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN4.ar",
       "bind": "epg"
     },
@@ -53,7 +53,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN3.ar",
       "bind": "epg"
     },
@@ -66,7 +66,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "FoxSports.mx",
       "bind": "epg"
     },
@@ -79,7 +79,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -92,7 +92,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -105,7 +105,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in"
+      "status": "post"
     },
     {
       "id": "401915518",
@@ -116,7 +116,7 @@
       "kickoff": "2026-11-26T14:45:00-03:00",
       "kickoffMs": 1795715100000,
       "time": "14:45",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.ar",
       "bind": "epg"
     },
@@ -129,7 +129,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -142,7 +142,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915502",
@@ -153,7 +153,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN7.ar",
       "bind": "epg"
     },
@@ -166,7 +166,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915505",
@@ -177,7 +177,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "FoxSports2.mx",
       "bind": "epg"
     },
@@ -190,7 +190,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915514",
@@ -201,7 +201,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915513",
@@ -212,7 +212,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN4.ar",
       "bind": "epg"
     },
@@ -225,7 +225,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401915515",
@@ -236,7 +236,7 @@
       "kickoff": "2026-11-26T17:00:00-03:00",
       "kickoffMs": 1795723200000,
       "time": "17:00",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401841329",
