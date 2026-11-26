@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-25T20:07:22-03:00",
+  "builtAt": "2026-11-25T22:07:21-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 1",
@@ -144,7 +144,7 @@
       "kickoff": "2026-11-25T20:00:00-03:00",
       "kickoffMs": 1795647600000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SporTV.br",
         "SporTV2.br",
@@ -165,7 +165,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "TNTSports.ar",
       "bind": "epg"
     },
@@ -178,7 +178,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -197,7 +197,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -216,7 +216,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -235,7 +235,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -254,7 +254,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -273,7 +273,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SportsnetWest.ca",
       "bind": "epg"
     },
@@ -286,7 +286,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -305,7 +305,7 @@
       "kickoff": "2026-11-25T21:00:00-03:00",
       "kickoffMs": 1795651200000,
       "time": "21:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -324,7 +324,7 @@
       "kickoff": "2026-11-25T21:30:00-03:00",
       "kickoffMs": 1795653000000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -343,7 +343,7 @@
       "kickoff": "2026-11-25T22:00:00-03:00",
       "kickoffMs": 1795654800000,
       "time": "22:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "TUDN.mx",
         "ClaroSports.mx"
