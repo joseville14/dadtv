@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-27T14:06:18-03:00",
+  "builtAt": "2026-11-27T16:07:18-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -29,7 +29,7 @@
       "kickoff": "2026-11-27T15:00:00-03:00",
       "kickoffMs": 1795802400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.br",
       "bind": "epg"
     },
@@ -42,7 +42,7 @@
       "kickoff": "2026-11-27T15:00:00-03:00",
       "kickoffMs": 1795802400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SportsnetWest.ca",
       "bind": "epg"
     },
@@ -55,7 +55,7 @@
       "kickoff": "2026-11-27T15:00:00-03:00",
       "kickoffMs": 1795802400000,
       "time": "15:00",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
