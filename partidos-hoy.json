@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-27T04:06:16-03:00",
+  "builtAt": "2026-11-27T06:06:12-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -139,11 +139,8 @@
       "kickoffMs": 1795809600000,
       "time": "17:00",
       "status": "pre",
-      "maybe": [
-        "DAZNLaLiga.es",
-        "GolPlay.es"
-      ],
-      "bind": "guess"
+      "tvgId": "ESPNDeportes.us",
+      "bind": "epg"
     },
     {
       "id": "401892799",
