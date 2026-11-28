@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-28T12:07:22-03:00",
+  "builtAt": "2026-11-28T14:06:21-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 2",
@@ -42,7 +42,7 @@
       "kickoff": "2026-11-28T11:00:00-03:00",
       "kickoffMs": 1795874400000,
       "time": "11:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.ar",
       "bind": "epg"
     },
@@ -55,7 +55,7 @@
       "kickoff": "2026-11-28T11:30:00-03:00",
       "kickoffMs": 1795876200000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -74,7 +74,7 @@
       "kickoff": "2026-11-28T11:30:00-03:00",
       "kickoffMs": 1795876200000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
@@ -87,7 +87,7 @@
       "kickoff": "2026-11-28T11:30:00-03:00",
       "kickoffMs": 1795876200000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -106,7 +106,7 @@
       "kickoff": "2026-11-28T11:30:00-03:00",
       "kickoffMs": 1795876200000,
       "time": "11:30",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "ESPNPremium.cl",
         "ESPN.cl",
@@ -125,7 +125,7 @@
       "kickoff": "2026-11-28T12:00:00-03:00",
       "kickoffMs": 1795878000000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.br",
       "bind": "epg"
     },
@@ -138,7 +138,7 @@
       "kickoff": "2026-11-28T12:00:00-03:00",
       "kickoffMs": 1795878000000,
       "time": "12:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN.cl",
       "bind": "epg"
     },
@@ -151,7 +151,7 @@
       "kickoff": "2026-11-28T12:15:00-03:00",
       "kickoffMs": 1795878900000,
       "time": "12:15",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -164,7 +164,7 @@
       "kickoff": "2026-11-28T14:00:00-03:00",
       "kickoffMs": 1795885200000,
       "time": "14:00",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPN2.br",
       "bind": "epg"
     },
