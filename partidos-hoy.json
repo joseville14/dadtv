@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-28T14:06:21-03:00",
+  "builtAt": "2026-11-28T16:06:20-03:00",
   "leagues": {
     "chi.1": "ok 2",
     "arg.1": "ok 2",
@@ -151,7 +151,7 @@
       "kickoff": "2026-11-28T12:15:00-03:00",
       "kickoffMs": 1795878900000,
       "time": "12:15",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -164,7 +164,7 @@
       "kickoff": "2026-11-28T14:00:00-03:00",
       "kickoffMs": 1795885200000,
       "time": "14:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "ESPN2.br",
       "bind": "epg"
     },
@@ -177,7 +177,7 @@
       "kickoff": "2026-11-28T14:30:00-03:00",
       "kickoffMs": 1795887000000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "SkySportsPremierLeague.uk",
       "bind": "epg"
     },
@@ -190,7 +190,7 @@
       "kickoff": "2026-11-28T14:30:00-03:00",
       "kickoffMs": 1795887000000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNDeportes.us",
       "bind": "epg"
     },
@@ -203,7 +203,7 @@
       "kickoff": "2026-11-28T14:30:00-03:00",
       "kickoffMs": 1795887000000,
       "time": "14:30",
-      "status": "pre",
+      "status": "in",
       "tvgId": "ESPNPremium.cl",
       "bind": "epg"
     },
@@ -216,7 +216,7 @@
       "kickoff": "2026-11-28T14:30:00-03:00",
       "kickoffMs": 1795887000000,
       "time": "14:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401933724",
