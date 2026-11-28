@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "tz": "America/Santiago",
-  "builtAt": "2026-11-27T20:06:16-03:00",
+  "builtAt": "2026-11-27T22:06:17-03:00",
   "leagues": {
     "chi.1": "ok 0",
     "arg.1": "ok 0",
@@ -227,7 +227,7 @@
       "kickoff": "2026-11-27T18:00:00-03:00",
       "kickoffMs": 1795813200000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -246,7 +246,7 @@
       "kickoff": "2026-11-27T18:00:00-03:00",
       "kickoffMs": 1795813200000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -265,7 +265,7 @@
       "kickoff": "2026-11-27T18:00:00-03:00",
       "kickoffMs": 1795813200000,
       "time": "18:00",
-      "status": "in",
+      "status": "post",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
@@ -303,7 +303,7 @@
       "kickoff": "2026-11-27T20:00:00-03:00",
       "kickoffMs": 1795820400000,
       "time": "20:00",
-      "status": "in",
+      "status": "post",
       "tvgId": "SporTV.br",
       "bind": "epg"
     },
@@ -316,7 +316,7 @@
       "kickoff": "2026-11-27T20:30:00-03:00",
       "kickoffMs": 1795822200000,
       "time": "20:30",
-      "status": "pre"
+      "status": "in"
     },
     {
       "id": "401892807",
@@ -327,7 +327,7 @@
       "kickoff": "2026-11-27T21:30:00-03:00",
       "kickoffMs": 1795825800000,
       "time": "21:30",
-      "status": "pre",
+      "status": "in",
       "maybe": [
         "SportsnetWest.ca",
         "Sportsnet.ca",
